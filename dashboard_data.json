@@ -1,0 +1,334 @@
+{
+  "generated": "2026-05-29T12:02:24.228271",
+  "date_label": "Friday 29 May 2026",
+  "filter_days": 7,
+  "summary": {
+    "total_stories": 53,
+    "muthu_mentions": 0,
+    "competitor_changes": 9,
+    "new_routes": 9,
+    "events": 2,
+    "weather_alerts": 1
+  },
+  "currency": [
+    {
+      "pair": "GBP / EUR",
+      "val": "1.154",
+      "delta": "live",
+      "dir": "flat"
+    },
+    {
+      "pair": "GBP / USD",
+      "val": "1.340",
+      "delta": "live",
+      "dir": "flat"
+    },
+    {
+      "pair": "EUR / KES",
+      "val": "0.0",
+      "delta": "live",
+      "dir": "flat"
+    }
+  ],
+  "trends": [
+    {
+      "dest": "Algarve holidays",
+      "articles_24h": 5,
+      "bar": 60
+    },
+    {
+      "dest": "Tenerife all-inclusive",
+      "articles_24h": 1,
+      "bar": 12
+    },
+    {
+      "dest": "Kenya safari",
+      "articles_24h": 3,
+      "bar": 36
+    },
+    {
+      "dest": "Scotland Highlands hotel",
+      "articles_24h": 0,
+      "bar": 0
+    },
+    {
+      "dest": "Cuba holidays",
+      "articles_24h": 1,
+      "bar": 12
+    },
+    {
+      "dest": "Jamaica all-inclusive",
+      "articles_24h": 4,
+      "bar": 48
+    }
+  ],
+  "muthu": [],
+  "industry": [
+    {
+      "title": "India’s Luxury Hotels Are Finding a New Anchor, and It’s Not Foreign Tourists",
+      "link": "https://skift.com/2026/05/29/indias-luxury-hotels-are-finding-a-new-anchor-and-its-not-foreign-tourists/",
+      "source": "Skift",
+      "age": "47m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Inside Guatemala’s Plan to Be Central America’s Next Long-Haul Destination",
+      "link": "https://skift.com/2026/05/29/inside-guatemalas-plan-to-be-central-americas-next-long-haul-destination/",
+      "source": "Skift",
+      "age": "1h ago",
+      "dot": "info"
+    },
+    {
+      "title": "‘Empty Calories’: Hyatt Tells Investors to Stop Counting Rooms",
+      "link": "https://skift.com/2026/05/28/empty-calories-hyatt-tells-investors-to-stop-counting-rooms/",
+      "source": "Skift",
+      "age": "15h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Southwest Moves Toward Latest Reinvention: Long-Haul International and Lounges",
+      "link": "https://skift.com/2026/05/28/southwest-moves-toward-latest-reinvention-long-haul-and-lounges/",
+      "source": "Skift",
+      "age": "16h ago",
+      "dot": "info"
+    },
+    {
+      "title": "The AI Decisions Hotel CEOs Are Signing Right Now Will Look Like Fax Machines by 2029",
+      "link": "https://skift.com/2026/05/28/hotel-ai-fax-machines-2029-adam-harris/",
+      "source": "Skift",
+      "age": "20h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Travel’s Top AI Operators",
+      "link": "https://skift.com/2026/05/28/travels-top-ai-operators/",
+      "source": "Skift",
+      "age": "21h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Caesars Agrees to $5.7 Billion Takeover by Tilman Fertitta",
+      "link": "https://skift.com/2026/05/28/caesars-agrees-to-5-7-billion-takeover-by-tilman-fertitta/",
+      "source": "Skift",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "United CEO Slams ‘Idiotic’ Theory He Used American Bid as Cover for Smaller Deal",
+      "link": "https://skift.com/2026/05/28/united-ceo-slams-idiotic-theory-he-used-american-bid-as-cover-for-smaller-deal/",
+      "source": "Skift",
+      "age": "yesterday",
+      "dot": "info"
+    }
+  ],
+  "competitors": [
+    {
+      "title": "Pestana — More special offers to discover",
+      "source": "Pestana",
+      "link": "https://www.pestana.com/en/promotions",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Iberostar — You can find your IHG One Rewards information here",
+      "source": "Iberostar",
+      "link": "https://www.iberostar.com/en/offers/",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Iberostar — IHG One Rewards",
+      "source": "Iberostar",
+      "link": "https://www.iberostar.com/en/offers/",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Iberostar — Enjoy your holidays with the best Iberostar hotel deals",
+      "source": "Iberostar",
+      "link": "https://www.iberostar.com/en/offers/",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Iberostar — Find your beach hotel deals with Iberostar",
+      "source": "Iberostar",
+      "link": "https://www.iberostar.com/en/offers/",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Iberostar — The best deals for seafront hotels in Europe",
+      "source": "Iberostar",
+      "link": "https://www.iberostar.com/en/offers/",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Iberostar — The best beaches for a Caribbean holiday",
+      "source": "Iberostar",
+      "link": "https://www.iberostar.com/en/offers/",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Iberostar — Important information",
+      "source": "Iberostar",
+      "link": "https://www.iberostar.com/en/offers/",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Iberostar — Exclusive advantages when booking on iberostar.com",
+      "source": "Iberostar",
+      "link": "https://www.iberostar.com/en/offers/",
+      "dot": "new",
+      "age": "today"
+    }
+  ],
+  "tourism": [
+    {
+      "title": "Scotland’s Explosive Outlander Tourism Boom Ignites As Caledonian Sleeper Unleashes Epic Highland Fantasy Rail Experience - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFNkFkVWtqRjJQOVk1eG9jV0xwem9YeU1Ualh3VGxaWTZPUXJvcnF4LWc1THg1NU9OMFRYNUhjS0NUVjBZOUZ4Qkh2eDl6U0lJNzBOZGJlYVZxLXBzMExfX1NOLXVIOGpUN2NGdkJR?oc=5",
+      "source": "Google News",
+      "age": "19h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Night train to the Highlands embraces the Outlander effect - The Scotsman",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOW9oamVuOWhaSnloalZUTGJtN2FhMHAySUlleEduWG54NTlyMW5DaU1IdjFrSnZaVVQtV1dBTVVXb18zSUZ0NlhnRDlYb2RGcmREdzFUTW5NOUtYalN6cTkxaWNzajltV1JBelN0Z204aE9MU3lXRk11cmhKNlNPYS0yclA5c2txZzN4aUZRVzBfVlF6T2ExOWRjOEk?oc=5",
+      "source": "Google News",
+      "age": "20h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Ireland and Scotland Travel Market Soars as Aer Lingus Regional Launches New Dublin to Inverness Flights, Unlocking Faster Access to the Scottish Highlands and North America - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTcVRHaHBLOVpHSHAxV0l0YTRTV1gwUjN1WVNNNTdLMUZGNFBWNTF4SEh5RnN4V2Z3RzZEVVZRWlpPUmNDdlc3cnZsSko2aDdmRXBWaTRsMG9FNXhGZm02NEE4bEl4cFc0dnNxeV9R?oc=5",
+      "source": "Google News",
+      "age": "26 May",
+      "dot": "info"
+    },
+    {
+      "title": "Highlands dark skies plan could boost night-time tourism economy - newstartmag.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUEdqN0lQZ2otUy1WaGZhR2dnWlNoYVNKcDdUamI1cElYWEZ0d0p5aE5UOFpVMlIyNm9aXzVrcHktWEl2cGpybERZeFFEd0FXU3JBSjlLc2hkVlpScFVFVEh1T0xucFRRWFRDak5jXzNHOUZSSXRGeWlSY0sxNHllSTdvb245b0xzZ0FTM0NfT3NyR3BnekFoeVN1N2xFRnVPU1E?oc=5",
+      "source": "Google News",
+      "age": "22h ago",
+      "dot": "info"
+    },
+    {
+      "title": "The Eastern Front: How Uganda, Kenya, and Tanzania are Unifying Safari Networks to Defy Global Travel Disruptions - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBscUJ4QS12MDVhR1UwdXZBMmczTEZkdl9kaWszRW9KNnlfSUFMZzJCRVpzb2I0cHV1aHdjN250N2pRUnQzN0dfY21hOVJjSk9LT2FhRl9NMmNlYl82UmtON3dBTUJUZnVmY2ttZzhR?oc=5",
+      "source": "Google News",
+      "age": "4h ago",
+      "dot": "info"
+    },
+    {
+      "title": "How Kenya Is Winning Both Budget and Luxury Safari Travelers This Year - FTN news",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWVuSUl4a01SWE1heWRxMDRYQllvWTRzY2VzZC1Ld2FRc0RCcml6ME1nV3lHMTZ1Y0V5dHN3S0hPdmZURDlMWVRfQ2pCeUFQTFFHQkc2TWtDRWkwVFlxa05EY3ZqYjVvVjJzaVdISTBzMERfTzlrSUg3dE1KamtWU01GaXg4U0ExN2gwelpaWDM5aW5Gb0l0eWVpTFpmbTBwQnlFbERmZXNfNEIxN1E?oc=5",
+      "source": "Google News",
+      "age": "24 May",
+      "dot": "info"
+    },
+    {
+      "title": "Kenya Emerges as New Global Fashion Supply King: 2026 Exports Surge, US, UK, Germany, China & India Buyers Flock to Africa’s Fastest‑Growing Apparel Hub - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16TVlGbEVnNkVBTS1PZUNFUXB4S1Rra256TE5xZGxUQkRXSklTN1JXeUxNNHV5aUdJRk1OeWNzSHpfalFMU3BpQzlmelEtcDJnUGNlUExmRHdhX0dzeDVHMWVYTjM3azNxLW81NE9R?oc=5",
+      "source": "Google News",
+      "age": "6h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Cuba Tourism Crisis Spirals Under Crushing U.S. Pressure Empty Beaches Deserted Resorts and Flight Cuts Shake Caribbean Economy: Everything You Need to Know - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMcEFldElaNV8zQWhMZ1QtOVFYdEh4emZxVWtoeGlWQ3VHeWxqTi10ejc0RHNBdS0xQ19ZQzRNSkVqSFlhMVZTc1FTT0xQQURIT3lkUm1VLTEzYmxFczA1NzlDdVBiTExKX2dLQUd3?oc=5",
+      "source": "Google News",
+      "age": "11h ago",
+      "dot": "info"
+    }
+  ],
+  "airline": [
+    {
+      "title": "Passengers arriving at Faro Airport this morning are facing lengthy passport queues - The Portugal News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSzFqRDdEcDVBcC00cFVJMkIyQ21FT1VFLWp0N3pYQk9YVGdXUnBlXzExcFIxZkh4MnprV1FaN1hxa2tEX0RCcnJMbXRSNzhONTBtNW1KZ1FpeXNTRzVOamNnRVp0RnZDMTlza2hBUE5YeWpxcnNQQkJ1ODZyUVNDUUNMZDRsRC1SeVdIVWNuY012Wm1WcFRKbjZxa29jektscEVTeUNBUlRfMU1LNFF5VFJScHZVNkxVVUp3UkFnS2Rjdkp3RDh5SjJxSG5leG9ZN2EwSmh3?oc=5",
+      "source": "Google News",
+      "age": "25 May",
+      "dot": "info"
+    },
+    {
+      "title": "Portugal Airport Strike June 3, 2026: Flights Canceled, Airlines Affected, and What to Do - Wego Travel Blog",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lM05LdkF2NzZYb1NPNHFXbFNhVzBiaUhPeU5QMU56UERlSzNCNjFZMWJSaHdNeHRHOUJ5cWxReDVyOFA5Szc4ell0TGtHdTVBZjNWV3lBaEJTbG5iRzBmTi14aER2TWc?oc=5",
+      "source": "Google News",
+      "age": "26 May",
+      "dot": "info"
+    },
+    {
+      "title": "Portugal on the Brink of Travel Chaos as Nationwide General Strike Set to Paralyse Flights, Trains, Metros, and Buses Across Lisbon, Porto, Algarve, and Major Tourist Hubs on 3 June 2026 - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZM0dHcjhDUXV3WXlmMkp0cFh0OEhmWGVwZnpoZTFGQTlGNHd1Z2tHeVVGNkZRT3AxQjZNd3hqdTVVUVE1WUxPX0lERFRvZGMtckhRczNBRlZCUUdTaF92OUdRem5lM3VnTnRNb1ZR?oc=5",
+      "source": "Google News",
+      "age": "23 May",
+      "dot": "info"
+    },
+    {
+      "title": "Faro Airport Departures this morning - The Portugal News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblNHNlZOZ1BrLWNuVnhUMk9VZnlWX1lxeFZOd3AzRlg3OGtJM3Z2RDlrZDUzbTVnOWFQRTJhRkdUUVVHdkY5dlRlc0xlVkhDbnJncDEyWVVVUzQ3NlRuODlvdkZMZjFrMmZjOEs0TGRleHdndjlhRXVSQnhvRjdiaWlRTGdKRVpzRDNxN0I3M0k2bko4Mldn?oc=5",
+      "source": "Google News",
+      "age": "26 May",
+      "dot": "info"
+    },
+    {
+      "title": "Scotland's airports fly high on back of big flight wins - The Herald",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUVwVWYza0VKbFhObnE1eEx0WXR6MExQWGRxNnpCZFJiYlFwOEtxQ2YxczlzXzNmUnhIUWVLNkloV0N2SjF2ejgzM09YMm9iX1RpRXl3c04ya1otSkc5Y1JiTmhxeTFSRWRSWkEyQzNmRk01d21qT0R0dU5mRUtsNEdWb2tqb3JhVDI0X2FhXzN2djZNbk5OOFZJMnNRbXVzWFVvdXEzVXZmejA?oc=5",
+      "source": "Google News",
+      "age": "8h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Take-off for restored Aer Lingus air link between Inverness and Dublin - Northern Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGQtdm9zeHpQeVBTU25nN0dqa0ZBWWZ6dkJIOUtNWmRmdjlMcEx1OWJwdlRpNlVyRGJWMGpYeUJtVms2bC1Wcm5DU2FESmRETW0yN3REa2NvYUVFd1hpNFZLMkdHSHZjSk5rZmhkaXg0STlacjhaR19zV3lOTjljY0prMEZFUG1pdGZwQkNET2YyOEk4UzhGMGtOam9RelRIUVlOSGM3Tmw?oc=5",
+      "source": "Google News",
+      "age": "24 May",
+      "dot": "info"
+    },
+    {
+      "title": "Growing passenger numbers at Inverness Airport amid record total for Scotland - Inverness Courier",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSnd6b1RzY09jczlxc19fYU9WV2V1V0R5NXBra05ndjRLcXpTdHRNQjMxUDdldGlxVG5oZkNMbkdzemtuSURCTjhJWHc4bU5hdGtsY1dDUEJhNXBjYzRrcE0zSURfZ25ueDdQUXRvR0xyaW1MVjgzVU1iUS1BNUJCMnFieDBwNXV3cmFqdGd3Nlp5TWdrYXVBLTNJRkV2ekRiOUhsZkJ6bUY0YWlLRGc?oc=5",
+      "source": "Google News",
+      "age": "27 May",
+      "dot": "info"
+    }
+  ],
+  "operators": [],
+  "macro": [
+    {
+      "title": "AIM Consumer Shares to Watch in 2026 - Kalkine Media",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEE0YnBYalB2OUdhdGptLUh2Tmoybi05LWtwbTFSRHVPNWVlRmdTQmV1anFTUjdhVVdRNWFxT1pRNVpSWnlILU5sMVJZTHFaVzVNRER0SXlxeF9zY3lKOVF0Z3VxcjREOEZRT2hHVS1fWVlGdFV1VkctU2YtRy1JZ3FlOTViZjQ?oc=5",
+      "source": "Google News",
+      "age": "23h ago",
+      "dot": "info"
+    }
+  ],
+  "events": [
+    {
+      "title": "The Ultimate Global Guide to Upscale Summer Events & Festivals Happening Around The World - Yahoo Creators",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVXRZeEp0R09Bc05qVlpsRUwybXU5YWtuNnduSlZlM3VwTXdtOGxpbEdGT0hjUndTN2VLVHpscGFlcEhfMGdmYTdkNFpaV1Q4ZEozNlBnbTlYV1h5UjdMRHAwMTY3d3FwMjVPdmhCNHpJOGRwbU51dEtHVGFkaTU0ZzVWRmE1dHBQeXN1T2tHNVlFd2tHT2hJQm9zTVBFbUZzLUxaeDhHT2Z0dkJiLVZOdE1GdzBqWkZGbFZ3VVJaSU9RbHJjdXlwamhYX0NkQm54RVp5cDRxNVF5UVVDY0dR?oc=5",
+      "source": "Google News",
+      "age": "17h ago",
+      "dot": "info"
+    },
+    {
+      "title": "San Bartolomé de Tirajana brings back the Maspalomas Regional Folklore Festival to its Patron Saint Festivities 2026 - maspalomas24h.uk",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORFdTWXhWVEh5Sndkd0VldlRtQ0JnRDlYV2Utcng3Xzg1WGxjZDhXdVBTX29HZHd2ZGF0M3lMUms0QmZUbW9hbmtaNEJKdkRTN1dJWmhWNFlZQVBoVWZrR3p3dzkzRXhFMGQzWEU5TnpRZ2xPUUF4MGM0bnhpYXIzLTdDd0dvRGVPd2Z0elpQeXdaNjdDbjVGc1phZGRHMndmb1JLblc3cnpWNWUyRmRlYm04ZGlfZ0xVMklHU1FzdUQ1N0FyTXZiY1VpcHZQMVUzRFBOSkN3dUdPWnl3NDVkbg?oc=5",
+      "source": "Google News",
+      "age": "21h ago",
+      "dot": "info"
+    }
+  ],
+  "weather": [
+    {
+      "title": "Portugal is still under weather warning and high fire risk in the Algarve - The Portugal News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR3dsc2o3d1k0MWswX0dENUZLa1pMX1NKVkNDdnJWTEFxQk5XeG1qQTJSREo4eDNiWUR2S2EwVmZkY1dLc2dIdjUwYk5JRDdmVFotYm91LVYtWnp1ZllFYVZMTFVBcWxOM0RGSTRDTC1sa1h3SmtrZkxzelBzVUJuYXJJN1dDdjVkMmNJMWJlZkg0eGhzeVVVWE5yYXppb1RMLU5mR2hCbXU3STNMa2NVNEJua05Gb3BHZWsybWswdllDZl9NeC1aVA?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
+      "dot": "info"
+    }
+  ],
+  "reputation": []
+}
