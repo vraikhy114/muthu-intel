@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MGM Muthu — Morning Intelligence</title>
+<style>
+:root{
+  --bg0:#16161a;--bg1:#1e1e24;--bg2:#26262e;--bg3:#2e2e38;--bg4:#363642;
+  --border:#ffffff12;--border2:#ffffff1f;--border3:#ffffff30;
+  --t1:#f0efe8;--t2:#b8b7b0;--t3:#78776e;--t4:#4a4944;
+  --blue:#4a9eff;--blue-dim:#1a3a5c;--blue-text:#a8d4ff;
+  --teal:#3dd68c;--teal-dim:#0d3320;--teal-text:#7eeebb;
+  --amber:#f5a623;--amber-dim:#3d2800;--amber-text:#ffc966;
+  --coral:#ff6b4a;--coral-dim:#3d1a0e;--coral-text:#ffaa94;
+  --purple:#9b8afb;--purple-dim:#1e1650;--purple-text:#c4b8ff;
+  --green:#6abf45;--green-dim:#1a2e0a;--green-text:#a8e07a;
+  --pink:#f472b6;--pink-dim:#3d0f2a;--pink-text:#f9a8d4;
+  --red:#f87171;--red-dim:#3d1010;--red-text:#fca5a5;
+  --own:#4a9eff;--own-dim:#0d2040;--own-text:#a8d4ff;
+  --r:7px;--rl:11px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg0);color:var(--t1);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh;font-size:13px}
+
+/* TOP BAR */
+.topbar{background:var(--bg1);border-bottom:1px solid var(--border2);padding:0 18px;height:50px;display:flex;align-items:center;gap:12px}
+.logo{width:34px;height:34px;border-radius:8px;background:linear-gradient(135deg,#1a6fff,#0a4bbf);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:12px;flex-shrink:0;letter-spacing:-0.5px}
+.topbar-title{font-size:14px;font-weight:700;color:var(--t1)}
+.topbar-sub{font-size:11px;color:var(--t3);margin-left:2px}
+.topbar-r{margin-left:auto;display:flex;align-items:center;gap:8px}
+.chip{display:inline-flex;align-items:center;gap:5px;font-size:11px;border-radius:20px;padding:4px 10px;border:1px solid var(--border2);color:var(--t3);background:var(--bg2)}
+.chip.live{color:var(--teal);border-color:var(--teal-dim);background:var(--teal-dim)}
+.chip-dot{width:6px;height:6px;border-radius:50%;background:var(--teal);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+
+/* SUMMARY STRIP */
+.sumstrip{background:var(--bg1);border-bottom:1px solid var(--border2);display:grid;grid-template-columns:repeat(7,1fr)}
+.sumcell{padding:10px 14px;text-align:center;border-right:1px solid var(--border)}
+.sumcell:last-child{border-right:none}
+.sumval{font-size:22px;font-weight:800;color:var(--t1);line-height:1}
+.sumval.hi{color:var(--teal)}
+.sumval.warn{color:var(--amber)}
+.sumval.alert{color:var(--red)}
+.sumval.blue{color:var(--blue)}
+.sumlbl{font-size:10px;color:var(--t3);margin-top:3px;line-height:1.3}
+
+/* GRID */
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--border);margin:1px}
+.panel{background:var(--bg1);padding:13px 15px}
+.panel-full{grid-column:1/-1;border-top:2px solid var(--blue)}
+
+/* PANEL HEAD */
+.phead{display:flex;align-items:center;gap:8px;margin-bottom:10px;padding-bottom:9px;border-bottom:1px solid var(--border2)}
+.picon{width:26px;height:26px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:14px;flex-shrink:0}
+.ptitle{font-size:12px;font-weight:700;color:var(--t1);flex:1;letter-spacing:.01em}
+.pbadge{font-size:10px;font-weight:700;padding:3px 8px;border-radius:20px;white-space:nowrap}
+
+/* MUTHU INNER GRID */
+.muthu-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0 18px}
+
+/* NEWS LIST */
+.nl{list-style:none}
+.ni{display:flex;align-items:flex-start;gap:7px;padding:5px 0;border-bottom:1px solid var(--border);line-height:1.45}
+.ni:last-child{border-bottom:none}
+.nd{width:6px;height:6px;border-radius:50%;flex-shrink:0;margin-top:4px}
+.nd-new{background:var(--teal)}
+.nd-info{background:var(--blue)}
+.nd-warn{background:var(--amber)}
+.nd-alert{background:var(--red);box-shadow:0 0 6px var(--red)}
+.ni-txt{flex:1;font-size:11.5px;color:var(--t2);line-height:1.45}
+.ni-txt b{color:var(--t1);font-weight:600}
+.ni-src{font-size:10px;color:var(--t4);white-space:nowrap;flex-shrink:0;margin-left:2px}
+.ext-link{color:var(--blue);text-decoration:none;flex-shrink:0;display:inline-flex;align-items:center;margin-left:4px;opacity:.7;transition:opacity .15s}
+.ext-link:hover{opacity:1}
+.pill{font-size:10px;padding:1px 6px;border-radius:20px;display:inline;margin-left:4px;font-weight:600}
+.pill-new{background:var(--teal-dim);color:var(--teal-text)}
+.pill-chg{background:var(--amber-dim);color:var(--amber-text)}
+.pill-alert{background:var(--red-dim);color:var(--red-text)}
+.pill-own{background:var(--own-dim);color:var(--own-text)}
+
+/* CURRENCY */
+.ccy-row{display:flex;gap:8px;margin-bottom:9px}
+.ccy{background:var(--bg2);border:1px solid var(--border2);border-radius:var(--r);padding:8px 10px;flex:1}
+.ccy-pair{font-size:10px;color:var(--t3);margin-bottom:2px}
+.ccy-val{font-size:18px;font-weight:800;color:var(--t1)}
+.ccy-delta{font-size:10px;font-weight:700}
+.up{color:var(--teal)}.dn{color:var(--red)}
+
+/* TRENDS */
+.trend-grid{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-bottom:9px}
+.tcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:8px 10px}
+.tdest{font-size:10px;color:var(--t3);margin-bottom:3px}
+.tval{font-size:11px;font-weight:700;margin-bottom:5px}
+.tbar-wrap{background:var(--bg4);border-radius:20px;height:3px;overflow:hidden}
+.tbar{height:3px;border-radius:20px;background:var(--blue);transition:width .6s ease}
+.tbar.low{background:var(--amber)}
+
+/* ICON + BADGE COLOUR CLASSES */
+.ic-blue{background:var(--blue-dim);color:var(--blue-text)}
+.ic-teal{background:var(--teal-dim);color:var(--teal-text)}
+.ic-amber{background:var(--amber-dim);color:var(--amber-text)}
+.ic-coral{background:var(--coral-dim);color:var(--coral-text)}
+.ic-purple{background:var(--purple-dim);color:var(--purple-text)}
+.ic-green{background:var(--green-dim);color:var(--green-text)}
+.ic-pink{background:var(--pink-dim);color:var(--pink-text)}
+.ic-red{background:var(--red-dim);color:var(--red-text)}
+.ic-own{background:#0d2a50;color:var(--own-text)}
+.bg-blue{background:var(--blue-dim);color:var(--blue-text)}
+.bg-teal{background:var(--teal-dim);color:var(--teal-text)}
+.bg-amber{background:var(--amber-dim);color:var(--amber-text)}
+.bg-coral{background:var(--coral-dim);color:var(--coral-text)}
+.bg-purple{background:var(--purple-dim);color:var(--purple-text)}
+.bg-green{background:var(--green-dim);color:var(--green-text)}
+.bg-pink{background:var(--pink-dim);color:var(--pink-text)}
+.bg-red{background:var(--red-dim);color:var(--red-text)}
+.bg-own{background:var(--own-dim);color:var(--own-text)}
+
+/* SECTION DIVIDERS within panel */
+.sect-sep{border-top:1px solid var(--border2);margin:8px 0}
+
+/* FOOTER */
+.footer{background:var(--bg1);border-top:1px solid var(--border2);padding:8px 18px;display:flex;align-items:center;gap:8px;font-size:10px;color:var(--t4)}
+.footer-dot{width:6px;height:6px;border-radius:50%;background:var(--teal);flex-shrink:0}
+
+/* LOADING */
+#loading{position:fixed;inset:0;background:var(--bg0);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;z-index:999}
+#loading .logo-big{width:56px;height:56px;border-radius:14px;background:linear-gradient(135deg,#1a6fff,#0a4bbf);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:20px;letter-spacing:-1px}
+#loading p{font-size:13px;color:var(--t3)}
+#loading.hidden{display:none}
+
+/* ALERT FLASH */
+.panel-alert-border{border-top:2px solid var(--red)}
+</style>
+</head>
+<body>
+
+<div id="loading">
+  <div class="logo-big">MM</div>
+  <p>Loading morning intelligence...</p>
+</div>
+
+<div id="app" style="display:none">
+  <div class="topbar">
+    <div class="logo">MM</div>
+    <span class="topbar-title">MGM Muthu — Morning Intelligence</span>
+    <span class="topbar-sub">&nbsp;·&nbsp;Revenue &amp; Market Dashboard</span>
+    <div class="topbar-r">
+      <span class="chip live"><span class="chip-dot"></span>Live data</span>
+      <span class="chip" id="date-chip"></span>
+      <span class="chip" id="time-chip"></span>
+    </div>
+  </div>
+  <div class="sumstrip" id="sumstrip"></div>
+  <div class="grid" id="grid"></div>
+  <div class="footer">
+    <span class="footer-dot"></span>
+    <span id="footer-text"></span>
+    <span style="margin-left:auto" id="footer-refresh"></span>
+  </div>
+</div>
+
+<script>
+const EMBEDDED_DATA = {"generated":"2026-05-29T09:49:55.582168+00:00","date_label":"Friday 29 May 2026","filter_days":7,"summary":{"total_stories":31,"muthu_mentions":4,"competitor_changes":5,"new_routes":2,"events":5,"weather_alerts":1},"currency":[{"pair":"GBP / EUR","val":"1.184","delta":"+0.3%","dir":"up"},{"pair":"GBP / USD","val":"1.271","delta":"-0.1%","dir":"down"},{"pair":"EUR / KES","val":"145.2","delta":"+0.5%","dir":"up"}],"trends":[{"dest":"Algarve holidays","bar":78,"articles_24h":8},{"dest":"Tenerife all-inclusive","bar":61,"articles_24h":6},{"dest":"Kenya safari","bar":88,"articles_24h":9},{"dest":"Scotland Highlands hotel","bar":42,"articles_24h":4},{"dest":"Cuba holidays","bar":28,"articles_24h":3},{"dest":"Jamaica all-inclusive","bar":51,"articles_24h":5}],"muthu":[{"title":"Muthu Forte do Vale named in Condé Nast Traveller Algarve round-up 2026","source":"Condé Nast","link":"https://www.cntraveller.com/topic/algarve","dot":"new","age":"3h ago"},{"title":"MGM Muthu Tenerife featured in TUI summer 2026 brochure as Editor's pick","source":"TUI","link":"https://www.tui.co.uk/destinations/europe/spain/tenerife/hotels","dot":"new","age":"yesterday"},{"title":"Muthu Keekorok Lodge cited in Lonely Planet Kenya safari travel guide 2026","source":"Lonely Planet","link":"https://www.lonelyplanet.com/kenya/masai-mara-national-reserve","dot":"new","age":"27 May"},{"title":"Muthu Royal Park Albufeira — TripAdvisor score moved 4.3 to 4.1, check recent reviews","source":"TripAdvisor","link":"https://www.tripadvisor.co.uk/Search?q=Muthu+Royal+Park+Albufeira","dot":"warn","age":"6h ago"},{"title":"No new press mentions for Scotland, Cuba or Jamaica properties in last 24h","source":"Google Alerts","link":"https://alerts.google.com","dot":"info","age":"1h ago"},{"title":"MGM Group LinkedIn post on Zanzibar opening received 412 engagements","source":"LinkedIn","link":"https://www.linkedin.com/company/mgm-muthu-hotels","dot":"info","age":"yesterday"}],"industry":[{"title":"Portugal hotel sector profits up 5.5% in H1 2026, Algarve leads national growth","source":"INE Portugal","link":"https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_destaques","dot":"info","age":"4h ago"},{"title":"Marriott Salgados opens near Albufeira — 228 rooms, 5-star all-inclusive format","source":"PhocusWire","link":"https://www.phocuswire.com/hotel-openings-europe-2026","dot":"info","age":"yesterday"},{"title":"Scotland Highlands hotel occupancy hits record 84% in May 2026","source":"VisitScotland","link":"https://www.visitscotland.org/research-insights/about-our-visitors/volume-and-value","dot":"new","age":"27 May"},{"title":"Cuba relaxes tourism licensing rules — new all-inclusive JV framework published","source":"HospitalityNet","link":"https://www.hospitalitynet.org/news/4124290.html","dot":"info","age":"26 May"},{"title":"Skift: All-inclusive format surges in post-pandemic Europe, covers Algarve and Canaries","source":"Skift","link":"https://skift.com/topic/europe/","dot":"new","age":"2h ago"},{"title":"AI-driven dynamic pricing adoption up 34% among EU hotel groups in 2025","source":"HospitalityNet","link":"https://www.hospitalitynet.org/news/4124100.html","dot":"info","age":"25 May"},{"title":"Algarve wins Best Summer Destination at Irish Travel Industry Awards 2026","source":"Travel & Tour World","link":"https://www.travelandtourworld.com/news/article/algarve-secures-best-summer-destination-title-at-irish-travel-industry-awards-2026","dot":"new","age":"24 May"},{"title":"Jamaica tourism board reports record Q1 arrivals, UK market capacity up 22%","source":"JTB","link":"https://www.visitjamaica.com/media-centre/press-releases/","dot":"info","age":"23 May"}],"competitors":[{"title":"Pestana — Summer Early Bird now 25% off Algarve resorts (was 20%)","source":"Pestana","link":"https://www.pestana.com/en/promotions","dot":"new","age":"5h ago"},{"title":"Iberostar — 48h flash sale live, Tenerife all-inclusive from €89 per night","source":"Iberostar","link":"https://www.iberostar.com/en/offers/flash-offers-hotels/","dot":"warn","age":"2h ago"},{"title":"H10 — member-exclusive rate launched, extra 10% off all direct bookings","source":"H10","link":"https://www.h10hotels.com/en/offers","dot":"new","age":"yesterday"},{"title":"Riu — Tenerife all-inclusive from €79 per night, early booking to 30 June","source":"Riu","link":"https://www.riu.com/en/offers","dot":"info","age":"27 May"},{"title":"Vila Galé — Stay 7 Pay 5 extended to September 2026, Algarve resorts only","source":"Vila Galé","link":"https://www.vilagale.com/en/promotions","dot":"info","age":"26 May"},{"title":"Lopesan — removed 20% Gran Canaria flash sale, expired yesterday","source":"Lopesan","link":"https://www.lopesan.com/en/offers","dot":"warn","age":"yesterday"}],"tourism":[{"title":"Algarve — tourist arrivals up 4.1% in April year on year, Albufeira ranked #1 in Portugal","source":"INE Portugal","link":"https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_destaques","dot":"info","age":"27 May"},{"title":"Tenerife — overnight stays up 3.2% year to date, German and UK market both growing","source":"ISTAC","link":"https://www.gobiernodecanarias.org/istac/temas/sectorserviciosyturismo/turismo/","dot":"info","age":"26 May"},{"title":"Scotland Highlands — average hotel rate £189 per night, up 9% year on year","source":"VisitBritain","link":"https://www.visitbritain.org/research-insights/england-tourism-statistics","dot":"info","age":"25 May"},{"title":"Kenya Maasai Mara — safari bookings up 18% Q1, peak season nearly sold out","source":"Kenya Tourism Board","link":"https://www.tourism.go.ke/category/news/","dot":"new","age":"yesterday"},{"title":"Cuba — international arrivals up 6.1% Q1 2026 versus 2025, EU market leads","source":"ONEI Cuba","link":"https://www.onei.gob.cu/node/16260","dot":"info","age":"24 May"},{"title":"Jamaica — stopover arrivals record Q1 2026, UK direct flight capacity up 22%","source":"Visit Jamaica","link":"https://www.visitjamaica.com/media-centre/press-releases/","dot":"info","age":"23 May"}],"airline":[{"title":"Ryanair adds Faro–Manchester route from June 2026, operating three times weekly","source":"Ryanair","link":"https://www.ryanair.com/gb/en/cheap-flights/faro/manchester","dot":"new","age":"8h ago"},{"title":"Faro Airport passenger numbers up 7.4% in April versus 2025, UK remains top source market","source":"ANA Airports","link":"https://www.ana.pt/en/ana/press-room/press-releases","dot":"info","age":"27 May"},{"title":"TUI expands Tenerife-South summer 2026 seat capacity by 12% from UK airports","source":"TUI Group","link":"https://www.tuigroup.com/en-en/media/press-releases","dot":"info","age":"26 May"},{"title":"Jet2 adds Inverness to Alicante route from July 2026, opening Scotland feeder market","source":"Jet2","link":"https://www.jet2.com/en/news","dot":"new","age":"yesterday"},{"title":"Nairobi JKIA international arrivals up 14% in April, UK and Germany led growth","source":"KCAA Kenya","link":"https://www.kcaa.or.ke/safety-and-security/statistics/","dot":"info","age":"25 May"}],"operators":[{"title":"Jet2 pushes Algarve summer packages in email campaign, from £529 per person","source":"Jet2 Holidays","link":"https://www.jet2holidays.com/destinations/portugal/algarve","dot":"new","age":"6h ago"},{"title":"TUI drops Tenerife July availability by 8%, suggests high occupancy or capacity pull","source":"TUI","link":"https://www.tui.co.uk/destinations/europe/spain/tenerife","dot":"warn","age":"yesterday"},{"title":"Booking.com Genius discount banner showing on 3 competitor Algarve properties this week","source":"Booking.com","link":"https://www.booking.com/region/pt/algarve.en-gb.html","dot":"info","age":"27 May"},{"title":"Loveholidays featuring Tenerife all-inclusive hotels prominently on homepage this week","source":"Loveholidays","link":"https://www.loveholidays.com/holidays/tenerife","dot":"info","age":"12h ago"},{"title":"Expedia deal of the day — Albufeira 4-star hotel at £88 per night flagged in newsletter","source":"Expedia","link":"https://www.expedia.co.uk/Albufeira-Hotels.d3580.Travel-Guide-Hotels","dot":"warn","age":"26 May"}],"macro":[{"title":"GBP strengthens to 1.184 versus EUR — Algarve and Tenerife cheaper for UK guests today","source":"ECB","link":"https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html","dot":"new","age":"1h ago"},{"title":"UK GfK consumer confidence at -19 in May, slight improvement from -21 in April","source":"GfK UK","link":"https://www.gfk.com/en-gb/insights/press-release/uk-consumer-confidence","dot":"info","age":"27 May"},{"title":"Ireland CSO: household spending on travel up 3.2% Q1 2026 — positive for Algarve feeder market","source":"CSO Ireland","link":"https://www.cso.ie/en/releasesandpublications/ep/p-hbs/","dot":"info","age":"25 May"},{"title":"UK mortgage approvals fall 4% — potential pressure on discretionary holiday spend in H2","source":"Bank of England","link":"https://www.bankofengland.co.uk/statistics/money-and-credit","dot":"warn","age":"24 May"},{"title":"Eurozone inflation steady at 2.2% in May 2026 — stable conditions for European travel demand","source":"Eurostat","link":"https://ec.europa.eu/eurostat/statistics-explained/index.php/Inflation_in_the_euro_area","dot":"info","age":"23 May"}],"events":[{"title":"Albufeira — IRONMAN Portugal 1 June, est. 3,000 athletes plus families, hotel demand spike expected","source":"Destination","link":"https://www.ironman.com/im-portugal","dot":"new","age":"yesterday"},{"title":"UK feeder market — August bank holiday Monday 25 August, peak booking window opens now","source":"Feeder market","link":"https://www.gov.uk/bank-holidays","dot":"info","age":"27 May"},{"title":"Scotland — Highland Games season runs June to September, Inverness area full most weekends","source":"Destination","link":"https://www.visitscotland.com/see-do/events/highland-games/","dot":"info","age":"26 May"},{"title":"Tenerife — IRONMAN 70.3 on 22 June, high demand in Tenerife Sur area","source":"Destination","link":"https://www.ironman.com/im703-lanzarote","dot":"info","age":"25 May"},{"title":"UK feeder market — England Euro qualifier 6 June, may suppress weekend departures","source":"Feeder market","link":"https://www.uefa.com/european-qualifiers/","dot":"warn","age":"24 May"}],"weather":[{"title":"ALERT: Algarve — 43°C forecast 2 to 4 June, extreme heat warning issued, monitor bookings","source":"AccuWeather","link":"https://www.accuweather.com/en/pt/albufeira/271649/weather-forecast/271649","dot":"alert","age":"2h ago"},{"title":"Tenerife — normal summer conditions, 26 to 28°C forecast through June, ideal beach weather","source":"AEMET Spain","link":"https://www.aemet.es/en/eltiempo/prediccion/municipios/tenerife-id38038","dot":"info","age":"5h ago"},{"title":"Scotland Highlands — mixed 15 to 18°C, some rain expected mid-week, no disruption","source":"Met Office","link":"https://www.metoffice.gov.uk/weather/forecast/gcvwpces9","dot":"info","age":"yesterday"},{"title":"Kenya — short rains ending, dry season ideal conditions from June, peak safari begins","source":"Kenya Met Dept","link":"https://www.meteo.go.ke/forecast/","dot":"new","age":"27 May"},{"title":"Jamaica — hurricane season begins 1 June, no active systems, standard monitoring advised","source":"NHC","link":"https://www.nhc.noaa.gov/","dot":"info","age":"26 May"}],"reputation":[{"title":"Muthu Royal Park — TripAdvisor score 4.3 to 4.1, three 2-star reviews mention pool maintenance","source":"TripAdvisor","link":"https://www.tripadvisor.co.uk/Search?q=Muthu+Royal+Park+Albufeira","dot":"warn","age":"6h ago"},{"title":"Muthu Keekorok Lodge — five new 5-star Google reviews this week, guests praise guides","source":"Google Reviews","link":"https://www.google.com/search?q=Muthu+Keekorok+Lodge+reviews","dot":"new","age":"yesterday"},{"title":"Pestana Alvor South Beach — score up to 4.6, positive feedback on food and beach access","source":"TripAdvisor","link":"https://www.tripadvisor.co.uk/Search?q=Pestana+Alvor+South+Beach","dot":"info","age":"27 May"},{"title":"Iberostar Tenerife — two new negative reviews mention overcrowded pool, potential opportunity","source":"Booking.com","link":"https://www.booking.com/searchresults.en-gb.html?ss=Iberostar+Tenerife","dot":"info","age":"26 May"},{"title":"Albufeira destination rating stable at 4.4 across major OTAs this week","source":"Aggregated","link":"https://www.booking.com/region/pt/algarve.en-gb.html","dot":"info","age":"25 May"}]};
+
+const ICONS={building:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 3v18M15 3v18M3 9h18M3 15h18"/></svg>`,tag:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M20.59 13.41l-7.17 7.17a2 2 0 01-2.83 0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z"/><circle cx="7" cy="7" r="1" fill="currentColor"/></svg>`,plane:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 16v-2l-8-5V3.5a1.5 1.5 0 00-3 0V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5l8 2.5z"/></svg>`,chart:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 3v18h18"/><path d="M7 16l4-4 4 4 4-4"/></svg>`,store:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>`,coin:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M9 9h1.5a1.5 1.5 0 010 3H9m0 0h1.5a1.5 1.5 0 010 3H9m0-6v6"/></svg>`,calendar:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>`,trending:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>`,cloud:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M17.5 19H9a7 7 0 110-14 7 7 0 1114 0"/><path d="M13 11l-3 8"/></svg>`,star:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`,news:`<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 22h16a2 2 0 002-2V4a2 2 0 00-2-2H8a2 2 0 00-2 2v16a2 2 0 01-2 2zm0 0a2 2 0 01-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8M15 18h-5M10 6h8v4h-8z"/></svg>`,extlink:`<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>`};
+
+function el(tag,cls,html){const e=document.createElement(tag);if(cls)e.className=cls;if(html!==undefined)e.innerHTML=html;return e}
+function dotCls(d){return d==='new'?'nd nd-new':d==='warn'?'nd nd-warn':d==='alert'?'nd nd-alert':'nd nd-info'}
+
+function newsItem(item){
+  const li=el('li','ni');
+  li.appendChild(el('span',dotCls(item.dot||'info')));
+  const txt=el('span','ni-txt');
+  txt.textContent=item.title||'';
+  li.appendChild(txt);
+  if(item.age){
+    li.appendChild(el('span','ni-src',item.age));
+  } else if(item.source&&item.source!=='Google News'&&item.source!=='Aggregated'){
+    li.appendChild(el('span','ni-src',item.source));
+  }
+  if(item.link&&item.link!=='#'){
+    const a=document.createElement('a');
+    a.className='ext-link';
+    a.href=item.link;
+    a.target='_blank';
+    a.rel='noopener noreferrer';
+    a.title='Open source';
+    a.innerHTML=ICONS.extlink;
+    li.appendChild(a);
+  }
+  return li;
+}
+
+function phead(icon,title,badge,icCls,bgCls){
+  const h=el('div','phead');
+  h.innerHTML=`<div class="picon ${icCls}">${ICONS[icon]||''}</div><span class="ptitle">${title}</span><span class="pbadge ${bgCls}">${badge}</span>`;
+  return h;
+}
+
+function renderSummary(s,currency){
+  const gbp=currency.find(c=>c.pair==='GBP / EUR');
+  const cells=[
+    {v:s.total_stories,l:'Stories today',c:''},
+    {v:s.muthu_mentions,l:'MGM Muthu mentions',c:'hi'},
+    {v:s.competitor_changes,l:'Competitor changes',c:'warn'},
+    {v:s.new_routes,l:'New flight routes',c:'blue'},
+    {v:s.events,l:'Events this week',c:''},
+    {v:gbp?gbp.val:'—',l:'GBP / EUR live',c:'blue'},
+    {v:s.weather_alerts,l:'Weather alerts',c:s.weather_alerts>0?'alert':''},
+  ];
+  const strip=document.getElementById('sumstrip');
+  cells.forEach(c=>{
+    const cell=el('div','sumcell');
+    cell.innerHTML=`<div class="sumval ${c.c}">${c.v}</div><div class="sumlbl">${c.l}</div>`;
+    strip.appendChild(cell);
+  });
+}
+
+function renderMuthu(items){
+  const p=el('div','panel panel-full');
+  p.appendChild(phead('building','MGM Muthu Hotels — brand mentions &amp; news worldwide',`${items.length} mentions today`,'ic-own','bg-own'));
+  const g=el('div','muthu-grid');
+  const cols=[[],[],[]];
+  items.forEach((item,i)=>cols[i%3].push(item));
+  cols.forEach(col=>{const ul=el('ul','nl');col.forEach(item=>ul.appendChild(newsItem(item)));g.appendChild(ul);});
+  p.appendChild(g);
+  return p;
+}
+
+function newsPanel(icon,title,badge,icCls,bgCls,items,extraCls){
+  const p=el('div','panel'+(extraCls?' '+extraCls:''));
+  p.appendChild(phead(icon,title,badge,icCls,bgCls));
+  const ul=el('ul','nl');
+  (items||[]).forEach(item=>ul.appendChild(newsItem(item)));
+  p.appendChild(ul);
+  return p;
+}
+
+function currencyPanel(currency,macroItems){
+  const p=el('div','panel');
+  p.appendChild(phead('coin','Macro &amp; consumer confidence','markets','ic-green','bg-green'));
+  const row=el('div','ccy-row');
+  currency.forEach(c=>{
+    const card=el('div','ccy');
+    const dc=c.dir==='up'?'up':c.dir==='down'?'dn':'';
+    card.innerHTML=`<div class="ccy-pair">${c.pair}</div><div class="ccy-val">${c.val}</div><div class="ccy-delta ${dc}">${c.delta||''}</div>`;
+    row.appendChild(card);
+  });
+  p.appendChild(row);
+  const ul=el('ul','nl');
+  (macroItems||[]).forEach(item=>ul.appendChild(newsItem(item)));
+  p.appendChild(ul);
+  return p;
+}
+
+function trendsPanel(trends){
+  const p=el('div','panel');
+  p.appendChild(phead('trending','Google Trends — search demand signals','weekly','ic-teal','bg-teal'));
+  const g=el('div','trend-grid');
+  (trends||[]).forEach(t=>{
+    const card=el('div','tcard');
+    const low=t.bar<35;
+    card.innerHTML=`<div class="tdest">${t.dest}</div><div class="tval ${low?'dn':'up'}">${t.articles_24h} articles / 24h</div><div class="tbar-wrap"><div class="tbar${low?' low':''}" style="width:${t.bar}%"></div></div>`;
+    g.appendChild(card);
+  });
+  p.appendChild(g);
+  return p;
+}
+
+function init(){
+  const data=EMBEDDED_DATA;
+  document.getElementById('loading').classList.add('hidden');
+  document.getElementById('app').style.display='';
+
+  document.getElementById('date-chip').textContent=data.date_label||'';
+  document.getElementById('time-chip').textContent='Updated '+(data.generated||'').slice(11,16);
+  document.getElementById('footer-text').textContent='Sources: Google News RSS · Competitor crawler · frankfurter.app · AccuWeather · TripAdvisor · Booking.com · Google Reviews · Generated: '+(data.generated||'').slice(0,16).replace('T',' ');
+  document.getElementById('footer-refresh').textContent='Next refresh: tomorrow 07:00';
+
+  renderSummary(data.summary||{},data.currency||[]);
+
+  const grid=document.getElementById('grid');
+  grid.appendChild(renderMuthu(data.muthu||[]));
+  grid.appendChild(newsPanel('news','Industry &amp; hotel news',`${(data.industry||[]).length} stories`,'ic-blue','bg-blue',data.industry));
+  grid.appendChild(newsPanel('tag','Competitor offers &amp; pricing',`${(data.competitors||[]).length} tracked`,'ic-teal','bg-teal',data.competitors));
+  grid.appendChild(newsPanel('plane','Airline &amp; airport',`${(data.airline||[]).length} stories`,'ic-purple','bg-purple',data.airline));
+  grid.appendChild(newsPanel('chart','Tourism statistics','by destination','ic-amber','bg-amber',data.tourism));
+  grid.appendChild(newsPanel('store','Tour operators &amp; OTA signals',`${(data.operators||[]).length} signals`,'ic-coral','bg-coral',data.operators));
+  grid.appendChild(currencyPanel(data.currency||[],data.macro||[]));
+  grid.appendChild(newsPanel('calendar','Events &amp; demand calendar',`${(data.events||[]).length} upcoming`,'ic-pink','bg-pink',data.events));
+  grid.appendChild(trendsPanel(data.trends||[]));
+  grid.appendChild(newsPanel('cloud','Weather &amp; destination alerts',`${(data.weather||[]).length} destinations`,'ic-red','bg-red',data.weather,'panel-alert-border'));
+  grid.appendChild(newsPanel('star','Reputation &amp; review signals','monitored','ic-amber','bg-amber',data.reputation));
+}
+
+init();
+</script>
+</body>
+</html>
