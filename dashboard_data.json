@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-02T09:55:44.614090",
+  "generated": "2026-06-02T10:29:05.976182",
   "date_label": "Tuesday 02 June 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 80,
+    "total_stories": 78,
     "muthu_mentions": 0,
     "competitor_changes": 0,
     "new_routes": 5,
@@ -33,33 +33,46 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 8,
-      "bar": 96,
+      "articles_24h": 9,
+      "bar": 100,
       "articles": [
-        {
-          "title": "Portugal strikes to hit 500-plus flights and transport networks as travel chaos looms - itij.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVh2SU1qSURhVGU0UmNLVjFFcXRjNmJsNDBLdndSY1ZkLTFIUE1HdTBGMU1FUkNnYVpOb3U3NVRQQWhrSXREZUxKSDRnNEVUdV9iTmFQMzFPZzFZYWQzMW5xejh5VzRUNnBEMWVUbjFMMTBzVm43NHllTk5XTm1PbzNqNmtLODlJQkU2aDRCSGt1S2xBaWplWVZXN2x4UG5uVE9ZRjNNa05uYl80S1VBRzhn?oc=5",
-          "age": "29 May",
-          "_ts": 1780063765.0
-        },
         {
           "title": "Greece Joins Italy, UK, Germany, US, Portugal, and Spain in Driving Unprecedented Mediterranean Tourism Demand in 2026 as Coastal Escapes, Slow Travel, and Affordable Luxury Redefine Summer Holidays - Travel And Tour World",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRzk1ZHB6VDVNakFSRjVTX1N3ZXBNeWhNT1VqREw4MFRHeHRiVGQyeW85dXpVckViZFpIY0xuZVdLMlM2NHB5azE0QUZ2R0dhMlYyYXhPaExSVzBVWkpna3dyNUFMcktlQS1sNDNB?oc=5",
           "age": "29 May",
           "_ts": 1780052933.0
+        },
+        {
+          "title": "Algarve Breaks Records in April 2026 as Tourist Overnight Stays Reach All-Time High: All You Need to Know - Travel And Tour World",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PQVNFODRjOHZSX25jSENzbEZCWjkwWjRxVkY3SzRRNmhoQS1YR0VOdVRYalZUSTFKM3kyM1Z6cUdqbkJjVUM3MDRWZ3pJQ2V2eXBvRUtyUG5KenhuY2liWXNMcHBVRHF2NnBfOXd3?oc=5",
+          "age": "29 May",
+          "_ts": 1780081675.0
         }
       ]
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 2,
+      "bar": 24,
+      "articles": [
+        {
+          "title": "The 37 hotels across Spain and Turkey showing every single FIFA World Cup 2026 match this summer - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1R0ZmQxcDR0RThIeE1ZdGp6MjI4UUNsbDQwck1aSHpURGNJdkFmR3ZJWHBYMmY5OUhic2xBZjlqWkQzNzJTRm5ZRm5TczJZTTMxRVFld1ZTYTd6a0QxcWJUVUFfcVA1THBxVVNYWDducnphQ0hCcGRmaEhObWd4bnRnT2tQZlhzdjJUZFliczNaM3FsMkVJa1hsMFdhSVNtazFBZDg1UnVXSkY3Q2NlaGFvbW5WZGY1dDdVU1lMWjRzLUM0YXFVY0h4cGl0ZEFfQ2hxZnhLTzlWZFhCaGpDR0tpeF83Zw?oc=5",
+          "age": "26 May",
+          "_ts": 1779808455.0
+        },
+        {
+          "title": "The 37 hotels across Spain and Turkey showing every single FIFA World Cup 2026 match this summer - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNV2FwWFc0QlZnMEdFeEx3QXE0Q05lRTBaYW93Sy1vWVV1RDRmTjlrU21mRHRBcmtqeE4zV2tPendZZWdXNXkyVmY4bHZyenVjb1dxd2dad3JLUThFemsta2pQYjBRZ3RTdmpDYUlXbzlNUjdJY1dwNVNTRmQ5VDFWeXFEcGhnTlpha3lsUnFNbzlSYkpwQkRCQlBxWTBFOUZyVVQ0YWVKQ3BRQy1VU2FOR010dUQ2WU11VmxoSW11MExPQl91SEdJcFZOYUNLWWlUblgyeUpmWG02MWZpcEI5S3hhN3RZTnAyd25ndVF5TzA4bWQ5UUI1aUQ1R3FWR0RqMkZwOTlyU0thelFyQklldmxlVUkwY3BsZHloZF9xd2Q3aTZjUGlzbUJob1dCZG15cVVrOW1CaUJRWDB1NFliZnhFcEFmLXRLdTAxQ0tna2htcndXc3VRa3hpT0tGUTdQT3hlVGJFcFlvMFlKaEF5UEhxTWNQZngteld4RQ?oc=5",
+          "age": "26 May",
+          "_ts": 1779816512.0
+        }
+      ]
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 7,
-      "bar": 84,
+      "articles_24h": 8,
+      "bar": 96,
       "articles": [
         {
           "title": "U.S. joins Italy, France, UK, Kenya, Germany and China to Flock to Tanzania as Forest Tourism Breakthrough at Pugu‑Kazimzumbwi Reshapes Airline Routes, Hotel Demand, and Safari Bookings Toward eight Million Tourist Target - Travel And Tour World",
@@ -77,8 +90,8 @@
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 6,
-      "bar": 72,
+      "articles_24h": 7,
+      "bar": 84,
       "articles": [
         {
           "title": "The best Airbnbs in Edinburgh will make you want to cancel your hotel booking - CN Traveller",
@@ -87,10 +100,10 @@
           "_ts": 1779809825.0
         },
         {
-          "title": "Francis Bourgeois' Train Restoration Hit Engine Crisis - Nomad Lawyer",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVklsMkhlN2liMmNVTGZRYWV2UnpVNUFXOE94SktOektCZzNvSW5ZbGVXcjFrX3d5SGg0YkpvLVlyY2pURFNVb3BMdGxrWk0wOXllUXpTa3JuNEtxVDdOV0tSN3pFcjVmTzRxcE5ERzBSRTdpeVczeF93amVOWEEwcjE2WkY?oc=5",
-          "age": "21h ago",
-          "_ts": 1780316371.0
+          "title": "Travel in Scotland Reaches New Heights as Oban’s Knipoch House Hotel Wins Best Boutique Hotel at Prestige Hotel Awards Elevating Tourism, Luxury Stays, and Highland Visitor Experiences Across the Region - Travel And Tour World",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KNlhoUTRQQ04zYXJUcXB1NFZXSmRRQjRfTE5VMlVjSjgzeFowMUN6dVV0OHh5N3FJSkZpdkZCZFZxaURyVkY4VmtwVExYdUtXVHJTeW5aRklrUXoxTkprVGFHeWR2c0taaWVXVHJn?oc=5",
+          "age": "29 May",
+          "_ts": 1780063398.0
         }
       ]
     },
@@ -123,38 +136,66 @@
   "muthu": [],
   "industry": [
     {
+      "title": "U.S. Hotel Forecast Assumptions – June 2026",
+      "link": "https://www.hospitalitynet.org/news/4132726/us-hotel-forecast-assumptions-june-2026",
+      "source": "HospitalityNet",
+      "age": "4m ago",
+      "dot": "info"
+    },
+    {
+      "title": "U.S. hotel results for week ending 23 May",
+      "link": "https://www.hospitalitynet.org/news/4132725/us-hotel-results-for-week-ending-23-may",
+      "source": "HospitalityNet",
+      "age": "7m ago",
+      "dot": "info"
+    },
+    {
+      "title": "CoStar, Tourism Economics raise U.S. hotel growth forecast",
+      "link": "https://www.hospitalitynet.org/news/4132724/costar-tourism-economics-raise-us-hotel-growth-forecast",
+      "source": "HospitalityNet",
+      "age": "8m ago",
+      "dot": "info"
+    },
+    {
+      "title": "What's new at Mews: the announcements from Unfold 2026",
+      "link": "https://www.hospitalitynet.org/opinion/4132683/whats-new-at-mews-the-announcements-from-unfold-2026",
+      "source": "HospitalityNet",
+      "age": "10m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Stayntouch and ampliphi Launch Integration To Drive RevPAR Growth and Automate Revenue Management for Hotels",
+      "link": "https://www.hospitalitynet.org/news/4132723/stayntouch-and-ampliphi-launch-integration-to-drive-revpar-growth-and-automate-revenue-management-for-hotels",
+      "source": "HospitalityNet",
+      "age": "12m ago",
+      "dot": "info"
+    },
+    {
       "title": "Announcing the Release of Lodging Analytics Research & Consulting (LARC)’s 2Q-2026 Hotel Industry Outlook and Market Intelligence Reports",
       "link": "https://www.hospitalitynet.org/news/4132722/announcing-the-release-of-lodging-analytics-research-consulting-larcs-2q-2026-hotel-industry-outlook-and-market-intelligence-reports",
       "source": "HospitalityNet",
-      "age": "10m ago",
+      "age": "42m ago",
       "dot": "info"
     },
     {
       "title": "Managers of Infinite Minds",
       "link": "https://www.hospitalitynet.org/opinion/4132720/managers-of-infinite-minds",
       "source": "HospitalityNet",
-      "age": "22m ago",
+      "age": "54m ago",
       "dot": "info"
     },
     {
       "title": "Vietnam’s Tourism Boom Gets a Boost from Latest Philippines Pact",
       "link": "https://skift.com/2026/06/02/vietnams-tourism-boom-gets-a-boost-from-latest-philippines-pact/",
       "source": "Skift",
-      "age": "27m ago",
+      "age": "59m ago",
       "dot": "info"
     },
     {
       "title": "How Convention Centers Change Hotel Markets",
       "link": "https://www.hospitalitynet.org/report/4132719/how-convention-centers-change-hotel-markets",
       "source": "HospitalityNet",
-      "age": "54m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Imagination Knows No Bounds, So Do GCSTIMES Wooden Key Cards",
-      "link": "https://www.hospitalitynet.org/news/4132718/imagination-knows-no-bounds-so-do-gcstimes-wooden-key-cards",
-      "source": "HospitalityNet",
-      "age": "8h ago",
+      "age": "1h ago",
       "dot": "info"
     },
     {
@@ -162,34 +203,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuRjU0WnlKcmUzYnBxSUx3aHptTTF6X0trdnIzc1ota1ZocWM3c3ZVSDFxREhPNms3bkxZRnI4Q1dJWGpnNXhSalotNDBRaGFDTm1odUJHREY5OTg2UGpQYUdZWjRIaThhemhMTWI4WnpiYkE1V3Yw?oc=5",
       "source": "Google News",
       "age": "10h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Why Booking.com Is Betting on the AI Travelers Will Never See",
-      "link": "https://skift.com/2026/06/01/booking-ai-trust-vipul-hingne/",
-      "source": "Skift",
-      "age": "12h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Allegiant CEO Says Credit Cards Are the Airline’s Biggest Revenue Opportunity",
-      "link": "https://skift.com/2026/06/01/allegiant-ceo-says-credit-cards-are-the-airlines-biggest-revenue-opportunity/",
-      "source": "Skift",
-      "age": "14h ago",
-      "dot": "info"
-    },
-    {
-      "title": "The High Cost of Infinite Search: How AI Agents Break Travel Economics",
-      "link": "https://skift.com/2026/06/01/ai-impact-travel-search-costs/",
-      "source": "Skift",
-      "age": "14h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Expedia AI Chief Xavier Amatriain on Trust, Agents, and the Future of Travel — Exclusive",
-      "link": "https://skift.com/2026/06/01/expedia-xavier-amatriain-interview-qa-exclusive/",
-      "source": "Skift",
-      "age": "15h ago",
       "dot": "info"
     }
   ],
@@ -216,20 +229,6 @@
       "age": "today"
     },
     {
-      "title": "H10 — General offers",
-      "source": "H10",
-      "link": "https://www.h10hotels.com/en/offers",
-      "dot": "info",
-      "age": "today"
-    },
-    {
-      "title": "H10 — Explore our hotels",
-      "source": "H10",
-      "link": "https://www.h10hotels.com/en/offers",
-      "dot": "info",
-      "age": "today"
-    },
-    {
       "title": "The perfect base for your next Algarve golf holiday - Golfshake.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdjdOakl6YzhPVjM1bFNPODBxckt4VW04MFhWQktmQmtpWFM5VHhZLWlybkwzX3dVSFhheTk1ZzItck40NUNzYmc2SjczNmtncjltQXlNOUZNaXRROUtsZjNHeVA0ZmhCTEhyemRRWTBubkwwSmkzNGNDaUtRMldJb1ZXclRIMFJEdHEwUzc0dVNnTUlCWFpOOU5ocDRRZ3R3dEE?oc=5",
       "source": "Vila Galé",
@@ -242,14 +241,14 @@
       "title": "Cuba Faces Tourism Catastrophe: Iberia Halts Direct Madrid Routes, Vacation Dreams Threatened, Resorts Struggle - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YeDg4X2dzZEgzRm1IYWNnX19qaU9aQ01KWlNjanhSUVZhZDBXNWtWRGg1OEpoV1NGXzBnT3R2RExSLUhGeFhnaHRnbkNQWDBSMWJLanBiTHhtR1ZySlVENjZjU2MyTEEyZVczazd3?oc=5",
       "source": "Google News",
-      "age": "2h ago",
+      "age": "3h ago",
       "dot": "info"
     },
     {
       "title": "Homestay Travel Guide: What Is It and Why Are Travelers Choosing It in 2026? - Charlotte Observer",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52NExRQnE0QVVlWFRxbEVwWFZWYk9LMGZtbDNlWmVEMWdhX3d1RHJja3p4bnRDUUtNS0JsdHVJWmUySndnV3dHWmFFR3k1SGNYR3NmLWJjOXY4blZXbTJnV1pMX0VFRlByRk5OdjRtWTdNNmlwZG5heNIBeEFVX3lxTE04MjFlVjVjUklwSzVjUF9BVVBkNnJBU1hLcVdub19CX2tJd09PcVM1eUNOZ29oMFBUUFlNLWRyZnZ4aWYzN2JhSV9jWWRKRWItdVZURldVM280RnFWUkthU1gzNmliNnU5bDNETmJpUF9pRFM2eTd0Wg?oc=5",
       "source": "Google News",
-      "age": "15h ago",
+      "age": "16h ago",
       "dot": "info"
     },
     {
@@ -291,7 +290,7 @@
       "title": "Spain Joins Latvia, Portugal, Finland, Croatia, Denmark, Luxembourg and Many Other Leading Schengen Nations in Introducing New, Tougher Border Controls, Advanced Biometric Fingerprint Checks and Mandatory Essential Paperwork for High-Stakes Sum - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUb284UE9pWm84Y2JzX2Jqcl9tS1dqcXNkZlJEYzBHMlVWVlFTUXJPM0ZQRWo0RHhRekZQSzJYVFlhd0xEWkdiRlBEeHJxb2JoUVZMY1VvZDlZNlg1Z2k0SWR6UjRSS2hMYm5YY2hR?oc=5",
       "source": "Google News",
-      "age": "yesterday",
+      "age": "31 May",
       "dot": "info"
     }
   ],
@@ -338,7 +337,7 @@
       "title": "US Joins UK, Canada, France, Spain, Germany, Netherlands and More Driving Morocco Tourism Surge with Record-Breaking Revenue, Millions of International Visitors, Booming Travel Industry, Economic Growth and Historic Visitor Arrivals in 2026 - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRTDJyZmdxSzl3SjB3ZW1tTFFUNlUxNXozdThUY0VzTThnMW5QM293bjlhdGdtNFJHR2dXdGN3cFIzeV9kb1BNV1lQWEVNVnU1RFVzRXFjTmtfaUZEVDdCN2hSaWJMbDBSVmxwTUFn?oc=5",
       "source": "Google News",
-      "age": "14h ago",
+      "age": "15h ago",
       "dot": "info"
     },
     {
@@ -403,14 +402,14 @@
       "title": "Why June 2026 Could Be the Most Exciting Month to Explore the United States as Major Festivals and Cultural Events Take Center Stage! - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zUnJOVTN5RE5nSUlaMUFadnR5UmNDQkh6QjR3SlVDZVVRTlViYUVhMWFhREhhaUhCM05Vd3E0Y0ZMRmNxbkExUG80T1ZuNnY3TVR6UklEbjF2TUhpZzd1cjV2OHVqMTUxTWF6R2lB?oc=5",
       "source": "Google News",
-      "age": "18h ago",
+      "age": "19h ago",
       "dot": "info"
     },
     {
       "title": "Salt House: Under Canvas 2026 - The National Scot",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR004UFhITlU3S2dsc1V0aXZ1WW1yZzUyemYzcjVqY3dhQ0JzdXNwbjRHWm8xRDAxbGFHOXQ4UDJEcVZhOWtPdVRVU3k4VG1oczFtNFBldkNTWE5DaWs5aHNJal9ORkFCV19fcG1wYldldTFDSXF6eURvTzg5SG5MWDVUa3ppNjJoanduR2dJYjktM042TFpMQjRhUV9FdnRrdXpVME1tM2hjZw?oc=5",
       "source": "VisitScotland",
-      "age": "23h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
@@ -440,7 +439,7 @@
       "title": "Atlantic hurricane season is officially underway: What to know about the 2026 forecast - FOX Weather",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFdDaTJNU2VGOUo1T3pldkw3ZzlaMTd2RTZlSkFqblV0ckhkZi00a0dpTlFadFZjeUJJVV81RkZ6WTc5a2c5Y00xZmszYlJQZHY5djJYdTR0dDUxYzZlUUVyUmhyWVNOLUdGRU9NSFhsZ2NuTG9MNm9oa3JHQnRTNVlwTTkxdHlZdWg3SmI2am5hUHZqYmfSAZsBQVVfeXFMT3BOdDY3RGxQSXU0Zkk0M01ZNGZqUXNMdi1zeXdWWGoyd0xqY1RJbHc0UURyaU5rMGsxM01KQUdhVDN3NlkydkRoc3dsUTUxSlpGYnVwQWNMbWFrUlY1RDBfbjdDYzAyaFIyckk0UnN0NXF0MDRWM2tBSjZka0tNLWJzdkROVTNwc0VhMGZMZTNmSWhucTc1LW44bHc?oc=5",
       "source": "NHC",
-      "age": "5h ago",
+      "age": "6h ago",
       "dot": "info"
     },
     {
