@@ -256,15 +256,41 @@ function currencyPanel(currency,macroItems){
 
 function trendsPanel(trends){
   const p=el('div','panel');
-  p.appendChild(phead('trending','Google Trends — search demand signals','weekly','ic-teal','bg-teal'));
-  const g=el('div','trend-grid');
+  p.appendChild(phead('trending','Search demand signals — article links','7 days','ic-teal','bg-teal'));
+  const ul=el('ul','nl');
   (trends||[]).forEach(t=>{
-    const card=el('div','tcard');
+    // Destination header row
+    const header=el('li','ni');
+    header.style.cssText='padding:6px 0 2px;border-bottom:none';
     const low=t.bar<35;
-    card.innerHTML=`<div class="tdest">${t.dest}</div><div class="tval ${low?'dn':'up'}">${t.articles_24h} articles / 24h</div><div class="tbar-wrap"><div class="tbar${low?' low':''}" style="width:${t.bar}%"></div></div>`;
-    g.appendChild(card);
+    header.innerHTML=`<span class="nd ${low?'nd-warn':'nd-new'}" style="margin-top:5px"></span><span class="ni-txt" style="font-weight:600;color:var(--t1)">${t.dest}</span><span class="ni-src">${t.articles_24h} articles this week</span>`;
+    ul.appendChild(header);
+    // Real article links
+    if(t.articles&&t.articles.length){
+      t.articles.forEach(a=>{
+        const li=el('li','ni');
+        li.style.cssText='padding-left:13px';
+        const txt=el('span','ni-txt');
+        txt.textContent=a.title||'';
+        li.appendChild(el('span','nd nd-info'));
+        li.appendChild(txt);
+        if(a.age) li.appendChild(el('span','ni-src',a.age));
+        if(a.link&&a.link!=='#'){
+          const a2=document.createElement('a');
+          a2.className='ext-link';a2.href=a.link;a2.target='_blank';a2.rel='noopener noreferrer';
+          a2.innerHTML=ICONS.extlink;
+          li.appendChild(a2);
+        }
+        ul.appendChild(li);
+      });
+    } else {
+      const li=el('li','ni');
+      li.style.cssText='padding-left:13px';
+      li.innerHTML=`<span class="nd nd-info"></span><span class="ni-txt" style="color:var(--t3);font-style:italic">No articles in last 7 days</span>`;
+      ul.appendChild(li);
+    }
   });
-  p.appendChild(g);
+  p.appendChild(ul);
   return p;
 }
 
