@@ -1,25 +1,25 @@
 {
-  "generated": "2026-06-23T09:43:33.200240",
-  "date_label": "Tuesday 23 June 2026",
+  "generated": "2026-06-24T09:33:54.250605",
+  "date_label": "Wednesday 24 June 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 90,
+    "total_stories": 88,
     "muthu_mentions": 0,
-    "competitor_changes": 0,
+    "competitor_changes": 2,
     "new_routes": 4,
-    "events": 12,
+    "events": 11,
     "weather_alerts": 0
   },
   "currency": [
     {
       "pair": "GBP / EUR",
-      "val": "1.157",
+      "val": "1.160",
       "delta": "unchanged",
       "dir": "flat"
     },
     {
       "pair": "GBP / USD",
-      "val": "1.325",
+      "val": "1.322",
       "delta": "unchanged",
       "dir": "flat"
     },
@@ -33,27 +33,27 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 11,
+      "articles_24h": 13,
       "bar": 100,
       "articles": [
         {
-          "title": "Emirates Joins Etihad, Qatar, Turkish, Iberia, TAP Air Portugal And Leading Global Airlines In A New Era Of Stopover Innovation As Complimentary JW Marriott Marquis Dubai Stays Elevate Summer 2026 Travel Demand Worldwide - Travel And Tour World",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QNHpIMTc5U3ZZUUhiTEVodV9IT3NwdmNSVUlOSnI3Y0R0bW0xU3h5VDNuZ284OXhHTktENS0yX05ONXVRS1RPOTFoRFp4OGJ6VHUzVkpFckRIQnkxLXZyOUVLaXNXU2M1REdVaEZn?oc=5",
-          "age": "1h ago",
-          "_ts": 1782200937.0
-        },
-        {
           "title": "Portugal Records Exceptional Summer 2026 Travel Demand as International Homebuyers Drive Unprecedented Interest in the Property Market - Travel And Tour World",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0b1lNUXJhdkpWckUwREtrWEtaZWxhWHJweFdxYUtVOXpTUkVtT0pWRVJuSFZFQ1BUTExpUTMzMXl2Yzlfam43aXdTa3FodWdEbWdMd0xqWkNrakIzLXhldmZtN29RS1Y4d1VMd3hR?oc=5",
-          "age": "yesterday",
+          "age": "22 Jun",
           "_ts": 1782113360.0
+        },
+        {
+          "title": "Greece joins Spain, Portugal, UK, Albania, Croatia, Austria and more countries as German travellers drive a record-breaking Summer 2026 travel surge across Europe, strengthening Southern Mediterranean dominance and boosting emerging destination dem - Travel And Tour World",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RRW5GTG9QOEM3allDOTQyeWNaX2FjdjNFSG5OcHktLUN1QlhSSlE2NDI1N296SkFvVnkxTkVDcWtsQ1E5Wi1LbEJaNE9fYjhFLVRLdmNzSHNDOXp0VUJrQURwNmVwS1RlN3pUbmh3?oc=5",
+          "age": "23h ago",
+          "_ts": 1782208766.0
         }
       ]
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 5,
-      "bar": 60,
+      "articles_24h": 3,
+      "bar": 36,
       "articles": [
         {
           "title": "Leeds Bradford Airport's top summer hotspots – and how to book (aff) - Yorkshire Post",
@@ -71,35 +71,28 @@
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 9,
-      "bar": 100,
+      "articles_24h": 6,
+      "bar": 72,
       "articles": [
         {
           "title": "Tanzania Overtakes South Africa, Ghana, Kenya, Morocco, Zambia, Ethiopia And More Across Africa In A Historic Tourism Surge Driven By Record Visitor Inflows, Expanding Safari Networks, And Rapid Cultural Travel Expansion Reshaping The 2026 African - Travel And Tour World",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uaUlGbjRYUm40QXRkdGJmRFBhcmlPZ042TWZQRDVCcjU5dDVVU2p5akFBOTNEVTVYY25OS1VtQ2gzLTJ3cWYxNDc4U1Z2dUNfM0tVa0gwVVlHSEtlMjRzVmV0SWt1bXVvZmFvOUx3?oc=5",
-          "age": "23h ago",
+          "age": "yesterday",
           "_ts": 1782122453.0
         },
         {
-          "title": "UK Travel Tech Industry Pivots to AI as Mobile App Adoption Plummets 77% in 2026 - Nomad Lawyer",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM21POUZBUHZoUkcxUVVRc2VQN0Fua3B6UFczXzBiY1ZObUhOY3UyenNDaC1aMkdpX2luWXRtS1FvMXhHd2FWV1FQQW10UUlRTlJhX1VBNmtjSXRuZHhiTkJFMDJCZFptZzBCLVZGLUZsaG1jMHRkMURJLVA1NUN3cFhkb2N2dHZHWmVMVnpla18wVEVsV0ltX0wwSQ?oc=5",
-          "age": "yesterday",
-          "_ts": 1782070183.0
+          "title": "Bypassing Travel Chaos: Nairobi Executes Massive JKIA Megaproject to Shield 22 Million Passengers from African Hub Gridlock: Airline News - Nomad Lawyer",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZElpaUg3SU56N2JuQ1lWZHV3LUY0NkUyVUppTDVaakVJYWYtZ0JmcmVzOHRYVU5RZW5YQ2k2VFlWT1YzNTR5NzV1d29Sb1NBSjlWYWdMdk94X0NtVTdnM0dXQi15Sm5CakNmZ0haMVZYVHl1RkNvVlNib2VScUdNVmlHVE5DUDBhRVE?oc=5",
+          "age": "20 Jun",
+          "_ts": 1781977086.0
         }
       ]
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 1,
-      "bar": 12,
-      "articles": [
-        {
-          "title": "The best UK walking holidays - Countryfile.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFYWhpdlZ4anctaUpkcmE2OGNMalBqODZGaUZBbTh4bFdnQndMeVJGV0pGckpXcWZha1NUVmtFYXVFMjhGWC1ROVNHR3FtamhXLXFCaFBYUERiZ1hGZERFMDUzVU4yTTNDWTlnWnJZVQ?oc=5",
-          "age": "17 Jun",
-          "_ts": 1781679600.0
-        }
-      ]
+      "articles_24h": 0,
+      "bar": 0,
+      "articles": []
     },
     {
       "dest": "Cuba holidays",
@@ -115,7 +108,7 @@
         {
           "title": "Heroes' Day (In Jamaica) – Oct. 19, 2026 - National Today",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzODlnVnZYek9aajI4Zmx4cEdXcVJiYWczR2V3WWVjVkxZeGszTlYzWkNZTzkwenBvTUdydGxQby1TbmVJTWFuendEZFQxRkhMWE9MSkk1TGMzVHow?oc=5",
-          "age": "8h ago",
+          "age": "yesterday",
           "_ts": 1782178150.0
         },
         {
@@ -130,73 +123,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Air India Partners With Booking.com, Joining Airlines Selling Hotels, Not Just Seats",
-      "link": "https://skift.com/2026/06/23/air-india-partners-with-booking-com-joining-airlines-selling-hotels-not-just-seats/",
+      "title": "A New Chapter for Faraway: Brand Debuts in Sag Harbor and Jackson Hole",
+      "link": "https://www.hospitalitynet.org/news/4133168/a-new-chapter-for-faraway-brand-debuts-in-sag-harbor-and-jackson-hole",
+      "source": "HospitalityNet",
+      "age": "20m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Thailand’s Luxury Hotel Boom Has a Catch: Nobody Wants to Sell",
+      "link": "https://skift.com/2026/06/24/thailands-luxury-hotel-boom-has-a-catch-nobody-wants-to-sell/",
       "source": "Skift",
-      "age": "1h ago",
+      "age": "43m ago",
       "dot": "info"
     },
     {
-      "title": "Langham Launches Cookery School Led by Michelin-Starred Chef Michel Roux Jr.",
-      "link": "https://www.hospitalitynet.org/news/4133127/langham-launches-cookery-school-led-by-michelin-starred-chef-michel-roux-jr",
+      "title": "Marriott International and CG Hospitality Global Sign Strategic Agreement to Introduce Series by Marriott in Great China",
+      "link": "https://www.hospitalitynet.org/news/4133167/marriott-international-and-cg-hospitality-global-sign-strategic-agreement-to-introduce-series-by-marriott-in-great-china",
       "source": "HospitalityNet",
       "age": "1h ago",
       "dot": "info"
     },
     {
-      "title": "AI can find your hotel. It just won't recommend it.",
-      "link": "https://www.hospitalitynet.org/opinion/4133119/ai-can-find-your-hotel-it-just-wont-recommend-it",
+      "title": "The Operating Layer",
+      "link": "https://www.hospitalitynet.org/opinion/4133166/the-operating-layer",
       "source": "HospitalityNet",
       "age": "1h ago",
       "dot": "info"
     },
     {
-      "title": "Stefano Cuoco of Miramis on Blending Italian Soul with Swedish Precision, and Why Hospitality's Future Is Entertainment",
-      "link": "https://www.hospitalitynet.org/podcast/4133088/stefano-cuoco-of-miramis-on-blending-italian-soul-with-swedish-precision-and-why-hospitalitys-future-is-entertainment",
-      "source": "HospitalityNet",
-      "age": "1h ago",
-      "dot": "info"
-    },
-    {
-      "title": "HotelRunner Founders Arden Agopyan and Ali Beklen Shortlisted for Global Entrepreneur of the Year at The Allica Bank Great British Entrepreneur Awards",
-      "link": "https://www.hospitalitynet.org/news/4133108/hotelrunner-founders-arden-agopyan-and-ali-beklen-shortlisted-for-global-entrepreneur-of-the-year-at-the-allica-bank-great-british-entrepreneur-awards",
-      "source": "HospitalityNet",
-      "age": "1h ago",
-      "dot": "info"
-    },
-    {
-      "title": "HVS Europe Hotel Transactions Bulletin - Week Ending 19 June 2026",
-      "link": "https://www.hospitalitynet.org/news/4133126/hvs-europe-hotel-transactions-bulletin-week-ending-19-june-2026",
-      "source": "HospitalityNet",
-      "age": "1h ago",
-      "dot": "info"
-    },
-    {
-      "title": "U.S. News Unveils Inaugural 2026-2027 Best Conference Cities and Best Conference Hotels",
-      "link": "https://www.hospitalitynet.org/news/4133125/us-news-unveils-inaugural-2026-2027-best-conference-cities-and-best-conference-hotels",
-      "source": "HospitalityNet",
-      "age": "1h ago",
-      "dot": "info"
-    },
-    {
-      "title": "EDITION Hotels Unveils Original Mini-Drama Series — An Invitation from E",
-      "link": "https://www.hospitalitynet.org/news/4133124/edition-hotels-unveils-original-mini-drama-series-an-invitation-from-e",
-      "source": "HospitalityNet",
-      "age": "1h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Marriott International Signs Agreement with Fitwel to Advance Wellness in Global Branded Residences Portfolio",
-      "link": "https://www.hospitalitynet.org/news/4133123/marriott-international-signs-agreement-with-fitwel-to-advance-wellness-in-global-branded-residences-portfolio",
+      "title": "Canada hotels post highest rate growth since 2024",
+      "link": "https://www.hospitalitynet.org/news/4133165/canada-hotels-post-highest-rate-growth-since-2024",
       "source": "HospitalityNet",
       "age": "2h ago",
       "dot": "info"
     },
     {
-      "title": "Cordelia Cruises IPO Bets on India’s Untapped Cruise Market",
-      "link": "https://skift.com/2026/06/22/cordelia-cruises-ipo-bets-on-indias-untapped-cruise-market/",
+      "title": "U.S. hotel performance for May 2026",
+      "link": "https://www.hospitalitynet.org/news/4133164/us-hotel-performance-for-may-2026",
+      "source": "HospitalityNet",
+      "age": "2h ago",
+      "dot": "info"
+    },
+    {
+      "title": "The Warmth Behind the Technology — Why AI Will Make Hospitality More Human, Not Less",
+      "link": "https://www.hospitalitynet.org/opinion/4133055/the-warmth-behind-the-technology-why-ai-will-make-hospitality-more-human-not-less",
+      "source": "HospitalityNet",
+      "age": "2h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Travelers trust AI enough to start. Not enough to book",
+      "link": "https://www.hospitalitynet.org/opinion/4133128/travelers-trust-ai-enough-to-start-not-enough-to-book",
+      "source": "HospitalityNet",
+      "age": "2h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Sustainable Procurement in Hospitality: Policy Shifts, Guest Expectations, and the Supplier Response",
+      "link": "https://www.hospitalitynet.org/news/4133163/sustainable-procurement-in-hospitality-policy-shifts-guest-expectations-and-the-supplier-response",
+      "source": "HospitalityNet",
+      "age": "2h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Skift Research’s New Decision Briefs: Insights + Intelligence",
+      "link": "https://skift.com/2026/06/23/skift-researchs-new-decision-briefs-insights-intelligence/",
       "source": "Skift",
-      "age": "6h ago",
+      "age": "10h ago",
       "dot": "info"
     }
   ],
@@ -237,45 +230,66 @@
       "age": "today"
     },
     {
+      "title": "H10 — General offers",
+      "source": "H10",
+      "link": "https://www.h10hotels.com/en/offers",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "H10 — Explore our hotels",
+      "source": "H10",
+      "link": "https://www.h10hotels.com/en/offers",
+      "dot": "new",
+      "age": "today"
+    },
+    {
       "title": "UAE Summer Travel Gets a Boost as Barceló Hotel Group Rolls Out Value-Packed Staycation Offers Across Dubai With Family Perks, Complimentary Breakfast and Affordable Marina Escapes - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6cFdNTmxVLUk0MF9HUmgwSUhHcGpmZG10MWdnSjdyNktnUmMwb3pZcGJoUmJHVXVPQk1waEVoR29oWVVXU0pjcDRTMGNBT3BZY2tucFkzWHV2cnFXWXFvSlItTXpjOENUY3JaU1p3?oc=5",
       "source": "Barceló",
-      "age": "17h ago",
+      "age": "yesterday",
       "dot": "info"
     }
   ],
   "tourism": [
     {
-      "title": "Hotel nights grow 2.5% in May and exceed 36.3 million while prices rise 5% - Demócrata",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE1hejU3d0lOdDFaZlBTZUREOFlqbTI4ejRGSnkyMV96bjFUalU2RUFTelZLQ3JWRWktWVFoMVRxZ2VUbjBWQlcwNTA4bnE5d1ZZQXZCOVd1Nng1YnF0dy0xd3ZlaVlrdVNHV3o2QTdLaWpCTUdqTmRDNi1JeEFjYlhHQzY0bDZfUmhWOWVYaEhUZ1FSLUtHX3BlNGJBY3B1UFFhSVI3NHlURzFyb0HSAbMBQVVfeXFMTkpOTlMzNTlMVlpwdUo1YU9ZVmt2bUhHQzVzaTg0UXlJRDhSbkdEblBRcmlIT3JWd2RjT3d4NjRZbjVIYXoxUDhNcnUxYnJHMXM3X1BGc29vOHN6U1JtQzN4V21IQkZxTVFSbi1OYlN1Z0tSMWtCSkhQYnl4RUk5OU1UMGQyNzRZTS1JZlN2SFloT2U2cmdVZGNRaGd5NGZYYWdoVmNESHJUMEx1a29nVm54Mmc?oc=5",
+      "title": "Lisbon Joins Venice, Florence, Nice, and Seville in Historic Luxury Hotel Rate Surge as Summer Inflows Push Premium Accommodation Demand to All-Time Highs - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oclBPekdkZXhhQUlNWDhLb3drMmhxQnNfd0xLbWsxR2VYWTdQdF8yR0dYbXZ1b3Q0dEVoaDNZVUtDb0M4T0xhTmRIcUJEQzU1QVJ3VlJrNVAxWVcxQnJWVURCd2R3WkNKVmJKNF9n?oc=5",
       "source": "Google News",
       "age": "1h ago",
       "dot": "info"
     },
     {
-      "title": "Phuket, Thailand Hotel Price Shock Reveals 144 Dollars vs 427 Dollars Gap in Summer 2026 — What Others Are Missing in 8–14 Day Booking Strategy - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01YUc2ekljVm1VRTluQWNQeWF2MFVRaDhyTlBtSmxxWnFjMXlhUzFBekdkLTdzY0loUDhKX2hMazYzbVZZMDl3ZERsdTdxUko4cUJLTEttS2E3Uzc4TC1lcW1JQjJGa1N5OVp1aDNn?oc=5",
+      "title": "Saudi Arabia Tourism Q1 2026: SAR82.7B Spending, 37.2M Visitors - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWE56T1NmU1M3R0xHTFVSVTUyZTBqRkF5OThhdExmdnpYc0pGLTIwLXVWVl93S1dpRkYxSXd4ek0wRUFJV3RoN01TOTlla3pIaEdEbWwxY0VaUHJEQnNjSUV3SHlMTnYybWVJa1JIWUsxcE9ndVdCaHE3NEV0cmtvb3NsbXRYVnFGdV9v?oc=5",
       "source": "Google News",
-      "age": "7h ago",
+      "age": "23h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Hotel nights grow 2.5% in May and exceed 36.3 million while prices rise 5% - Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE1hejU3d0lOdDFaZlBTZUREOFlqbTI4ejRGSnkyMV96bjFUalU2RUFTelZLQ3JWRWktWVFoMVRxZ2VUbjBWQlcwNTA4bnE5d1ZZQXZCOVd1Nng1YnF0dy0xd3ZlaVlrdVNHV3o2QTdLaWpCTUdqTmRDNi1JeEFjYlhHQzY0bDZfUmhWOWVYaEhUZ1FSLUtHX3BlNGJBY3B1UFFhSVI3NHlURzFyb0HSAbMBQVVfeXFMTkpOTlMzNTlMVlpwdUo1YU9ZVmt2bUhHQzVzaTg0UXlJRDhSbkdEblBRcmlIT3JWd2RjT3d4NjRZbjVIYXoxUDhNcnUxYnJHMXM3X1BGc29vOHN6U1JtQzN4V21IQkZxTVFSbi1OYlN1Z0tSMWtCSkhQYnl4RUk5OU1UMGQyNzRZTS1JZlN2SFloT2U2cmdVZGNRaGd5NGZYYWdoVmNESHJUMEx1a29nVm54Mmc?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "Emirates Joins Etihad, Qatar, Turkish, Iberia, TAP Air Portugal And Leading Global Airlines In A New Era Of Stopover Innovation As Complimentary JW Marriott Marquis Dubai Stays Elevate Summer 2026 Travel Demand Worldwide - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QNHpIMTc5U3ZZUUhiTEVodV9IT3NwdmNSVUlOSnI3Y0R0bW0xU3h5VDNuZ284OXhHTktENS0yX05ONXVRS1RPOTFoRFp4OGJ6VHUzVkpFckRIQnkxLXZyOUVLaXNXU2M1REdVaEZn?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "The erosion of the domestic market in Maspalomas: Higher rates for fewer occupied places - maspalomas24h.uk",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVWoxNnRQSlFFdEJfbHVVUXFDaUFScU5tLTV1RU42MnZ1ZlBhaWNsNklkaVNzWGljME5SY0d3blp3MEJrNWk1OVJsTTZpQS1UcUU0RkF1YjhOVmlYc1JkMW95b3l2MjNTMm40T0MxTFQ1TDFSQndZUXNwbDlLQVI0VWszd0J5dTJxNnZkMjJOcFA5cGRTdVoyQlJ3dlNrc2M4RzBaTkNNNXFBeWk5U0FTdWxYRktnNlA4VGswaDhBWVBlQ2lHWFV4RQ?oc=5",
       "source": "ISTAC",
-      "age": "9h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Greece Experiences Record Port Travel Activity as International Visitors Secure Summer Holidays Earlier Than Ever Before: New Update - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SY0VIbUNvQ1JTZ3d4b2tCYU9US1M1MHNHcDBnbk93cVBOc2trZjRCYnpGMzkzN0ZURHEwVnhpZ0luY2JvelQ0XzZvUXc4WnBsQUhpb0RZMGFQQnZ6V0FTcWNObmdmZm0yd0NLTFRn?oc=5",
-      "source": "Google News",
       "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "German Travel Market Enters a New Era of Budget Discipline in 2026 as Rising Living Costs Reshape Holiday Choices, Short-Haul Demand Surges and Value-Driven Tourism Redefines Europe’s Travel Landscape: All You Need to Know - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50cEVlbDlvSFRaclRKNHk1WDNLN0xhQzJJaFZZRTlEWFcxYmszd2syYy1DOGMtOERCSGtXU2c3VnJ6OEJJamluV0twRTFQTzNadlh6VXJqcXpGcDIyWTJSby0yWk1ja2V0X3BJS1R3?oc=5",
+      "title": "Macau visitor arrivals rise by 3.4% in May 2026 - Plataforma Media",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVBKMXpoMlpYMkxqUjFkTTNrdWY4TkdEamMxUWhuclhhTm1KdWxNd2NwM2hKNjFTX0xqRG1RSkRGWC1PQnN3Z20yU0c3YzR2dnhOXzZsMXdaU25sX19nUlcxWG05Ykl5RlBoTDF6bEFqYVZKbVN3THVFWUpRWkFyRFhtWHFIdmw0V1M4Q3d5aFRYakVJQXVOTg?oc=5",
       "source": "Google News",
       "age": "yesterday",
       "dot": "info"
@@ -284,28 +298,21 @@
       "title": "Mexico Outshines United States, Canada, Jamaica, Costa Rica, Panama and other North American Countries in Tourism Supremacy Surge as Global Travellers Now Flood Riviera Maya, Cancún and Los Cabos While Regional Competitors Struggle to Match - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01cklJQ2xMcUZ6cTQtdW1VUl95UTl5OTdJVElPSWNYa1lQWjl3dGVtT2tvcGhEOUxRaE11QldpVUhIakpmVlMyUk0ya0hzbjgyWHduRXFReHZ1UkRxRXRNTHNIZEFoTkFMdlE5V3VR?oc=5",
       "source": "JTB",
-      "age": "yesterday",
+      "age": "21 Jun",
       "dot": "info"
     },
     {
       "title": "Jamaica Launches Ambitious 10x10x10 Tourism Vision to Reach Ten Million Visitors and Transform National Economy Through Workforce Growth, Air Connectivity and Sustainable Tourism Expansion in 2026: All You Need to Know - Nomad Lawyer",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFFWN2RzTWxsNy1XVVJDR2dQbm9lRHVOWFlGZVVoMl9tckNFQ2l6SWdKSUpUTGtrUE5yNFc4Q1dmTWRiR0RPWjg5ektaLW1NTUdKZlB5cEI0aDk1WHVhYURrQU03MHNzTnhXT3dFc19vU0NtTzJ2dldlN1d4ZjdoaDNwc3VTQkFMOXpEbzNvU2hMTU1naEw0WWh3eEdIN1VqXzE3bk5oOWF4M1pW?oc=5",
       "source": "JTB",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "Kenya and African tourism 2026: Sustainable travel, safari, coastline and new WTTC investment - Karlobag.eu",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2NteDdGVDI4MUE1MV91bE1INy12V2FxV2xDN2RoX1QxY0Y4YjBDam5FQWVSdW02QVVVeFhmQ2lUdm1UdHVVblRiVEZJaVlJY1pUanFtSGZLbm5fYUd1M0c5dnExbjVEMUcweWszU2NBMTFGejhmMmtRYzJXNE1VcVUtdVRmQURsdkxpVzFIZW9XbDZia2RDZUNYQzV0b0Z0S3N3LUREVVFBTTNWZ1NVYVEzSS1XQW8?oc=5",
-      "source": "KTB",
-      "age": "20 Jun",
+      "age": "21 Jun",
       "dot": "info"
     }
   ],
   "airline": [
     {
       "title": "Bypassing Travel Chaos: Nairobi Executes Massive JKIA Megaproject to Shield 22 Million Passengers from African Hub Gridlock: Airline News - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZElpaUg3SU56N2JuQ1lWZHV3LUY0NkUyVUppTDVaakVJYWYtZ0JmcmVzOHRYVU5RZW5YQ2k2VFlWT1YzNTR5NzV1d29Sb1NBSjlWYWdMdk94X0NtVTdnM0dXQi15Sm5CakNmZ0haMVZYVHl1RkNvVlNib2VScUdNVmlHVE5DUDBhRVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX000WXNWQmh0QUpzcjdkdWFFeVVubGlBWVdVaURSQ3E3WF9wSGlhSk1FQkxMQVpuNHhvZWNpOEpfeTN1WFpic2s4S2lPdGZRaGpNTGpwQlM3R3JzZmQ4SDRreUVHd3VqakNZaVllaUFReGU4VzRyTzRmQThrQ0FiWFNUZzRwNWdoRVZOeXNXWQ?oc=5",
       "source": "Google News",
       "age": "20 Jun",
       "dot": "info"
@@ -350,126 +357,112 @@
   ],
   "macro": [
     {
-      "title": "Rome, Barcelona, Paris, Madrid, Florence, Venice and Nice See Record Summer Tourism Demand Despite Extreme Heat and Regional Uncertainty. Are Travellers Now Choosing Shorter Holidays and Cooler European Escapes as Temperatures Continue to - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xTGtuUWN5aFFrREdoLTNsT3V5SDFUYkM5Q3J0a1B5dTJyb1M2cnBPcUhZRktRSlhIek5PZ0dKblhyd3VTanVESjREU2cxR2drZXBKbnh5LUtjd0F0enFDaEw1MkdSYjllaTJnUXVB?oc=5",
-      "source": "Google News",
-      "age": "2h ago",
+      "title": "Canada Unites with Italy, Ireland, France, England, Iceland, Netherlands and More Nations Now in New Travel Trend as Americans Prefer to Cruise from New York, Fort Lauderdale, Boston, Cape Liberty and Philadelphia in July 4 Independence Day Holiday - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBURmpVdC1Dd0I0cDNvUkJzT2N1RDBPZ0ZiSG5FMF9sd3JrdF9VMkZqTWVPM1R3TG1rVW9QUXBIQ0ZyUVJ0Tk5KTW1jU1pUWld4SWpHUzV6RmRZNDAzQ0tSSUhidnF6SlBTQU8yUTl3?oc=5",
+      "source": "CSO Ireland",
+      "age": "11h ago",
       "dot": "info"
     },
     {
-      "title": "Switzerland Joins Germany, France and Netherlands in Showcasing Europe’s Finest Rhine River Journey as Emerald Luna Unveils Spectacular 2027-2028 Inland Waterways Cruise with Zurich, Lucerne, Basel, Strasbourg, Mannheim, Koblenz, Cologne and - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZemtvLVFCMlhhZGRuSlRhcnFiQnB6TGpuYmI2OWxmY19hTEItSmRkbzJLVmFNWWFUUXZOUmdJUkdSTHptWTR6dWNaV0pKdWwyeG5NVnZXcVFaX1lzTmk4amd0VnNiZnJCVEIwSS1R?oc=5",
+      "title": "GfK: Consumer Confidence Unchanged in June - Insight DIY",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM25xUXRHeXlDLTRJU3RPaVZsSmZVaXo5V1V3dXRGTmsySWQ1UEtRSTY4VG5HZ2NkMVh2NGpFaGFBZlR2ZTJEYVpZdS13M01NbXd6enlwUzBvTm5uTE9PY3ppVVBEeW4tQlZkYUhsTFRwX1R1LWZSMUtOZzFiY1RaVzE1bnpRQXUxMjdveg?oc=5",
+      "source": "GfK",
+      "age": "16h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Germany Overtakes United Kingdom, Italy, France, Netherlands, Bulgaria, And Other European Source Countries In Powering Greece Tourism Expansion And Revenue Growth With Nearly Forty Percent Year On Year Increase As Value Based Travel And Exte - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12OC1JQXpCRHNxbU83dmZoMlR4azl6dHFqQndiUUI0X1R6eUllN1J5enBiUk5PZGs0MjlGNlY0Y2I2NU5INERXSF9jZHdTVlc1ZUlEdnZWUHBnVUJxVkhRcXhGWnhXb3Z2TXphNVNn?oc=5",
       "source": "Google News",
-      "age": "19h ago",
+      "age": "23h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Greece joins Spain, Portugal, UK, Albania, Croatia, Austria and more countries as German travellers drive a record-breaking Summer 2026 travel surge across Europe, strengthening Southern Mediterranean dominance and boosting emerging destination dem - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RRW5GTG9QOEM3allDOTQyeWNaX2FjdjNFSG5OcHktLUN1QlhSSlE2NDI1N296SkFvVnkxTkVDcWtsQ1E5Wi1LbEJaNE9fYjhFLVRLdmNzSHNDOXp0VUJrQURwNmVwS1RlN3pUbmh3?oc=5",
+      "source": "Google News",
+      "age": "23h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Russian demand for Türkiye expected to remain strong this summer - Hürriyet Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblU2TExJVzRlOUtMZkpPOXZHUjYxNTdwOGp5V281QjFOQzhCb0ZkNXlkSzZjazViYXFTNmpTNGFBMkx1OXNab2dWT3F4V3FQZ1ZfUi1feVMzeThNMUV6VFl0Q0gxRDBCWDFpQWwwRHFUM05Iem5KR2NESmRNbFh5b1pmSWtwc01HUGNLdEZjWmRNWE5oWmx6QzRDNmhmaENvZVBTYWtUWjU?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "Starmer has resigned as PM - from holiday spending to mortgages, here's what it means for your money - The Sun",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zQ2lqckpWYS1TNzlmSG4zYWtYTnNqX1pJNU9tZTBUQWJBVldRTTBkMDc3aXQ5dkFZUlUzWHFYN1c5QzlxQlE5bTJSaWpaVVBoMHR5T0VoMi1ENk8wNjJWaWZsbTlxMlBRd1lKODk3X3BuUVZwMmt2RUV3?oc=5",
       "source": "Google News",
-      "age": "21h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "United Kingdom driving foreign investment in Spain while dominating the tourist industry - Majorca Daily Bulletin",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMzhxRUY5T2hsZEQzTzM4YmZGajZweGd3RXZIUFl0cWVZcjNYd1QwYUVKQ1BBV2ZCVWdsWWhrX2YzQ0thTnB3RWFKaE1oVTdnYUZ6ZmlndDZlWkFzYlJTRmFCTzdiUG1memk5UEE2RGFXdE9QTU5idXF0MmlSaXE5Mmw4V1dOcDVzTkRYSjFodWdiU3RtLUd4VzZhbERheWpMV09udDdUZUdjMml1VmVOSTlFRUMxUy10U0pDandHeDhMZE9PcUhySzRGTHpqMjFrcUZFQlZGM1ZIZTBHTkZXRVlLRTBQalp6dGRYedIB7AFBVV95cUxPMzhxRUY5T2hsZEQzTzM4YmZGajZweGd3RXZIUFl0cWVZcjNYd1QwYUVKQ1BBV2ZCVWdsWWhrX2YzQ0thTnB3RWFKaE1oVTdnYUZ6ZmlndDZlWkFzYlJTRmFCTzdiUG1memk5UEE2RGFXdE9QTU5idXF0MmlSaXE5Mmw4V1dOcDVzTkRYSjFodWdiU3RtLUd4VzZhbERheWpMV09udDdUZUdjMml1VmVOSTlFRUMxUy10U0pDandHeDhMZE9PcUhySzRGTHpqMjFrcUZFQlZGM1ZIZTBHTkZXRVlLRTBQalp6dGRYeQ?oc=5",
       "source": "Google News",
-      "age": "23h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Belgian households spend an average of €3,500 on holidays in 2026 - BNP Paribas Fortis",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmVwT0g4Tl9NZEt5em5uQkJxZTJJY2ItcHdobEMyQk9VdFJVVDVkQTFLZ2Y4UjNzczQtNFhoOVdXRnBZYXBnZVM2LWhxdzI3Skx1dGlndVA3S05DLVF2OU9iZ2V2WE05RHlUaFRmd1M2NDlWc3N0a3FwdUxTWjBOWGRZVEw4SUlaNnRsTmRXX3lWNjhIYXU1cXpxbkd5R0syQ0E?oc=5",
-      "source": "ONS",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "Portugal Joins United States, United Kingdom, Ireland, Spain, France, Germany, Netherlands, Belgium and Italy as Victoria Golf Resort & Spa by Accor Unveils Summer 2026 Luxury Travel Experiences Across the Algarve - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPa1E0SGxfRGlzT2NyRllMNGhHSkdyZE4tTXJXVjc3QUZZYzN2dHRkNTJDRmNJeVRFczBYbExSTHBncnJRbUdiN0RoOUZnbDVabkZ4aEI4akZsQXhZVGFtdmFYTFphazAtQW9JUmpB?oc=5",
-      "source": "Google News",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "German Tourists Slash Holiday Spending in 2026 as Budget Travel Trend Explodes Across Europe - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52VldOeWtrem8yNkRsYncxNmYtN2tjRXVGYXFQR29IYnJKQVpFeWRTbU1GbFZ3bXdvMGo5ZWFOcWg1MGZ6WGd5Z3pHQzFNcjVNanhrVE5wQjVqdHh4ekRvN1VFVWEtZVNpR1lESWJB?oc=5",
-      "source": "CSO Ireland",
       "age": "yesterday",
       "dot": "info"
     }
   ],
   "events": [
     {
-      "title": "Country Stampede Sets Attendance Record at 2026 Festival - geneonline.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWdUUU54a2Q1bE9ld3Jld2dMLXhPYkNQRkFDVlRmcjVBRkpmVEdndjFWVnM4WTd6RWc2MXI2VmxTM0N4cnpfc1RqQ1pJeUtkWTNLYkVfa0xXS1daMHhoQlBjbnVOZ3FrVHJ0UFZLU0lkR2JpT1F5alA3RHpmMEZ1YkRaSXd3c1RFbVhrbQ?oc=5",
+      "title": "Jamaica Dream Weekend Festival Relocates to Montego Bay for Massive 17th Edition Expansion Shock - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lbjJVOGRiQmpPZ01tUG04eGJsN3RHcDZ0ZlBiRlRhY21vaXN1X0w0RE1FemJzOW9TVXdqT1FjbDVhMlM2dk90R3pMckQwdmVQSkhLcDg4eTA0N0xMdnRTTUFtbFdvSUdFWnlKb2dn?oc=5",
       "source": "Google News",
-      "age": "20h ago",
+      "age": "12h ago",
       "dot": "info"
     },
     {
-      "title": "2,500 Candidates Compete for 600 Jobs at the Tenerife Cook Music Fest - Tenerife Weekly News",
+      "title": "‘Railcation’ season prepares to get underway this summer - RailAdvent",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTdZLTgwbGhyOUwtSUdQdzNpS0h1WHp1NWJ3SG9laXdMTWt3U0hFVzRJT2lOR2xCcWN6UzB3TjJLcGFBRXNUX2ZhTGhYZ1k5bnUtS3VLU2phSmdkQnNuUkZxQ1R2eHc4aXJsVk1UMERXWEtPcUc3RXN3S081VHdBOTlWdnRVOG80aHV0Q1N4M3BkVXUxNWkyX3drQXc?oc=5",
+      "source": "Google News",
+      "age": "18h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Country Stampede Sets Attendance Record at 2026 Festival - geneonline.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWdUUU54a2Q1bE9ld3Jld2dMLXhPYkNQRkFDVlRmcjVBRkpmVEdndjFWVnM4WTd6RWc2MXI2VmxTM0N4cnpfc1RqQ1pJeUtkWTNLYkVfa0xXS1daMHhoQlBjbnVOZ3FrVHJ0UFZLU0lkR2JpT1F5alA3RHpmMEZ1YkRaSXd3c1RFbVhrbQ?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "2,500 Candidates Compete for 600 Jobs at the Tenerife Cook Music Fest - Tenerife Weekly",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUdjS0x4WkNlR1pGcVdsU2VHX0FmOENCWUVkdVVUbTBaZEZnN0lvd3RPV2xiYlVMY25ucUtVam8xeDdWY1hkV0hLSE9oVk5MNWVJck9ZVUV6ZElHc3dnVlU2dTFBcXE5MDBNd3lBUk9qMWVwbjBVM2FYMTdIQjRONmZpUlNNczlDSFVTNWpLX2pneVFCVWRLWU5BMlpUVzJLRmhXUzZ5eEN1Wk0?oc=5",
       "source": "Google News",
-      "age": "21h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "Paris, Budapest and Europe See Major Football Tourism Surge Now as Air France Adds Extra Flights for UEFA Champions League Final, Expanding Capacity for PSG and Arsenal Supporters—Could Sports Travel Become Europe’s Strongest Aviation Driver T - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LQUhZNlRYbTdLamNlcWpDdFNNWlBiSTlVWW9ubjIwaXF5SEFWcEZsLWVtdF9lX3RUVjgxekF0T2RGN2tLRUdrRVhxZmRZNllEeWVwU190REotSGROMzgzMWYwSkFPNlZ3dnNwNkR3?oc=5",
       "source": "Google News",
-      "age": "22h ago",
-      "dot": "info"
-    },
-    {
-      "title": "New Zealand Joins UK, US, China, Singapore, Hong Kong, South Korea and More Countries in a Massive Queenstown Airport Winter Travel Surge Fueling Record Passenger Influx and Global Ski Tourism Boom - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamNlQ010dk5PYzVrblBhUVJJNm9rM05sSnV6QVBGZkNWbEkwWEIyQzB1SUowekV6Y29iXzBobjZZalVib2tSV25MNlE5RXkxT3FlRWt4MXdvcnliSmtuNkEwd25mVnZLZ0VRaDh2aC1TR2dNbmJUSzQ1ajZnZjJvUkRsNXZ0Q1FmazBVcWZaNF9RWVh4R1hYUXVvSk5uZ0NTeTZBQUZyOFJiLWxH?oc=5",
-      "source": "Google News",
-      "age": "23h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "New Zealand Joins UK, US, China, Singapore, Hong Kong, South Korea and More Countries in a Massive Queenstown Airport Winter Travel Surge Fueling Record Passenger Influx and Global Ski Tourism Boom - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRRkVRSEFyQmhJLWthTzdXU0FBQzBQWml1V3B3aDc0clNnbWU2WGF5UXQzUXI3X3lUZFBSeTBwejN1R0pxT3JRS3BEdmxQemlpRDVsOEZVc0tscFh1c09HeGNnS0JYZ25tU2ZFb1ZR?oc=5",
       "source": "Google News",
-      "age": "yesterday",
+      "age": "22 Jun",
       "dot": "info"
     },
     {
       "title": "Austria Joins Argentina, France, Germany, and Spain in Reaping Unprecedented 2026 World Cup Tourism Windfalls as Millions of European Football Fans Pivot to Long-Haul Travel Plans to North America Ahead of Tonight’s High-Stakes Group J Clash in Tex - Travel And Tour World",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQTUh0a0pRS2FLblk2RU5RTTFiOGZJdDA3U2xrQThqS3BjUEJtMGpmUTlzb1FmTE53NlNKb0lwaVlaMVdHLWFqV244QTRBUDVhbzNUT250ZWlGdktfZGZ2TjNCRVNVYkE0WnZITWZR?oc=5",
       "source": "Google News",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "Aviation Updates: World Cup Fans Escape Travel Chaos by Flocking to Oversized American Diners - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOODNDRnpQMUhqWDBoNEtMQVhsMTBQUWQwNTVBR2VQMF9kUkFrRmNZRFFBd1NHcGFFRTlEVzk1bFdPTVp2cm40cEtHdXlpWDhPWV9UWU1tdmluMFFZRUh4R0N5TWVkMGVKZzY0MEpybk00YTJnYU44MG9Ea1NZb1ZlSQ?oc=5",
-      "source": "Google News",
-      "age": "yesterday",
+      "age": "22 Jun",
       "dot": "info"
     }
   ],
   "weather": [
     {
-      "title": "Wavy jet stream brings historic heat to western USA, rain and strong winds to Canaries & Madeira - Netweather",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTNzS2liNXQta01Oem5TcDlrbDhmTjBkX3NEMzZfNVVwdkx4U2gxc0U4OVZQb3lScXBqN3JranpvcnB1aTRsMlVGRVUwRGNsVXNCRVpodG1pdm1DZm9zeXUzY2djVGE2RnlBTmJsMmZlRERUcU1ySUpZaUFveHVCZ1h6LURQdWp3LXY0cUhqNlRZeGFiLUhBOTFjZC1aM0VCTFotOHp0NmR4UFBBVDhDbmxnRjA2eXdHekVzRVMxMU83d19EbVM5MTRrYVVPU3hzNkdhOXp5eGR5eVpLS0Nhc2Fn?oc=5",
+      "title": "Where is cool in Europe during summer? Best holidays to avoid the heat - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy0yMWloX3dUYWNlM1gtb1VWRXVfZVp6elpZc2VENXhuV1NwWkQ5SXk2LWNuUW9WMkpDVVB0RTZUUl9WMzVWT0RvRUdoaTNTWmdTYll4V0VlaWsxcm1GOThKdmc2MWtSMFdNOFVkcFduYVRwa2J2d1cxUE83eWwwQXhFR3Q1bUFwdmprSE5veTlaN1ZxQ3lnNXRVMC1sLW16U1N2WnRtS1p1WDA?oc=5",
       "source": "Google News",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "This week’s weather on Lanzarote - Gazette Life",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TcjJxZERMRFhoa2VKRDFmblhOZ3dCYnF3eGxaZlhNX1ZwWmozYVREaElrUFVyaG05YVJkU0VVbnFneUNrTEh1d0ZIamJaZklpdm1TMllKVGJaRjdhaHh6bU1RVFQta0tDZW5UNldn?oc=5",
-      "source": "Google News",
-      "age": "21 Jun",
-      "dot": "info"
-    },
-    {
-      "title": "Forecasts for a Super El Nino to develop in 2026 and how it may impact our weather - Netweather",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVzFqdU5BaXlYQzVJeVFpWnd1aXhIa08tdklBY3BQNzE2c3BMbUU4Y0FiWHQ2bm8yWWNvbm5WZnBlU1JIaUdhY21BNEpuVU5zaDB2Vy1aam00eGpWZV9FQ3NRSnJkUjBKZ2ZjZ3N3Z3p3WncwLWMyOWFLYjM4NkdnZDdLejRVM2RuazJCQ240WXFzR2tEQ2NBS1pIcjRIMmNjcDI4WDBpWlBCWFJ2Zk5xYkZTcjBMWExfY0RHVVFUclZjOEplS004R0V6TkxGSHlhSXVZ?oc=5",
-      "source": "Google News",
-      "age": "21 Jun",
+      "age": "20h ago",
       "dot": "info"
     },
     {
@@ -480,5 +473,13 @@
       "dot": "info"
     }
   ],
-  "reputation": []
+  "reputation": [
+    {
+      "title": "Albufeira Reviews Tourist Conduct Measures as Efforts to Promote Responsible Tourism Show Positive Results: All You Need to Know - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96R2lBRGZ1OVRmNlhVUjk2alBkUVdLMTVOZnh1M2QxeTB6Slg2c3VBNkQySTQzOEJWNG1lZTBQbkNhMVlLZ0lfeEhmcHFYeVF6bTE4b3NTaktFSlJ4NTM3X2VzbzRKR0E2R0cySnh3?oc=5",
+      "source": "Google News",
+      "age": "12h ago",
+      "dot": "info"
+    }
+  ]
 }
