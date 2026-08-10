@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-09T07:00:59.575966",
-  "date_label": "Sunday 09 August 2026",
+  "generated": "2026-08-10T07:44:21.031153",
+  "date_label": "Monday 10 August 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 65,
+    "total_stories": 58,
     "muthu_mentions": 0,
-    "competitor_changes": 2,
-    "new_routes": 3,
-    "events": 5,
+    "competitor_changes": 0,
+    "new_routes": 2,
+    "events": 6,
     "weather_alerts": 0
   },
   "currency": [
@@ -39,9 +39,16 @@
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 1,
+      "bar": 12,
+      "articles": [
+        {
+          "title": "Jet2holidays discount codes for August – £100 off holidays - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3k0aXFOQ002WVh3SWZiTF9tZmVuUURUNmFBNEh3eUlCMFY5QTZmMVp5V3pnWlhhUENwbWlxUkN1cklsaE8yLXM3UF9nX1R6MmZIYXJNb0lpaUozMmc5RllZMm9hQkFYeWJJNHBxZzZHdDlCLTM3aHAyQWhLUGUwZWlLaGtacDZLQ0E?oc=5",
+          "age": "7 Aug",
+          "_ts": 1786104060.0
+        }
+      ]
     },
     {
       "dest": "Kenya safari",
@@ -51,7 +58,7 @@
         {
           "title": "The best — and most unforgettable — ways to experience Africa in 2026 - qz.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXTmhEZm96ZFp0Qkk2NzY4MmdTZTczbGt4MjBPMENLSTYxa3VaVUtmRjJjS05jejBGdHYyOGpiaVFPNVNxLW5ibDF5SjF5ekFIYnNOeHp2SnhzRHNLbENJSmVCb1FxMzVXaHh6UlJB?oc=5",
-          "age": "21h ago",
+          "age": "yesterday",
           "_ts": 1786181420.0
         },
         {
@@ -64,20 +71,20 @@
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 2,
-      "bar": 24,
+      "articles_24h": 3,
+      "bar": 36,
       "articles": [
+        {
+          "title": "Scotland’s Viking-Named Royal Burgh Turns 800 With Free Festivals Through November - Travelers Today",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWtNMzFpMzQtQzlLVExaU0VIdmQzcnBJaW9ObjUtbHRoLXlqX1htVTF3YUFuTXRiRlUwNTlTTTM0RS01cEI1WTRkdklfajNyTndaeVk4Wm53eG9tQ3pLX016aXM2aUQxb1J3TE56S3JNdGhOR3BhNzBhdWdaTmYtc3VMSUsxemZiZ0JTYk9wWVREa3J6OE00MGNuZzBldVlJeTFlX1dseFdMODhUSnE4amVORGFIUTBhWHJadDBEWnhKVV8tRWxVVnROc3hUMk5u?oc=5",
+          "age": "7h ago",
+          "_ts": 1786321717.0
+        },
         {
           "title": "Edinburgh Fringe 2026 Takes Center Stage in Global Festival Boom - Nomad Lawyer",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1URnBzQ0w1S0pLbm9GZ1hENEZHanhQRHJkZGIzTWlHNzZLZHBRSFA4SUh1dnFpdG5BOE1sTjBOdVpLWFRjcFBMdjNqSEU5MkYyenl0NU1ueHBoRFNXLWplWEh6aUhUNmVyLTFvUE5xOGxYZFdtWDQ2c0hFaw?oc=5",
           "age": "5 Aug",
           "_ts": 1785931186.0
-        },
-        {
-          "title": "Wild Highlands Retreat: How Hope Lodge Sutherland Combines Luxury and Conservation - Nomad Lawyer",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVNvajJpc0pHeHl2cUkzMzZuVmRyUWdTVExyRHpjZlV3UGVDcmlhX0RITzcxbHVyRTRPQy16UnhLM3hjZEFpaUhFSjEwUkVMWF9rMk5YelNscno5Sjh5ZzhoN1VZb0E4T3hnMXJabkJiWVozTm1LaVhmeC1nOVd0TVh0eVEtZzktTkRocVF1bm4?oc=5",
-          "age": "7 Aug",
-          "_ts": 1786066227.0
         }
       ]
     },
@@ -96,20 +103,14 @@
     },
     {
       "dest": "Jamaica all-inclusive",
-      "articles_24h": 2,
-      "bar": 24,
+      "articles_24h": 1,
+      "bar": 12,
       "articles": [
         {
           "title": "Holiday on August 6, 2026 — Jamaica’s Independence Day: 64 Years of Freedom - UA.NEWS",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZnc3NWVyS3I5QTZ1MDE5X184ZGJHNHp3V0VwX3UyV3JFXzVleFhYRjBKaFVhVUhCdC1kRzh5N21nYjRiU3Z2by1LaXdFQ2R1eTVzNEo1blNGd2ZXeEVfTVBhWERBMXN3ckJVb2hFRXJiNFdBUUxLZWJ3Umt3MUtlUzRsRDlyWlRHakd2VW85VQ?oc=5",
           "age": "6 Aug",
           "_ts": 1786048167.0
-        },
-        {
-          "title": "Universal Orlando Resort Features 2026 Holiday Events - Recommend Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUQ3WHp0MXVWOVhIbWdBZGFjejQ3TUhUZ1NLaXRKZWVSaWMzSENKM0ZtdU1tWVpGQUlwVkhaLU43MHc0el9YLUVjUlZsRUkzV0hPbFM2RjY3dkJIZEFsR0ZlSjFoMmxSV1duVVg4d3RaV3JjT250ZGU3d3VKdEFBM0ZLSEtiaWNDY2pyMnVjS2hhbUxsbXhOU21JekFJdklKRXc?oc=5",
-          "age": "6 Aug",
-          "_ts": 1786043530.0
         }
       ]
     }
@@ -117,73 +118,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Cambodia Travel Boom Surges As Iconic Angkor Attracts Rising Chinese Travellers With Strong July Visitor Growth",
-      "link": "https://www.travelandtourworld.com/news/article/iapxe2skm3mh/",
+      "title": "Ukrainian Drone Strike Tatarstan Sends Fresh Travel Security Shockwaves Across Russia’s Industrial Heartland",
+      "link": "https://www.travelandtourworld.com/news/article/42gzut8to92p/",
       "source": "Travel & Tour World",
-      "age": "just now",
+      "age": "8m ago",
       "dot": "info"
     },
     {
-      "title": "Nigeria Launches US Healthcare Partnership To Transform Medical Tourism And Bring Advanced Treatments Home",
-      "link": "https://www.travelandtourworld.com/news/article/ovw9ksgh1dl2/",
+      "title": "England Sees A Heritage Travel Boom As Seekers Fall In Love With Its Wild Cliffs And Ancient Streets",
+      "link": "https://www.travelandtourworld.com/news/article/4388dgbc9ugs/",
       "source": "Travel & Tour World",
-      "age": "2m ago",
+      "age": "10m ago",
       "dot": "info"
     },
     {
-      "title": "Zanzibar Luxury Beach Tourism Boom Drives High Rental Returns As Premium Holiday Properties Surge",
-      "link": "https://www.travelandtourworld.com/news/article/qf8gqfl6v4q6/",
+      "title": "Norway’s Arctic Cycling Tourism Hits a Lofoten Bottleneck as Zürich Flights Continue After 15 August",
+      "link": "https://www.travelandtourworld.com/news/article/0y3e18nn4qbl/",
       "source": "Travel & Tour World",
-      "age": "3m ago",
+      "age": "11m ago",
       "dot": "info"
     },
     {
-      "title": "United States Leads Grenada Tourism Appeal in 2026 as Stopover Growth and Caribbean Travel Demand Expand",
-      "link": "https://www.travelandtourworld.com/news/article/mh56l5qcpou4/",
+      "title": "DigiTrips Unveils Global Travel Technology Ambition at Fitur as B2B Connectivity Revolution Expands Across Latin America",
+      "link": "https://www.travelandtourworld.com/news/article/153csyrnejhd/",
       "source": "Travel & Tour World",
-      "age": "13m ago",
+      "age": "14m ago",
       "dot": "info"
     },
     {
-      "title": "Jordan Travel Boom Reaches New Heights As Over Three Million Visitors Drive JD2.47 Billion Tourism Revenue Surge In 2026",
-      "link": "https://www.travelandtourworld.com/news/article/66hqfiq2x5pv/",
+      "title": "Raja Ampat, Indonesia: New Tourism Fees Put Conservation at the Heart of Paradise",
+      "link": "https://www.travelandtourworld.com/news/article/nnly7icmn2d1/",
       "source": "Travel & Tour World",
-      "age": "16m ago",
+      "age": "17m ago",
       "dot": "info"
     },
     {
-      "title": "Bangladesh Strengthens Airport Defence With Advanced Anti-Drone Technology To Protect Flights And Passengers",
-      "link": "https://www.travelandtourworld.com/news/article/3dsintjsls8u/",
+      "title": "UAE and Other Middle East Countries Unlock New Travel Growth Through Saudi Arabia’s UNESCO AI Forum",
+      "link": "https://www.travelandtourworld.com/news/article/kia68do557mb/",
       "source": "Travel & Tour World",
-      "age": "18m ago",
+      "age": "20m ago",
       "dot": "info"
     },
     {
-      "title": "UAE Pairs Up With More Countries To Condemn Strait Of Hormuz Tanker Strike As Gulf Travel Concerns Escalate",
-      "link": "https://www.travelandtourworld.com/news/article/6vm6tfaaexym/",
+      "title": "SkyWest Airlines Embraer E175LR Operating for United Airlines from Shreveport to Denver Diverts and Lands at Grand Junction Regional Airport on August 8: What You Need to Know",
+      "link": "https://www.travelandtourworld.com/news/article/9gj05eru1yo8/",
       "source": "Travel & Tour World",
-      "age": "22m ago",
+      "age": "26m ago",
       "dot": "info"
     },
     {
-      "title": "Tanzania’s Serengeti Safari Marathon Drives New East Africa Tourism Era Beyond Traditional Wildlife Safaris",
-      "link": "https://www.travelandtourworld.com/news/article/bb1ph692s7m6/",
+      "title": "Starlink in Cars Could Revolutionise Road Travel as Elon Musk Targets Billions of Connected Vehicles",
+      "link": "https://www.travelandtourworld.com/news/article/jwzo8kbhn08q/",
       "source": "Travel & Tour World",
-      "age": "23m ago",
+      "age": "32m ago",
       "dot": "info"
     },
     {
-      "title": "Aman Threatened to Call the Police on a Creator. Why the Whole Industry Should Pay Attention.",
-      "link": "https://skift.com/2026/08/08/aman-threatened-to-call-the-police-on-a-creator-why-the-whole-industry-should-pay-attention/",
-      "source": "Skift",
-      "age": "14h ago",
+      "title": "Beyond Occupancy: Building Profit, Purpose, and Legacy in Hospitality",
+      "link": "https://www.hospitalitynet.org/opinion/4133778/beyond-occupancy-building-profit-purpose-and-legacy-in-hospitality",
+      "source": "HospitalityNet",
+      "age": "38m ago",
       "dot": "info"
     },
     {
-      "title": "Google Brings Agentic AI to Ask Maps Hotel Search",
-      "link": "https://skift.com/2026/08/07/google-brings-agentic-ai-to-ask-maps-hotel-search/",
-      "source": "Skift",
-      "age": "yesterday",
+      "title": "Food Hall Concept Done Right at Fairmont The Queen Elizabeth",
+      "link": "https://www.hospitalitynet.org/opinion/4133610/food-hall-concept-done-right-at-fairmont-the-queen-elizabeth",
+      "source": "HospitalityNet",
+      "age": "38m ago",
       "dot": "info"
     }
   ],
@@ -224,20 +225,6 @@
       "age": "today"
     },
     {
-      "title": "H10 — General offers",
-      "source": "H10",
-      "link": "https://www.h10hotels.com/en/offers",
-      "dot": "new",
-      "age": "today"
-    },
-    {
-      "title": "H10 — Explore our hotels",
-      "source": "H10",
-      "link": "https://www.h10hotels.com/en/offers",
-      "dot": "new",
-      "age": "today"
-    },
-    {
       "title": "Spectacular Algarve all-inclusive golf resort for 7 nights — for under £750 - The Sun",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTBJUUNpRWJablNkU0hHYUY0MkM5bWRFYkFDbjBjRi0zRmtabThuUkpyQXp3ZG5qS0ZfemtvNnRIR2U3UFBNQjJTMnRhbDlpZ2JKdVlXdDJ2dld3SXJGa1hoRlpPa242SnVkRDdaT1o2TzhleUJSMEdXWk1EQ0VXUlp6anRHblJOU1E?oc=5",
       "source": "Riu",
@@ -254,10 +241,17 @@
   ],
   "tourism": [
     {
+      "title": "UK Tourists Market Share Outpaces US Across Europe and Mediterranean - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWhxcDBSRXZZeHNxLUFHbzJfR0dXS3RZOGEwRWFjcGxqODdoVDhUUXpaLWw1NElveXozOXFLTFBGVzdiSlFMQUdKOVFkRnVYR1JHcmVNVTV0eF85eTBySU91ZGplUFZXWDVtMXBDaUdvVkx5X1F5ZU1qcG9HY1l0OFlPampLR1lhM0xpeUVtWFc?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
       "title": "Golf Tourism’s Expansion Faces a Nature Fight in Scotland’s Highlands - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa05WNXJmRDJWVXZCTHRPazFIa2FPX0xqay15NHNublVaeWhWU3hqZUN0SkhPOWNZOE1ZbmxVbDVGTjExckVtQ2NaWktvTFRaQW04TlRfbUtIc1pWVWZBZlh4emhOMjBubjVwaFZNUXN5NmNoZ283QUF1VmJYbngtdjdqaDNudDA3M2kzWkV6eHFfOHZtVERma3RzVklKb3VwSUs3Q3dMdjl5RGpFdHlnZHcyNVNTbnZhY1R2SEJXS20?oc=5",
       "source": "VisitScotland",
-      "age": "yesterday",
+      "age": "7 Aug",
       "dot": "info"
     },
     {
@@ -275,7 +269,7 @@
       "dot": "info"
     },
     {
-      "title": "A shift in trends in Malaga: hotels are seeing fewer guests, but those who stay are spending more days in the city - surinenglish.com",
+      "title": "A shift in trends in Malaga: hotels are seeing fewer guests, but those who stay are spending more days in the city - Sur in English",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1F2aDc3c1p2OWN4MUd6aDJ2QnhRRU5oeHZkTXBjTHFuZnA2Tm9XRTJlVFdNc3NVamt2bzBFRzQ0MElMTUctdDhvOWFhMm5PQkxUd2U4T0MxQW9qSUppTDF2TkdvYXh6ckFYUG56bWZpQWNlS3YzREs4T0s0b1RGUUdqU0dSaXJ0d09CQnJkUE9NRXR3?oc=5",
       "source": "Google News",
       "age": "6 Aug",
@@ -296,15 +290,8 @@
       "dot": "info"
     },
     {
-      "title": "European Hotel Performance June 2026: European hospitality delivered a solid June - hospitality-on.com",
+      "title": "European Hotel Performance June 2026: European hospitality delivered a solid June - Hospitality ON",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmJraEE4T05EZW5TRzd3emV5WHFqOHlKZ1RJY1YxUElpZTNQeC1xdjk5STJva1pQNUtrRGoyTm9yVVNDak9TQTJWWGVvY2Zsenl4T25FbmdONXZPN1N0Ny1mMHRlVWtJX2ZDalgyc2pEUnBfNmhwSUN6TXl3Mi1FX2pZS0JZNG9GUk5iMmRhUlIzZFRzSmxQMkJkcWV5RHJwVTREejBuTklSeU1hMkVLSkcteDlkUQ?oc=5",
-      "source": "Google News",
-      "age": "3 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "Nepal Welcomes 71,775 Foreign Tourists in July 2026, India Leads Arrivals - Ratopati",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzdYamd5eVhlTno4NXlsSF9CN2lITmZjaHE0OER1YlRFYUI4dmtub3VxblRXZm05SjUzWDdaLTJkZlZJcWhWUmoxaDE1dHNBcFlmQTNhX2hkQi1yaDNscDNZbmtycl9neXJKTnBpYmZ0V3dtanNWcEFTZEJldWFwRkY3UWZIcTh4UHo1R2dsNWxEcmJCSWtYeWxKaG5nUnNLMS1CN3pMMDVrVzFxR0xmeDQ5S0RTaFM3T1BsY2gtZzMzb3A2?oc=5",
       "source": "Google News",
       "age": "3 Aug",
       "dot": "info"
@@ -312,24 +299,17 @@
   ],
   "airline": [
     {
+      "title": "Eldoret Set to Get New International Flight Route Under KCAA Approval - Kenyans.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbU5FTXJwUnl4UWJsQi1vSGtjSlRacmpZWkRDM2VuS3ZBbDdpMzVUWS1nNVBCM0NNX1prRkZUUlpkOUg2N2FILWVmLTNBUWpxRWlVSGZaV2ttZE4zcUhFd1dZZzBqREJHSktvTXJtV1N4cU5sQnV6SFV4aHMzbHVmeEhab2VTUUlRd3V5cVZOWGtucG5BQkMwRXE3SFk?oc=5",
+      "source": "Google News",
+      "age": "14h ago",
+      "dot": "info"
+    },
+    {
       "title": "Air Canada Launches These 3 Massive New Long-Haul Routes [Map & List] - Simple Flying",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkRsRW1wR0c2X1NoNl81UzhQd1VUb1FBSWFaek1FU19Pb2ZtRTh4bHM1elcxbmIzcmZ6MEUwcnRzMk1TeXZhdkVudEp3ZUFlUlRKMklmb0VSQVAyT2JXek5rS0Y5N3VxU25yTlJ5YVR5ODJLdnBGSVU1RzBscWR2Z3NtTDV3MUJRRVE?oc=5",
       "source": "Google News",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "Turkish Airlines Implements Ground Handling Transition at Nairobi's Jomo Kenyatta International Airport - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVVdMVGRvUWMxZ29kTnkxVUFzSUZrbUZOLXlwTC1QYV9uRjJubjVQa1NzNlZzeWxRVTJfd1A1cTB1NmhjaG9QMHAwV2ZYZ1loLVluT1NFRHlCNEY5bkhiUnFEQkRoTUlaWDkyeUpRN0lfbFdrcS1XUkY1R0J2NFdCMVVab1JuRkVSVkV2SA?oc=5",
-      "source": "Google News",
-      "age": "4 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "Sun Country Is Bringing Back Its Nonstop Flights From Minneapolis to Montego Bay, Jamaica - Caribbean Journal",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3NUWUE2ckdqSGttM3lQS0F3N3Z2UE9scTl5cnY5NEQ3MjM0YnNFMlNKaTBMV2hHY1JzUHEwUm1WZ2JGQkpicHJZandybmlvUDZ0NUc0dlRMM01TUHNXeHlMNkhabDFscWtJckxDcTVIemE1R2JwQ2dvQWtFTXhXcnB5M3hpdnF2bUFrQ2pNOWpDdF9TWEN2YTNFc3RaMHg3N2RLZHNxWHViSnA4OHFPR0wyY3RVQmNNbjQzV05tdkl4VWppb2tacg?oc=5",
-      "source": "Google News",
-      "age": "2 Aug",
+      "age": "7 Aug",
       "dot": "info"
     }
   ],
@@ -347,27 +327,13 @@
       "title": "Greece wins over European tourists as 29% plan a visit, with demand growing beyond summer - ProtoThema English",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFp4TmRkcXpxU19Cc2RoLVYwWTVtTzJzMXV3cGJoNzVWZjQ0Wjh4S0pFb2VGWm1JUlZDVEk2NEhnMmRuakd4bE5jeGtucUg3UzRfbTFxdjllSHZHOWd0WGZhVVNveTVhcDJNMFpCNkFHek1TeXl2NHUyWkpiMU44RWxjOWdYQXNlRlVBYnU5OXB2aXJRckMtZFJkWk5pMG1LSXl6d1EtOWVjZXdRMjJsYVFoWm41M0VRalk0aHRfUTRrdw?oc=5",
       "source": "Google News",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "Agoda Reveals Europe's 2026 Summer Travel Interest to Asia: Searches to India climb - HospiBuz",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWt2ZGNQcVljZFhGWUpjRjFuWlhLZ19Xck9EeEdQa09qQ1ZOZTI2eXF3ZXY2N25MRjZDbzBXcWZHSDRCREZfSGxIdHVTVDVXVmh6a0NseF9hWHFfYXJVcmkwcl9mOFNhbzNyXzBBLWV3LXRoeGp0eFJzTWI5OFRoM280WXhieF9HY2lyVlVVVm5iYXRRZkVBNDBUTm1hRng2QlZQR3ZHUVpSMGVrUEZaSk5CQjRZRm9VcThJRjRWdjZGeFlhRUU2bEhUdjBfblhRN091QtIB1AFBVV95cUxONWt2ZGNQcVljZFhGWUpjRjFuWlhLZ19Xck9EeEdQa09qQ1ZOZTI2eXF3ZXY2N25MRjZDbzBXcWZHSDRCREZfSGxIdHVTVDVXVmh6a0NseF9hWHFfYXJVcmkwcl9mOFNhbzNyXzBBLWV3LXRoeGp0eFJzTWI5OFRoM280WXhieF9HY2lyVlVVVm5iYXRRZkVBNDBUTm1hRng2QlZQR3ZHUVpSMGVrUEZaSk5CQjRZRm9VcThJRjRWdjZGeFlhRUU2bEhUdjBfblhRN091Qg?oc=5",
-      "source": "Google News",
-      "age": "6 Aug",
+      "age": "7 Aug",
       "dot": "info"
     },
     {
       "title": "Summer Travel 2026: The experience economy is reshaping how we travel and how we pay - Business & Finance",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWVnQ2YzQmlEQjB0RmI5eUxpTXNwUkctemJmVkdyQ2tScm1SaHRHWnA0Rzl4eDF0OUw2MDhxeVZmZGdNMkdibnk4bXNVeUdoYTNaVXlXTUo1Z09PT2c3TkNHZVF2N05Gakx4bWgtdFRDVFpIcG9iaDc3R28yUmpOTVdSRm5IcldmX2xweEdmNTV4RDBDUDkySzBLR2RSVzVqZEVEQUFmNGpoRHFLWnRnc3dKVTNHckM3YWFHSg?oc=5",
       "source": "CSO Ireland",
-      "age": "5 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "Need anything from Tesco? – how about an all-inclusive holiday to the Med? - Tesco PLC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnFVWXQ0QnRGODFXY3dGcjlXSXJFMWhOc0E4RmsyQUVOUVpWVjE1ZThMSEdyTGlWRzBzX0FyMTBCd2thc1NjUVJUMFBUTk1NbUdqaHM1N3J6VUNRSGxzWERfOU1Md2ZfWWVCbjFud1hVUWpVN0hsWUpHM0w4bnFiQkI1Z05OeEZKSnNpMldCcWNKZjA1Q01jeTYzakY?oc=5",
-      "source": "ONS",
       "age": "5 Aug",
       "dot": "info"
     },
@@ -384,7 +350,14 @@
       "title": "47th Maine Highland Games and Scottish Festival features famed ‘Boston Cone’ - WABI",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXQtdU00bi1nQUNGaW02Q2VYSlNhVmhMOEpLWEtMbXVnYzkydWdNT1VVSzBfdXNGdXBPdGRPQjVuT0VLM1kzdmtCQ28zdkFSLVdtWW9tYjN1Ykd1Q0pzQThmMGgxTU1pTEJCb0xzT3lpVTAxMWk0NG5ubTE4WHdwRzdvTWZBOEhadk5jU1loeFRGVWd2WWV6Nm5kMVNRMWg5TjlDZ9IBuAFBVV95cUxORW0tOHpGNmFpWG02cEtWYUo5YkRGRFlCbUVSTG9sWVJveUpOQzJHRDlGdjIxbWtOdTRsRVU0dm5oYUxja3l4MHJYQTZQV001TE01ZVhSZ0dVUVFGbGRiNEprZVlIV2RGMFluaGNwV0tJYzl5YXZfamlDMnNrTXF5aXdmaDctRFgzM2hYRXRmQjJxUlQtakRhbFBmQVAxbExrTjJrUWhJTUlIRV9oZ2NPR2xvSzhqZ0p0?oc=5",
       "source": "VisitScotland",
-      "age": "10h ago",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "Kenya Health Alert: US CDC Issues Dengue Fever Warning for Tourists - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTjMtNTlSX3hHZ204SnBLU2RmYlctcUlnODRmMjRpTlVkQnF3bFVnOHJJRk8zeWc3d3RxY3NHRWtFenRKcnJCYjhxX3Fhd0lWcGY3VFBXN043MEJ2ODJIUXAwVXk2ZXgxd203Zy1XQmRQaG9NSDVHQUtnd0xnbWM1dlVEclVRb01XTlA4?oc=5",
+      "source": "Google News",
+      "age": "7 Aug",
       "dot": "info"
     },
     {
@@ -422,13 +395,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOE9DMmJLWXpzWmx4clZYRnNaSGZOVV9SUDFWeXRBUjlfaUdHU2xNUzhyLW9KdGF0em84TklwNy05TTk0LWh4b2JOeU9EMmhjUVVFOXU5VHdibXl0VDBVZU1UTmVUcDZzRXQ0NzJjQ0VFZEZObnVYNUNhWHhHcXFkMVFHVFJMT0c4dVNYQXZ4QXdHNTg?oc=5",
       "source": "Google News",
       "age": "5 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "This week’s weather on Lanzarote - Gazette Life",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TcjJxZERMRFhoa2VKRDFmblhOZ3dCYnF3eGxaZlhNX1ZwWmozYVREaElrUFVyaG05YVJkU0VVbnFneUNrTEh1d0ZIamJaZklpdm1TMllKVGJaRjdhaHh6bU1RVFQta0tDZW5UNldn?oc=5",
-      "source": "Google News",
-      "age": "2 Aug",
       "dot": "info"
     }
   ],
