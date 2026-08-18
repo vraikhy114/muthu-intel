@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-17T06:58:31.905529",
-  "date_label": "Monday 17 August 2026",
+  "generated": "2026-08-18T06:46:03.494794",
+  "date_label": "Tuesday 18 August 2026",
   "filter_days": 7,
   "summary": {
     "total_stories": 55,
@@ -19,7 +19,7 @@
     },
     {
       "pair": "GBP / USD",
-      "val": "1.354",
+      "val": "1.356",
       "delta": "unchanged",
       "dir": "flat"
     },
@@ -33,77 +33,59 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 4,
-      "bar": 48,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
         {
           "title": "Holiday demand is stabilising - The Portugal News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFZrUHRVbDcydWhvNW5mUFZ2QnJRRDljWWJ6SUdKenhXLVdyb2luSmJIak9ra3J2WnpIdm1QVnJHanFjdkFBd01DVUpETjBGRmlDTXYybUZhT3VTQmtkWUVGT3lYNi0yX3RPdHFqVzV1d2xLbzJjUXh3TzFnY3JXRkJMQlNMaXBlYmg2b3FR?oc=5",
-          "age": "12h ago",
+          "age": "yesterday",
           "_ts": 1786903732.0
         },
         {
           "title": "Americans Flock Back to Europe as 2026 Travel Boom Builds - thetraveler.org",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMkdTUTlUaDA4NXJCbnp6YzZkbHBSaWt3cXc3NDMwZlBxQWlWb00tZXpIa0l1bzg5QU1lYnRpVDVQcEFYTTM1UlZhQVNISzlvVWV2RDRuaXJLVjFIQVNvaTNFXzlvNFFHTktpQS1oR3JvZHJsSy05MDgwVGJSM2lNVGFCd0M4UDMxQmd1UllvQQ?oc=5",
-          "age": "yesterday",
+          "age": "15 Aug",
           "_ts": 1786826451.0
         }
       ]
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 2,
-      "bar": 24,
+      "articles_24h": 1,
+      "bar": 12,
       "articles": [
         {
           "title": "15 of the best all-inclusive hotels with top reviews for 2026: Spain, Turkey, Greece & more - HELLO! Magazine",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRndlaWNLbllxakNOV19Sb19PMU05MFBIdGpsUnAwbHlYRC1Ic1o2d2ZpUEd1c0NnVDMwTm5EdUVtWnJUSDhXejNKUFljTkhnVE1JZmlYeENyV0o3SFUzTXFIdWIyNVVRZEhXb2JidWl6aC1CM2RjVm1HRm9GdmxFTGtidmV3SUo2LUxJdTBwSFY?oc=5",
           "age": "13 Aug",
           "_ts": 1786612299.0
-        },
-        {
-          "title": "Extend your summer – 6 sun-soaked cruise holidays worth booking for late 2026 - Rest Less",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3MtWDBxYmhXdUhmOERRWjRzTnpfRXYxajN1bTVPOFZoUkkxbjNtbGVobTB3cE56NFJZMmdQeVRLRU16SWNnYUFUQ2tqN3pSV3hfdWhhM1B3bTVyb0FmbmRkakVvRG52STloeWJZNXk1NE5GNlMxdEJwNDdPYURuVDc0Y1JuUzJ4UmxrYV9lYzYwbmhpOGxVN3Q2Ui1LYmdtcHZxX0JoZw?oc=5",
-          "age": "13 Aug",
-          "_ts": 1786604400.0
         }
       ]
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 2,
-      "bar": 24,
+      "articles_24h": 1,
+      "bar": 12,
       "articles": [
-        {
-          "title": "Beyond the Plains Safaris Expands Travel Advisor Program as Kenya Enters Landmark Year for U.S. Air Access - FinancialContent",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZ1pHQV9keXpaOTk4eGpJQ0h1SEJCaldxQ0lPblhpenBXRlhURElobUJwODFSWFNFVGdRd3poOThGbm1SYkhwbDFHYmZaRjNlSWMxS2N1cWNYVVliakljcDktcThrN3JLMnNMcGtVaWtuRmE1akpXTmI4b0VJRXA2VGNMemp2Y2N6Q2lxdk1mbkd0YTloYVg5YVF0OHRfSVNhR1hRMjNVQnJFTFdqek1qSTBHTVJ2Uk1QQXRjcE4wZTFXV3BKSlEyamR5R0x4WE1nUmE3T1lqY2VSWDBQbllxenlYN2V3YWFUeHAyYlhWLVRoekdqQllHRG93?oc=5",
-          "age": "11 Aug",
-          "_ts": 1786424760.0
-        },
         {
           "title": "Botswana and Rwanda Rise as 2026 Luxury Travel Hotspots - thetraveler.org",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3lXcHNjWGN2QmlrQk1XZTU2OExvRmVRVXNvZXdBYzFJQ2VaMFFJOXUxc1FpMTBHdjN5NFJzNmdsamtGWTNKQmE0czZCaVhEeUNKLTEzdENncld6Q2ZNbTRLM2o0ZlFXUkRfN25xR1pxcmtLU3hGWlFuYlhGcnd3NVJoWXlVUlhReFY3Uw?oc=5",
-          "age": "yesterday",
+          "age": "16 Aug",
           "_ts": 1786847158.0
         }
       ]
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 2,
-      "bar": 24,
+      "articles_24h": 1,
+      "bar": 12,
       "articles": [
         {
           "title": "Strathmore Hotels Group enters Administration - Administration List",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmR6d0JSdEFlX2pDTUY5SzFxeUJMQVhmS1BFRVk1OU5tZUNtWUZFMnRuQld1c1hlSHdtVmtYVExKOHlnUG5mSzlFdk1XUWRlWlV3UGFLRzlrUVNNRmh5TlNMU2NDdm1ackRrMmhKUmxYYnl4UnhCaWZ1YXdyd29xVDBFM0l4eXo5?oc=5",
           "age": "13 Aug",
           "_ts": 1786604400.0
-        },
-        {
-          "title": "Inside stunning Scottish hotel celebrating 250 years with cosy rooms and 500 whiskies - Daily Record",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXRFZE5WcnVSVVRaWjQzVlJ2X2p3Y0J6TVF3UTkxd1NrS0ctVVFEak1ScE9pb2NIbEJCZWt6a1JCRlZjQnNvZmp4ODUyamQ1UGREa3RQbWlSSnk2SzFiSnQ4Rml1ZU9iTlNyNklGYW1UTXZCbDV3dTYwR2Q4aHlHUEt4aEh2bHRLaGl1R25kMW53TW91QkNNbkNn0gGfAUFVX3lxTE1vSVI5TjhReTZVRTcyUGZCemRBNWQ3QVByaWwzaThvNU9objR3aEl3SXZLeXV4OUwtVGw4Xzl5Rll6eTZGcTQxTDJGLUhYU1BIN1BFeHpVYXBzRHUyRlNSSzV3S2pTbW11eVg1Z0VMQ2oxNkpJVnFUQW13aWh3RHdNZ2JndjMtUU93MnFrX3haSEQyRHREc3JoOE44d2o3aw?oc=5",
-          "age": "yesterday",
-          "_ts": 1786800780.0
         }
       ]
     },
@@ -130,73 +112,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Ireland has Ranked Second as Europe’s Solo Travel Boom Unlocks Joyful Freedom and Ultimate Adventures",
-      "link": "https://www.travelandtourworld.com/news/article/jf7604u91jmq/",
+      "title": "Denmark Travel Unlocks Powerful India Connection as SAS Revives Copenhagen Mumbai Flights After 17 Years",
+      "link": "https://www.travelandtourworld.com/news/article/ac1tg8k0t6oq/",
       "source": "Travel & Tour World",
-      "age": "4m ago",
+      "age": "2m ago",
       "dot": "info"
     },
     {
-      "title": "Iran Tourism Gains Ground as Medical Travel and Pilgrimage Keep Visitor Flows Strong",
-      "link": "https://www.travelandtourworld.com/news/article/vowd6ogqowgo/",
+      "title": "Germany Transforms Forgotten Mines and Industrial Tunnels into Powerful Heritage Tourism Attractions",
+      "link": "https://www.travelandtourworld.com/news/article/c0dfn17rdw4l/",
       "source": "Travel & Tour World",
-      "age": "5m ago",
+      "age": "3m ago",
       "dot": "info"
     },
     {
-      "title": "Emirates Singapore Dubai Flights Open New Tourism Opportunities as Singapore Agents Tour the UAE",
-      "link": "https://www.travelandtourworld.com/news/article/lz2sutk28blh/",
+      "title": "England Reveals Breathtaking Film Locations Where Budget Filmmakers Can Create Cinematic Magic for Less",
+      "link": "https://www.travelandtourworld.com/news/article/p7l2hnbq38n3/",
       "source": "Travel & Tour World",
-      "age": "9m ago",
+      "age": "6m ago",
       "dot": "info"
     },
     {
-      "title": "Jordan Develops Wadi Rum Tourism Waste Plan as Petra and Aqaba Anchor Golden Triangle Growth",
-      "link": "https://www.travelandtourworld.com/news/article/fy4m8s6l4g80/",
+      "title": "France Records Seven Consecutive Months of Decline in British and Swiss Cross-Border Tourist Arrivals in 2026",
+      "link": "https://www.travelandtourworld.com/news/article/iw1sp4aqcli3/",
       "source": "Travel & Tour World",
-      "age": "13m ago",
+      "age": "12m ago",
       "dot": "info"
     },
     {
-      "title": "Uttar Pradesh Is Radically Revolutionizing Sacred Spiritual Travel And Setting Brand New Benchmarks Across India",
-      "link": "https://www.travelandtourworld.com/news/article/rtppqdi5sco4/",
+      "title": "Italy Travel Unveils Bold Rail Expansion as New High Speed Trains Transform UK Europe Connections Through Channel Tunnel",
+      "link": "https://www.travelandtourworld.com/news/article/0b0wxm15z5p9/",
       "source": "Travel & Tour World",
-      "age": "13m ago",
+      "age": "14m ago",
       "dot": "info"
     },
     {
-      "title": "Australia and Japan Reimagine Outback Travel With Art-Fuelled Routes That Drive Regional Tourism Growth",
-      "link": "https://www.travelandtourworld.com/news/article/s2ni0cykh2kp/",
+      "title": "UK Travel Revolution Manchester Airport’s Second Runway Sparks £9.5 Billion Northern Economic Powerhouse Growth",
+      "link": "https://www.travelandtourworld.com/news/article/cwj1s72ixy15/",
       "source": "Travel & Tour World",
-      "age": "15m ago",
+      "age": "16m ago",
       "dot": "info"
     },
     {
-      "title": "Colombia, Mexico And More Lead Latin America’s Smart Tourism Shift Through Digital Destination Model",
-      "link": "https://www.travelandtourworld.com/news/article/i7eq9i0g5izx/",
+      "title": "Saudi Airline Document Checks Explained as New Screening Guide Reshapes Travel",
+      "link": "https://www.travelandtourworld.com/news/article/ap7edf3s0k8e/",
       "source": "Travel & Tour World",
-      "age": "21m ago",
+      "age": "16m ago",
       "dot": "info"
     },
     {
-      "title": "Maribor Tourism Growth Accelerates as Slovenia’s Historic City Attracts Culture and Nature Lovers",
-      "link": "https://www.travelandtourworld.com/news/article/54904qamvvcx/",
+      "title": "Vietnam Travel Defies Asia Tourism Shock as Resilient Destination Outperforms Rivals Amid Global Flight Disruptions",
+      "link": "https://www.travelandtourworld.com/news/article/iavgpxqwqkof/",
       "source": "Travel & Tour World",
-      "age": "28m ago",
+      "age": "18m ago",
       "dot": "info"
     },
     {
-      "title": "Beyond Blue: Why a Wooden Key Card Can Extend the Blue Mind Experience",
-      "link": "https://www.hospitalitynet.org/news/4133966/beyond-blue-why-a-wooden-key-card-can-extend-the-blue-mind-experience",
+      "title": "Why Physical Key Cards Still Matter in a Mobile-First Hotel World",
+      "link": "https://www.hospitalitynet.org/news/4133988/why-physical-key-cards-still-matter-in-a-mobile-first-hotel-world",
       "source": "HospitalityNet",
       "age": "5h ago",
       "dot": "info"
     },
     {
-      "title": "Airbnb-CarTrawler Partnership Details 1 Month In: Scoop",
-      "link": "https://skift.com/2026/08/15/airbnb-cartrawler-partnership-details-1-month-in-scoop/",
+      "title": "Google Scoops Up Spirit Airlines’ Data in Bankruptcy Sale to Train AI",
+      "link": "https://skift.com/2026/08/17/google-scoops-up-spirits-data-in-bankruptcy-sale-to-train-ai/",
       "source": "Skift",
-      "age": "yesterday",
+      "age": "11h ago",
       "dot": "info"
     }
   ],
@@ -240,7 +222,7 @@
       "title": "I’m a mum and travel writer – these are the best hotels and resorts with kids’ clubs in Europe - The Independent",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQzB6YU95dTdHbTdiQjE2S3l0VjJEX3RFVmcwY1J3dFY5cGhSYmJWWWFSUEYyc2ZBbEpNeXlBMlFTTGZZU1EzUm5iajlsUDIyMGJRQ1drVEI4OHRnenUzbnVZTzI4OGFRTjZXZk1uMzROVTc1ZG9aS0xudzFIdngzWHFBdFlZbVBOQ0RMY0FfeHBoX3FUVkJDS0lB?oc=5",
       "source": "H10",
-      "age": "9h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
@@ -253,44 +235,37 @@
   ],
   "tourism": [
     {
-      "title": "Global Heritage Tourism Surge 2026: How Colombia, Portugal, Morocco, and Japan Manage Record Visitor Flows - Nomad Lawyer",
+      "title": "Renting a Place to Stay in Europe in 2026: How Much Does It Cost to Stay in Apartments and Hotels? - Visit Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMFlCZC1qSFg0SGFXMFpoWnc5Nkx3UVZYeUNUNHpHYVA0NEw3UUpHQ3BlYm55akpUdVQ4c2xuc0pJaWc3b2pJVmFHTlpiMmp6ckZJdFRuazV1M1cxY0lJSEo0RS1jSEgycTBnTlY5cVlCWVdlY0RuSmRjU08xZm1pSDV5bFEtbGVFaVpELWlhc0JLalByY3JZZi1IOEJhdE5CZkNLTFhzcUFWT0FoWkJtWTdhdHBtZ1Qtekd6Z0lsR05HRlVMVkNrNHFuS3RiUQ?oc=5",
+      "source": "Google News",
+      "age": "20h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Global Heritage Tourism Surge 2026: How Colombia, Portugal, Morocco, and Japan Manage Record Visitor Flows - nomadlawyer.org",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQWdRVkFGbmk3STk3eERLd2ZLd3FjSWRibFgxLVdaVERwMjBhMlY0YjdCOG9hMHJ6bzJTb3c1ZjJKbTlubzN3RUZHS0RyMmQ5V1U1ZjdIUTVuM0pKOHAwb3FZeHlYSlhWdE5xY3gxSklSTkNVdVNEWllCUkwyeTZ5OWJ3LUJaV2taWjdfWQ?oc=5",
       "source": "Google News",
-      "age": "yesterday",
+      "age": "15 Aug",
       "dot": "info"
     },
     {
       "title": "‘I don’t even drink whisky’: Scotland reels in visitors as much of Europe swelters | Travel & leisure - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGdTLVFwUExmaWpUaElicjUwX1ZIQWRNcHA0VVU4ZG0ycE1fbURKTDR3OEVwWmNaSmRoelFmNHJnVFhaSzJkcmFHZlFHM0JteF9OWVdFalRYZklqck9Yc0poNVZQUlVhLVZ6cGJaTVNUdVZlcDVyWENrdWlydHNOZEtDQ3pWdlJTNUdKOVNGR1ZuX2NsVE5nMG8zREZWcjZPRUVMZUdiMXNoVXNKTmstUW04QQ?oc=5",
       "source": "VisitScotland",
-      "age": "yesterday",
+      "age": "15 Aug",
       "dot": "info"
     },
     {
-      "title": "April tourism numbers fall - FBC News",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByeG9tMHdRYmNMRVBwOTRDVlJTYTRyaHBhZGhtT3g2bm9FTV93bWROS1pWcjRBM181UkJ0Y25LMjQxNFBqZ3dnYTBxaU9SdFBRS05DNXRBUHFqdGVHeDREbDk3cGdwY1BJUWtJ?oc=5",
-      "source": "Google News",
-      "age": "14 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "Black Forest coolcation: tourism in Germany surges in 2026 - currently.att.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3VZTjdMN3lZOURuYVBOejlPZjVJeDdPdkY3S3o1dFVzYTJRbk5hUXlUcy0wc1NvQ3ZMOUhGMDhkQTZXYzQ4Q2ZMU01PWWFRUnhzbWZqejlyNGc5TEg5VEtYdWt4WVBxaDNENl81SVlKbTVBMm1WbTdWWDR6aHhNUWY3OEhubHNVeW9XVzZ1YldoVlU5?oc=5",
-      "source": "Google News",
-      "age": "14 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "TUI’s tour operator and airline business slips into loss as Middle East crisis weighs on demand and fuel costs - Aviation24.be",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ05nZzcxNnJhQkI3U2E0UlZ6YVNFYUZoWURjdkY3VksxU2htaXRRNlpMWmRsazAwWGp0MVhXdHN4T3N4VEdsdk8ybzh5aUk3aklXU05KS3ZMZXBTNG90dzhXQzFZSC1xV3dQcDl0YUJ2bEpJMkFYV1l1a3BaVGtRU3Fyblppb1NfNjlUMnNQZEpyTk1RQW93YWJEMnpUbW1uRXVfcVE2cklod2k4aVRDWWhLYWVjYm85dmxxblc0NHkySFhtNWtiZ19nSmd3c194cU96cTNVT2dTXzJtMkRZMEM5NWo0cTVWMEJFM0dWMA?oc=5",
-      "source": "Google News",
+      "title": "Bohol Inbound Tourism Expands Beyond Panglao Island to Regional Municipalities - nomadlawyer.org",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdjVkTkdDX2U0OVJfM0VhdFppZWlLY1d0ZzAyMWprOTFZX2tfMlVSSTlKWkZWMUZ0WWVGLWl2RDlmY1Zadnd3ZElYWnpDOVZHUnRtaW5XM2ZZclBPS196Z3oxSnBuN09kMUZBams1V1ctblJ2UldoaTM0eVVqRno4R0FVeGlUQQ?oc=5",
+      "source": "JTB",
       "age": "13 Aug",
       "dot": "info"
     }
   ],
   "airline": [
     {
-      "title": "Sangster International Airport Arrival Guide 2026: SIM Cards, Currency Exchange, and Transport Logistics - Nomad Lawyer",
+      "title": "Sangster International Airport Arrival Guide 2026: SIM Cards, Currency Exchange, and Transport Logistics - nomadlawyer.org",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHh1am5CLXRfTk1va3FhYS1IQmRtXzB4V0ZTMFhTZ190R1ZYbV82Z0N0cUgyYlFhb3FobzNxSlVyZ1J3OWN1ankxUFRGYTlJeE9ncjlpRHRoal9rUjVSSzRnUHltSTZPUUoxV1IxcER2ZktIU195MEd2VXZnSXVEZ1F5TjI1ZU5VMERaNHlUOA?oc=5",
       "source": "Google News",
       "age": "11 Aug",
@@ -299,14 +274,14 @@
   ],
   "operators": [
     {
-      "title": "There’s still time to get away… find your dream holiday and save ££££s with these amazing Jet2 deals - bishopsstortfordindependent.co.uk",
+      "title": "There’s still time to get away… find your dream holiday and save ££££s with these amazing Jet2 deals - Bishop's Stortford Independent",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUhxdXgtbUs2S0h6eHc0NXI4M0lIS3ZyNTBJbkdYclBoLTRtdEh4emNkUWhGLV9Wd0lpQkZ4Qm9sWkVtSFlRbEZwaWptekNSN2FSeWJkMVpwSld0dVZwN1l2dmdxSU5qYUxKVTNEQ3NmRllSX2Rtb29kTmZsN3lvZ0l2V3Y1a3dGREpWQTRtR1hyek5lTEhLcVJkbVdKaGhqdHRRSHpQMER4X0xkX2tqMmRpWGV6UDJwYWh4SXdPRGtOcUk?oc=5",
       "source": "Jet2",
       "age": "13 Aug",
       "dot": "info"
     },
     {
-      "title": "Jet2 Highlights Flights Offering the Best Views of the 2026 Total Solar Eclipse - travelwires.com",
+      "title": "Jet2 Highlights Flights Offering the Best Views of the 2026 Total Solar Eclipse - TravelWires",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEJBbk5RZjRxN2hMWjN6RmxWLTJhMU5LOVhXNDBxY1Z6azNJQWt6RXo3aFhLZjRfT2pDZ2tKYVF2T2FtOEJCMVJHbGRkajkxWnU5b1pMUmNPeUdQQy1NbjJwcVM4QUpGejJmTXY0emVKUmU2VDVqaHhaQ2VyYVE1ODJ2RGxRWDFyRldFcFZBR0JRdnJlZEdLaFJQSG1sdmJqSGxVRUYwQTdfLUg0?oc=5",
       "source": "Jet2",
       "age": "12 Aug",
@@ -329,24 +304,38 @@
   ],
   "macro": [
     {
-      "title": "UK Inflation Drives Generational Shifts in Domestic Tourism and Holiday Habits - Nomad Lawyer",
+      "title": "Expensive Dutch vacation sites pushing Germans to alternatives - NL Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYTRaLXNFV2Q5R1dLX0xMX3R3RDhmenlfU0lzTWJLZ0EwdVpoQzNBYnFSRzZSemZmblhySkg3c0sxTVZTdkFhY01UMkxXMzJqUE4zMlg1eE1ON3dJZFV3clRBVEFNa3BYSy16ZENCM2thVGQ4UU43TlMtOUVVSVVQZGRBUDBmNVc2ZTdfSnRla0lGWHc?oc=5",
+      "source": "Google News",
+      "age": "19h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Europe Captures One-Third of Global Leisure Travel Spending as Southern Europe Dominates the Summer Travel Season - Hospitality Net",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcFB3bG91cFJ5QUdXUzR2SEhtc0R1cWVZZUo4RFc1cVhYX3ZMdldBLUxqdUxkbnZkOTBfUzRIQkdtcmFEbnBfN2ZvSGVfX0NyVmJmT255bE5xRVhqajJ0aFZFTVNuR2VfcmQzdlc3aUNUWnNmZTdBRGx4SXlaRDN5elJZblFwOGs3MFhpeGJ1bEdFekc1S1BJSEVibkJ4TFNMeDRzdldJdU5hUzIydFc2RDdUR1FQMHBIa0h5dV9fR0tLS19TakQ3SFd2Z3JUemoxS2JLRUx5QklRUnRsTFFUMGNjdExlUU9sb0ZwbGxB?oc=5",
+      "source": "Google News",
+      "age": "20h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Europe Travel Spending Hits $2 Trillion as Tourism Booms - eturbonews.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0waUhCb0x5Z2I2ZVh1aVVxTXVpc25uMGdYQkx3ZzZsai0tSTNPWGhTVTA5TFVtZnlYX2E4QlpkNEpBTUVaeEhYSUFxRXk2TjZERGdCbnBmMlZrYmJTajRxaXFoQmlERTVfbTU4UzVlcmM4UQ?oc=5",
+      "source": "Google News",
+      "age": "20h ago",
+      "dot": "info"
+    },
+    {
+      "title": "UK Inflation Drives Generational Shifts in Domestic Tourism and Holiday Habits - nomadlawyer.org",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzc5VGpwa3VKQlV2cmdwYWZHaWlqQjVPWGxUNXFwYUNMeHIxUFpXWUNJV194Mk9NTEg5aFh5Tm03ZjZLMGRkLWl1RDZMWUNmbEZ0cnZTQWtESFNiaXV3R3QwR0NsMGkxZWxvbDZ1dDNNQWtwQUc2Vy1adERENjF0MnN2S3dLeVJTV2o4aVhRWQ?oc=5",
       "source": "Google News",
-      "age": "23h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "Agoda Reveals Europe's 2026 Summer Travel Interest to Asia: Searches to India Climb - irishsun.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd01HT0kya1ZTMVVuNDB4VURGbHVBV0kxWjNOQUUzWnZGbV9wVGxNM253cU5kc19pc25wc0R2WXZZSWE1RFVHTXk4b2dZVUFOQ3NNZmhJYm15a1NjS0hSU18xV0xHVHpiaWpIcEdMUENCXzgwNFgwUFR6dDVFV2JUWFdtbVYtd3dzamNUNC0xX2JaakFUOWw3SHhlbVdFRzlLalBtOW5LV1BLR3lVQTNGTkNlLXRlNm0wWWdnNg?oc=5",
+      "title": "Agoda: European Interest in India Surges for Summer 2026 - kashmirobserver.net",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2gtMHB3ZXJXRjBnQ3ZLZmZtNnZrTWhBNVlhY1NlcXdRZlZfN1pNdU5VZnFtX3dnM3RkaXlDR2d5WG04NXdIM3hjeGswa1dRTUxjdjVtV2RJcFFhUjBoR1hISmxVSUdvcDJBY1hrXzM4dWpjSGh5djFBalhsMUduT3FaMk5xQ2FZLVVVX0V6X0h6Yk5LNGFqMDc0bw?oc=5",
       "source": "Google News",
       "age": "14 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "European travel interest to India rises 14% for Summer 2026: Agoda - ET TravelWorld",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOUENIc3dDTExLVWk3NV9NRUhIMWVwNUNNNHB5SFVhOUozcGpNS09EeFlPa3lxREQ3WGNOdW1laFp4VGhqbWE0YXFqQk5yaFU0cERfNW9pelFuR0FqUUJpUVNFd0huWDhqMnR2emR6aXhmTmVVY0VLVHZYY0xXQWtZQ0Y0ZE9yX2FLWHFzU3pkZEYzcUlGSzAzSEEyWUNmRk9pZkt4OTB6R19yemJERl9FYXI1X2dKdUZtX3FHdzVPYy1oQkZ4YUkycm1yd25NaWVrSnlNSlQweUpqUWRyOVVIWGFLajR2QjUtTEZCSy1SN2g1MElXUFJZcGQ5bklqVHp2YzhTQWZCNk11OGJrUVVCRkVQMVI5Q0ZTU2R6c0Rsd2pxWXdGV2c?oc=5",
-      "source": "Google News",
-      "age": "10 Aug",
       "dot": "info"
     }
   ],
@@ -355,7 +344,7 @@
       "title": "Feature: Neighbors with tusks -- how Kenyans learn to live alongside elephants - Xinhua",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MekJUSnl4aEFDcWV5aEhReGFrUzUxSERnYmJLOWxIM204ZjBUaEtreEVsSlpPX2gwc0dfanBJVndqRHhEV1RYZW5JVFVBakNFUkhJZWlOZGMyX1k3MWxSdUExT1E0TDRXOWR6T2M5MWY3aG9Hb185VkdwWUY?oc=5",
       "source": "Google News",
-      "age": "19h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
@@ -377,17 +366,17 @@
   ],
   "reputation": [
     {
-      "title": "Our Comprehensive Review of Amanvari, Mexico’s First Aman - La Revue Des Hotels",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRzB6VTlBUmlQSnZqX1Zzc1NVdmIwQ0hQT1FVVWVNdFpUWWRUblM0SUdHWC1JRlM5M0F6M1IzRjZ0UzlDNkJIUWJRWDh1M3pMSHBEYndQX3ZZeDE4aTNudWJ2Vk5laU5nRFZscjlEOWh4OXZ5X3cxVlNQT2xtcEtsUnZFQmY2Qm1YakFN?oc=5",
+      "title": "Marriott Partners with Therme Group to Rethink Wellness Across its Hotels - La Revue Des Hotels",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3RfS0ZuMHBlRlZmWjRqZEd1NDl6dk0xcFB1Ums1bkRSaTJNeXpDZWVCaWJjUWNfcktCX3A5eFdhRHB1bGhtejZDdzk1UHZIS0h3dWUxLVY3RE5qTHJCQlU3cE1mM1NiUXRrTGlab0VLQlNhb0V6c2pOOWRDNWJKb1ZRVldBa29fX2pJRzNTT2RNaHNUUl9uSDlWRTBONGs?oc=5",
       "source": "Google News",
-      "age": "13 Aug",
+      "age": "15 Aug",
       "dot": "info"
     },
     {
-      "title": "Hotel Sidi Saler in Valencia to be reborn as a regenerative luxury resort - La Revue Des Hotels",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUtYWXNVWFYyaWcxWXhodTd0NnJieTJjc0ZfQmloQVd6VEJCZjgtQXRyVjNyLVRxQVdZdWYzRWoweTZiZHdpYkVRN1pJM2M4Wk5vX0ExX2pQanRKZzBMX18xZ3JzRVhwUFQ1dG1JWTlmMWZzQjdjOEtUbGVySzJFZWxCU1lGQXg3UVBwR1c5UE9teWo1c3Z5czI4M3NzM0U?oc=5",
+      "title": "Beldersoy Resort and SPA opens in Uzbekistan: the country’s first premium mountain resort - La Revue Des Hotels",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXZ6aTFhVy1TbnlxREhVWGJ5cEpEdEdtSVhET2d6VzhGOWxLbDlxZHJBZ3JiRE10OXlBalFDdFF3T0dQMzk2TFA5OUxYbHBuTkFJZ2hSdGNKWWFfcm1SX203Vl80U25GbzJvYmlTVUNWQWxQSmJ4NEJ2R3pXTHYwRlYtcXZXcUhMQjBZZDJJOWFBaV9PNE5rM0FWLU8?oc=5",
       "source": "Google News",
-      "age": "13 Aug",
+      "age": "15 Aug",
       "dot": "info"
     },
     {
