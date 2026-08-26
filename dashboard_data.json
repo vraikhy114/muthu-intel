@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-25T06:48:39.366334",
-  "date_label": "Tuesday 25 August 2026",
+  "generated": "2026-08-26T06:51:32.306531",
+  "date_label": "Wednesday 26 August 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 72,
+    "total_stories": 69,
     "muthu_mentions": 0,
     "competitor_changes": 0,
     "new_routes": 0,
-    "events": 3,
+    "events": 4,
     "weather_alerts": 0
   },
   "currency": [
@@ -46,22 +46,35 @@
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 1,
-      "bar": 12,
+      "articles_24h": 3,
+      "bar": 36,
       "articles": [
         {
           "title": "10% off with these loveholidays discount codes - The Independent",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aUFdWYVAyRlV6MS1tSHRaRHZ2Sl9QenJlRXAydk5aNmNfYWFCZE1DR1I3SUJDOTJNY1l1Nkg5c3FxT0hITzdNTGxtS2hYamxxOWhrVmI2ckhCbDAzMVhFc2RyOWNDNnpoRERXWTA3c1RVV1NlNzRHaHF3YVh1QQ?oc=5",
           "age": "21 Aug",
           "_ts": 1787329380.0
+        },
+        {
+          "title": "Spring Hotels creates trade booking incentive for Tenerife stay - Travel Weekly - Home",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2ota01vU0R0RzlYTF93RzNqbjdLeEJvNWY4cVlBRmJXTDI0RHNqckM5OHFuTmtoYXlXQVF4VTBsemtyZFc1OWdSNEdTVkpZdmFhc2hCbWdBWXJYazdnTUZHQ24xN2o5akNnWTh4YU51UlJFS1p1MlZyLWhUYmFqdklPTW1XWWhrT2pGSDdTNFlLdG92a3NBWlF0TQ?oc=5",
+          "age": "19h ago",
+          "_ts": 1787655720.0
         }
       ]
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 1,
+      "bar": 12,
+      "articles": [
+        {
+          "title": "How To Plan Your 2026 Holiday Safaris Amid Rising Travel Costs - streamlinefeed.co.ke",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkp2T1hjcEh1c2RxWko4aUMyTE9LVll4X3p2RVFNT1VXNHBtUkxhY0tpR1dQTGFrMW1RQW1FZzJaYmFnSWtZYldVZEtUbm1SNjFpRkxOVExnVWltb0stSmJIUGg2Qlp4d0hZaHl3S1lJSUNDQjBndlFVTEJ1bjBTaFJpLVkybmF3QjE0WHJVOTUtc0xvNW9PSjV4VlY?oc=5",
+          "age": "17h ago",
+          "_ts": 1787663870.0
+        }
+      ]
     },
     {
       "dest": "Scotland Highlands hotel",
@@ -71,7 +84,7 @@
         {
           "title": "Frasers Travel Shuts Down: Scotland's 40-Year Agency Leaves Hundreds Seeking Holiday Refunds - Travelers Today",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQS1kcG1JTXJNQno4SENTQ3J2cUV5TG9Gc0ZzQWZ1M3ZPMVhJLVJnTnRlRXBMVHQzMTFVM3V0RkoyWlA3dkN3b0t0NjNxdGNQRGdmNWdDcUZjNTZKVXpVQUdxMFU4UnJYUGJ0b0thZVZHdF82VnpsaW02N2N4WDFDejctNlJhenlacGROT19yUHVYWF9qcDVZM2RhTnR3SXZyS0swUGRsN3hOdVEyelBDMjcxZjFaQk0tMlhJb1V3Q0s0aTVsNlZrWmF5cmtZVzROamF1OWJvSnJid2VhRTZmczhtSQ?oc=5",
-          "age": "yesterday",
+          "age": "24 Aug",
           "_ts": 1787541274.0
         }
       ]
@@ -105,73 +118,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Europe’s Alpine Mountain Huts Become the Ultimate Luxury Escape as Travellers Swap Wi-Fi for Wilderness and Silence",
-      "link": "https://www.travelandtourworld.com/news/article/dy5myys371j2/",
-      "source": "Travel & Tour World",
-      "age": "1m ago",
-      "dot": "info"
-    },
-    {
-      "title": "India Boosts Buddhist Tourism As IndiGo Links Gaya And Bangkok With New Direct Flights",
-      "link": "https://www.travelandtourworld.com/news/article/6w043wcv8liy/",
-      "source": "Travel & Tour World",
-      "age": "1m ago",
-      "dot": "info"
-    },
-    {
-      "title": "India Travel Revolution as Bengaluru Ernakulam Vande Bharat Doubles Capacity for a Massive Onam Passenger Boost",
-      "link": "https://www.travelandtourworld.com/news/article/wgxndqyphlw6/",
-      "source": "Travel & Tour World",
-      "age": "7m ago",
-      "dot": "info"
-    },
-    {
-      "title": "UAE September Events Set to Supercharge Business Tourism Across Abu Dhabi and Dubai",
-      "link": "https://www.travelandtourworld.com/news/article/7ismlps70hc7/",
-      "source": "Travel & Tour World",
-      "age": "9m ago",
-      "dot": "info"
-    },
-    {
-      "title": "UK Travel Alert as easyJet and More Airlines Reveal New Power Bank and Vape Rules for Safer Flights",
-      "link": "https://www.travelandtourworld.com/news/article/eglssvpiqjaf/",
-      "source": "Travel & Tour World",
-      "age": "12m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Ixigo Tests Packaged Tours for Trains, Uber Becomes a New Distribution Engine",
-      "link": "https://skift.com/2026/08/25/ixigo-tests-packaged-tours-for-trains-uber-becomes-a-new-distribution-engine/",
-      "source": "Skift",
-      "age": "13m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Saudi Arabia’s Bold Six Billion Euro Entertainment Revolution Set to Transform Paris Tourism With New Theme Parks",
-      "link": "https://www.travelandtourworld.com/news/article/ilrmvys1g0eq/",
-      "source": "Travel & Tour World",
-      "age": "15m ago",
-      "dot": "info"
-    },
-    {
-      "title": "India Northeast Tourism Gets a New Luxury Boost as Polo Hotels Group Unveils Chapter Hotels & Resorts Brand",
-      "link": "https://www.travelandtourworld.com/news/article/mnv3xlpd33nz/",
-      "source": "Travel & Tour World",
-      "age": "15m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Malawi Tourism Tightens Visa Rules As Digital Entry And Wildlife Travel Push Growth",
-      "link": "https://www.travelandtourworld.com/news/article/jxllanbou7df/",
-      "source": "Travel & Tour World",
-      "age": "16m ago",
-      "dot": "info"
-    },
-    {
-      "title": "FCS Solutions Launches FCS1 IRGS to Connect Guest Requests Directly with Hotel Operations",
-      "link": "https://www.hospitalitynet.org/news/4134075/fcs-solutions-launches-fcs1-irgs-to-connect-guest-requests-directly-with-hotel-operations",
+      "title": "Desert Wellness: From Blue Therapy to Beige",
+      "link": "https://www.hospitalitynet.org/news/4134097/desert-wellness-from-blue-therapy-to-beige",
       "source": "HospitalityNet",
-      "age": "4h ago",
+      "age": "5h ago",
+      "dot": "info"
+    },
+    {
+      "title": "HotelKey Accelerates Self-Check-In Kiosk Deployments Following Standout Success in Initial Properties",
+      "link": "https://www.hospitalitynet.org/news/4134095/hotelkey-accelerates-self-check-in-kiosk-deployments-following-standout-success-in-initial-properties",
+      "source": "HospitalityNet",
+      "age": "9h ago",
+      "dot": "info"
+    },
+    {
+      "title": "It’s No Taylor Swift Effect, but Harry Styles’ Residency Offers NYC Operators a Boost",
+      "link": "https://skift.com/2026/08/25/harry-styles-residency-nyc-demand/",
+      "source": "Skift",
+      "age": "11h ago",
+      "dot": "info"
+    },
+    {
+      "title": "It’s not about the booking – it's about everything that came before it.",
+      "link": "https://www.hospitalitynet.org/opinion/4134093/its-not-about-the-booking-its-about-everything-that-came-before-it",
+      "source": "HospitalityNet",
+      "age": "11h ago",
+      "dot": "info"
+    },
+    {
+      "title": "United CEO on Fares in 2027: Fuel Stays ‘Elevated,’ But We Can ‘Pass All of That On’",
+      "link": "https://skift.com/2026/08/25/united-ceo-expects-high-demand-will-continue-to-offset-fuel-in-2027/",
+      "source": "Skift",
+      "age": "11h ago",
+      "dot": "info"
+    },
+    {
+      "title": "VayKLife Just Acquired Xplorie. The Guest Experience Layer Finally Gets Its Moment.",
+      "link": "https://skift.com/2026/08/25/vayklife-just-acquired-xplorie-the-guest-experience-layer-finally-gets-its-moment/",
+      "source": "Skift",
+      "age": "13h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Live Tourism Economy: Where Event-Driven Travel Spending Lands",
+      "link": "https://skift.com/2026/08/25/live-tourism-economy-where-event-driven-travel-spending-lands/",
+      "source": "Skift",
+      "age": "14h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Why most hotel guest directories are outdated and how to improve them",
+      "link": "https://www.hospitalitynet.org/opinion/4134090/why-most-hotel-guest-directories-are-outdated-and-how-to-improve-them",
+      "source": "HospitalityNet",
+      "age": "15h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Brand USA Chief in Advanced Talks to Rejoin NYC Tourism: Scoop",
+      "link": "https://skift.com/2026/08/25/brand-usa-fred-dixon-nyc-tourism/",
+      "source": "Skift",
+      "age": "16h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Signia Hilton Introduces ‘Signia Restore,’ Setting a New Standard for Elevated Fitness and Wellness in Hospitality",
+      "link": "https://www.hospitalitynet.org/news/4134089/signia-hilton-introduces-signia-restore-setting-a-new-standard-for-elevated-fitness-and-wellness-in-hospitality",
+      "source": "HospitalityNet",
+      "age": "16h ago",
       "dot": "info"
     }
   ],
@@ -228,24 +241,45 @@
   ],
   "tourism": [
     {
+      "title": "The Highland Council plans £5 'tourist tax' for hotel guests - Boutique Hotelier",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sa1ZIeXNDbHFmYk02UGpaQ0wtV3hwYXFSVlkzQUZmR1NrNzBlMmNPSTNkaFpPdlFPRGJURS1lakwydGdoSjloMXFadEdBdUV3czdWVzJrOHRGUVpvbVRwNEJLaFlkaTVMWnJRS0JESjBWM096aVJtajcwRmwzUQ?oc=5",
+      "source": "VisitScotland",
+      "age": "11h ago",
+      "dot": "info"
+    },
+    {
+      "title": "The Highland tourist tax: Is Scotland pricing out whisky tourists? - City AM",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2R5QUxLX2FvcEw4LXdIUnVmUVdaeXJNTlVidXJDbmVOaVlKUjdGdXBqcC00ZlFDX2Rnbzh1ZzUtd255RHlKak8wVjNTVU91NUFxTVl0Uy11WkpzcDNoZHhkRkg4ZkQzdEpHR1lBcjVvM1NFV05DTHVRQnlfVmVjQzNmUXZJOUUtR3Blc2ozbUduUQ?oc=5",
+      "source": "VisitScotland",
+      "age": "18h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Highland tourist tax of £5 a night could raise £9.5m a year - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PQmVlZ2I4ZDN4Rk5IU1p5U0pBeEtScnhaaFNvYzdIUXpLUks3dFY2ZWtzS2xyN0pPQ0ducHJoaFU4LWF5X0ZUWlZ5Mjk0am12VDVVTXZpblh6Yngy?oc=5",
+      "source": "VisitScotland",
+      "age": "18h ago",
+      "dot": "info"
+    },
+    {
       "title": "Progress Made on Highlands Visitor Levy but ASSC Warns It Must Be Backed by Economic Evidence - Larder Magazine",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXlhcHRINjJpdlRxb0hpQWtNTWtpOHNjSUVNZy1QRVluWWw1dldRSEplS2xmVTg0clVIWF9uZEZKRWhqeHRGcU5MOVVDZXlXMlVaTTJhYS1sdzRSVXZVdjRQNEx6cTMtdmRla3BLSW9vWmNQdVFrTWZrSnFSdVR5MXVPYTRLaUhZWGtuN2FiTnFGZVNCall2MWc0OENOMTJEejhTUVgzRzg1elFNZ1FWdGc3WjB0MUpBZVE?oc=5",
       "source": "VisitScotland",
-      "age": "21h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "Arrivals Boom: Brazil Welcomes Five Million International Travelers - Nomad Lawyer",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3M4bGppa3Jrem04bmFTMmd1VjRYZmtXWmtocXZYV19lWjBIdzhiYThhZGt0d2hMbE1FZlR0U0tIdmNaUkxpeEJ2VjdIeTZyZS1taV9DS09JTjZLcG9BUTE0ME9qVlh1NU84QWtkTGJ6OWFreHk3Z25sdmY1V1ctR2I2d0tZdm1LaGxZWg?oc=5",
       "source": "Google News",
-      "age": "yesterday",
+      "age": "23 Aug",
       "dot": "info"
     },
     {
       "title": "Youth Travel: Gen Z Embraces Caribbean Lifestyle Escapes - Nomad Lawyer",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHVLZjgzSWppb3h6dzJqdm44OEF3UFNhYWt3QzEyc2d3ODUtSGhGQ0FWN2Y4ZXJTSEM1ZjhHbmY1bzBSQ2F3cTdkSG5VVjhXRDNmREMwWWJhZDhWNVZpcEloWk80eXo2NlNxdWxpQUotWHJjTnpMX19BeGVKcy0xT3hHREdBVmZBM2c?oc=5",
       "source": "JTB",
-      "age": "yesterday",
+      "age": "23 Aug",
       "dot": "info"
     },
     {
@@ -260,27 +294,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2dXYmlpaXFHZHZZZ3pGRVNVR3Biakc4YUJhM3VHZ2htR0JBUVRjcVN2UGdLc25CRlRVcHFFYlljbVJ3TFlPU2NTdjZBNDNCdzFCVXh5bzVfYmQ4bkJpZUt4aUs1VjBwVmpVRTJHbXZLeXJEdVhSdVJiSTFKMmNCVHZhSkZvQzcteWtjV3pKUjFMS2VJTktaVl9SOE1yTlBnU3F1SU5YTVhTQdIBrwFBVV95cUxNZzRlQTJ3c2MycXRTelZoTjQwei1QaG5fWktCdU13dTBrMUUxMHVHVERIRWdMaHFrdzdkbHNlZXRRV1JhRi1TSFo1Nl9iTHhpUmk4Xy1rSlNwUTAzUk4zMXN5MmIxNEhWckEtZ0N3Q0ZQd3diaHJSaU5icFo0ZDJXRzNLdjFYUnRWbFFXVzJKQTFweTdmVzgyWFJXdnNPbkk5TF9HeUQ4NlcyLUdSQlB3?oc=5",
       "source": "Google News",
       "age": "21 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "Tunisia Passes 5.8 Million International Tourist... - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHRmWFMtZXp3cG9LeGx2TFhfdnRzS09mQlN4MS1vZzBnN0oyYXhzOWhXUE01YkVibERkRjdHYk5ZYTZiRjNaQzdybFJuZmNHV2NKT1FEMTM2V1Iya0dUUmN3VnNxNEJXTnMzdXRYSzN0ZzNsUXh0V3g3dWxXSGhaM254X0dsOFJSblp5dU5oRW9XZ2JhOXJKdkMxMVB0Y1VPUlFDZw?oc=5",
-      "source": "KTB",
-      "age": "21 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "H1 2026 European Hotel Transactions - Hospitality Net",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGJGdWxUWVRITk1qTndEc0FGeF94aWd4UzM1WEVvenNPYWl2MVVIRVpma1NFZFhqR245VGpyUElIVzAzWjExUGJMUHRtamcyX2R4MWtBdk81UUxQMnQyV3RQbFdwck9RbE5WTHRFeVlUZWE2Si1ta3FaZjYxeDE0Vm5yMnhSemJ5?oc=5",
-      "source": "Google News",
-      "age": "20 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "Dubrovnik Tourism Edges Higher as City Records 2.74 Million Overnight Stays - The Dubrovnik Times",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDdzVXB0VGpiWkNRemdNdkJlWUJTZld6ZHlGZ2lfbU9BYUJYZE82X1BPa0pOeVJOeDNVeVRxQzFpTkl3Vi1PUVM5aUpPTjFsLWJVVHdZQXh3VXBac2w4ZWxKd1dwa2dlYmdfWXc5NXFqMERuTC16R0F4aUhJX19oXzl1SC15M1lqZU10TUVOcnRaU1BvNkp4UXlQLWs5VGcteGtCQkdTWkZQbWRvMDR3dGx2TXpKdFNtMFJOZDY2VW5HV01Da3RFeEVoY3VJbnJt?oc=5",
-      "source": "ISTAC",
-      "age": "20 Aug",
       "dot": "info"
     }
   ],
@@ -316,8 +329,8 @@
       "dot": "info"
     },
     {
-      "title": "UK consumer confidence jumps to two-year high, GfK says - whbl.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd0NKVWxWTWRJb2VqQk5PZkVwX1dISDliZWpha2xOV3hzQXdDazR0R0FpaThoTGR2ZWtXVGhpNFM2dWtNbDAzOEpnd05BV1BZaENyMDNfWDhtemx3alRhcmMyZlNCV0pXWmlIZlg4VUIzQWZ1Qi0xM2kxOUp2aGxPUEM3YlhIMnVFd1N3?oc=5",
+      "title": "UK consumer confidence climbs to two-year high: GfK survey - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFdTRllnOU5adkZ0RklNdTRhTGxCWXZQNnpkUTlIa0gzM0plRXFFRjlyR0VEX2lwaEl6RXVJRXE3cXlybnV6THZWd1d1elppZEJuMDZKSlZ5dGttOEhKMlVRM09QVzVYcWd3d21KNEFRMTItX1M1WC02bldweDJ0c3VQc3k0d011Vmt6V3Y4dzQwb3FLR255aGc5cHZ5TGQ3SzV3?oc=5",
       "source": "GfK",
       "age": "21 Aug",
       "dot": "info"
@@ -339,10 +352,17 @@
   ],
   "events": [
     {
+      "title": "Nature Expeditions Africa Launches Pre- and Post-Conference Safari Planning Service - Atta Travel.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanN4Z1psTVpOdEVMZjFLb0lRVmRzaXNPTnIxZHI5dEpXbU5NSXJmdldQUnR6T05oX3BDNkE0QkxNaVJBeTRnSDhGRG1wWEMtNDNKVjR3RUlVeVRESkg1bzVYU1FxQ3UxYm5VbFY3OWpOWjRPUExQT2tWNWtCdDlKRVg0NG9ZblNxcUxwSzFWWmY4T00?oc=5",
+      "source": "Google News",
+      "age": "14h ago",
+      "dot": "info"
+    },
+    {
       "title": "KOIA Resort Welcomes Four Seasons Mixologist Michele Lombardi For Exclusive Cocktail Takeover - The Arts Shelf",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHFuSU1UTFlFSmJSZHJxYnh5UEh4Z2ZFaWF2LWdadWdaYVRaNDRrclIzV3dyTng4dUpBYjFOalRSVUJtcWtGV2c2WnhBWU9yaUFORkFzZHZGTS1kdHVJUzQyVzlMZl95RWdXVUhPaE5JdTVFYlo0UFh5MHRGSXNXWHVtSEphSG5BcWtV?oc=5",
       "source": "Google News",
-      "age": "11h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
@@ -365,21 +385,21 @@
       "title": "La Graciosa weather - the latest forecast & 7-day outlook - Teneriffa News",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MdXAzLVRjczZlOFppdkdvMHlkc0V0S203V2QxdXJNWjNVZzNQMm1NRVA2alBaVDYzOGo5YzIzWk5OdmF4Z2U4OVppNGtxQWs5X29CbC1oZl9rNWVPR2Z3NEU0djRWekxJTGpsdEJ3?oc=5",
       "source": "Google News",
-      "age": "7h ago",
+      "age": "5h ago",
       "dot": "info"
     },
     {
-      "title": "Current weather in Tenerife ☀️ 7-day forecast for the north and south - Teneriffa News",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YX2lGWXpHQUdwNWprb0FQLTh3WDREa3VHVHAzTDZuQkZtdU91QnEzR0dSZkFrQXRTTmZLOWV2bThURVJYTWQzaUlJTloxQ3hoOHZBdFlvcE1VekhvQnRFLWN6SlFDZnpLSXc?oc=5",
+      "title": "El Hierro weather - the latest forecast & 7-day outlook - Teneriffa News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zeDd6emJHV3dQYUh5MTZsZWp2Y0hkYjRiX1d1ZUZyR1k4VGRCR2U0RDlFaUJWWC12bEJiM044S1RpMGJ3QzVwZzcyUl82RWl3TFc3Ry00YVpuVUhRMG52R1o1a3lfS1FHRnpz?oc=5",
       "source": "Google News",
-      "age": "12h ago",
+      "age": "11h ago",
       "dot": "info"
     },
     {
       "title": "Summer showers and temperatures of up to 30°C: Aemet forecasts unsettled weather in the Canary Islands - danews.eu",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82Nkt6YlZHbmpUTTB3NjJISWZmU21JOC1UZHgwMXhVWEFxS3NnQXFxbTRwalduX1ZobGxNVWFYeFR3RjRaNVZ2U3I3b1NSSU5CZ1VQV190QU4yQmNYdWhWbjZpWVNzMEFOakZvSV9sdkhicFJWTmpYaDVsbW0yZw?oc=5",
       "source": "Google News",
-      "age": "17h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
@@ -392,10 +412,10 @@
   ],
   "reputation": [
     {
-      "title": "Fairmont Rishikesh, Himalayas Seals Accor’s Luxury Offensive in India - La Revue Des Hotels",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aT25LUUc5QWtGVHZhcjFILXF1aWNtMkRwS2ZiX1ByUEcwR2xUOHJtbDNCSTk0Zkd5ZHZiUndyVG9Tb1F0YU45a09yeUtEYVBOY1Z0VEhCdzVmZzZMR2ZvNkpfZVpaWmZPaG44N3h6UlNDZnVOcEE1ZQ?oc=5",
+      "title": "Park Hyatt enters Portugal with Comporta debut targeted for 2029 - La Revue Des Hotels",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVEJhLXJTRS1FeHZjem9BVk81OWpvQ1VUZkxXMC1rNUo3a3ZkSGxDYWp6dGdEYXN4bm1RSEVFWVVJSTUxNmxPVkRUTGw2T0hXajFYNHRqUzF1TTI0SGtlZF9aZDl0VERsMVNuRGxnLVBYSEU?oc=5",
       "source": "Google News",
-      "age": "22h ago",
+      "age": "17h ago",
       "dot": "info"
     },
     {
