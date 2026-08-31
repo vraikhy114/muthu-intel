@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-29T12:26:07.918280",
-  "date_label": "Saturday 29 August 2026",
+  "generated": "2026-08-31T12:53:20.740793",
+  "date_label": "Monday 31 August 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 58,
+    "total_stories": 57,
     "muthu_mentions": 0,
     "competitor_changes": 0,
-    "new_routes": 2,
-    "events": 4,
+    "new_routes": 1,
+    "events": 7,
     "weather_alerts": 0
   },
   "currency": [
@@ -33,9 +33,15 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 1,
-      "bar": 12,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
+        {
+          "title": "Portuguese ‘priced out’ of Algarve holidays as foreign demand grows - Portugal Resident",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTRHcHNaT21uMGxDLWpXYmZxTC1ISUx4VEVmdktYdktGOW0zSzJvMjB4V2sxVGdGY1ZTeHVCeUZYeDZTbnZzU1dtdnBDWXlUSi1lek4xVExmNHJvcDMtNmtSV25lX2ZRVTZxVVZXb3ptaHBoSF9KYVR1ZnBaQjdja0dnMlF2OUZ4MVlkbnpR?oc=5",
+          "age": "3h ago",
+          "_ts": 1788169215.0
+        },
         {
           "title": "Ryanair Expands Portugal Summer 2026 Schedule with 160+ Routes Led by Edinburgh, Trapani, and Vienna - Nomad Lawyer",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZndBbGh5alcwMGtFTHA1Szc3U2dieTdwVVBGRHJvV19yQkVET2Jod0JBZkd5a0JOT0pWam5odGJPdVFoSkJWaTJhempURHVPQVVyRk16cGpKUWRZLTdsZEhlaGRXaEQ1N3Vpa3hkM3Q1YkkwMUU2VFZ1N3R0WFJVZ0hvZXlNdHJqZjZndldGdw?oc=5",
@@ -53,51 +59,51 @@
           "title": "Jet2holidays discount codes for August – £100 off holidays - The Independent",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3k0aXFOQ002WVh3SWZiTF9tZmVuUURUNmFBNEh3eUlCMFY5QTZmMVp5V3pnWlhhUENwbWlxUkN1cklsaE8yLXM3UF9nX1R6MmZIYXJNb0lpaUozMmc5RllZMm9hQkFYeWJJNHBxZzZHdDlCLTM3aHAyQWhLUGUwZWlLaGtacDZLQ0E?oc=5",
           "age": "26 Aug",
-          "_ts": 1787742317.0
+          "_ts": 1787759940.0
         },
         {
-          "title": "10% off with these loveholidays discount codes - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aUFdWYVAyRlV6MS1tSHRaRHZ2Sl9QenJlRXAydk5aNmNfYWFCZE1DR1I3SUJDOTJNY1l1Nkg5c3FxT0hITzdNTGxtS2hYamxxOWhrVmI2ckhCbDAzMVhFc2RyOWNDNnpoRERXWTA3c1RVV1NlNzRHaHF3YVh1QQ?oc=5",
-          "age": "24 Aug",
-          "_ts": 1787562127.0
+          "title": "Spring Hotels creates trade booking incentive for Tenerife stay - Travel Weekly - Home",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa2ota01vU0R0RzlYTF93RzNqbjdLeEJvNWY4cVlBRmJXTDI0RHNqckM5OHFuTmtoYXlXQVF4VTBsemtyZFc1OWdSNEdTVkpZdmFhc2hCbWdBWXJYazdnTUZHQ24xN2o5akNnWTh4YU51UlJFS1p1MlZyLWhUYmFqdklPTW1XWWhrT2pGSDdTNFlLdG92a3NBWlF0TQ?oc=5",
+          "age": "25 Aug",
+          "_ts": 1787655720.0
         }
       ]
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 2,
-      "bar": 24,
+      "articles_24h": 3,
+      "bar": 36,
       "articles": [
+        {
+          "title": "Great Plains Launches Zamara Private Villa: A New Era of Exclusive Luxury Safaris in Kenya's Maasai Mara 2026 - Nomad Lawyer",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWtYaVZBb1hWNXc1QXZETUFPRFZKZjV3UW0ybnFYajBCTHEtOTZHS0czVHpqSFU3U2tYVHctQ0VteGxoQnBQa3pHbEFoNHlPQjdzUEJibUxOb1ZwX1hOZnRzdEpJZl9fUU9icnpYWWdxZlMya19ZcFN1dmhxcUFxV2JfVUd3Ym5hb3JtWkpYblMxd1RIb3ZEcnBnMFM2ZTg?oc=5",
+          "age": "6h ago",
+          "_ts": 1788157392.0
+        },
         {
           "title": "Safari kings: SA leads 2026 bookings, Brazil and Gulf flights power healthy tourism year - The Citizen",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82OEp6Zk9oT1lvdm9GTEpybzJHUXlsbHJfUnhfS2pMLU1BV2Q1YnQwZWYwVjMwdzNrQnBJSUhNbjJtWjFWVHhXUXFLMVVrWHhMTmhQWmNvQ0p6OWNXQXlURXg4enNQNFFPRzlyRVlRMFZaTnp1cjhfamgxd0tHQQ?oc=5",
-          "age": "6h ago",
+          "age": "29 Aug",
           "_ts": 1787981592.0
-        },
-        {
-          "title": "How To Plan Your 2026 Holiday Safaris Amid Rising Travel Costs - streamlinefeed.co.ke",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkp2T1hjcEh1c2RxWko4aUMyTE9LVll4X3p2RVFNT1VXNHBtUkxhY0tpR1dQTGFrMW1RQW1FZzJaYmFnSWtZYldVZEtUbm1SNjFpRkxOVExnVWltb0stSmJIUGg2Qlp4d0hZaHl3S1lJSUNDQjBndlFVTEJ1bjBTaFJpLVkybmF3QjE0WHJVOTUtc0xvNW9PSjV4VlY?oc=5",
-          "age": "25 Aug",
-          "_ts": 1787661135.0
         }
       ]
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 3,
-      "bar": 36,
+      "articles_24h": 4,
+      "bar": 48,
       "articles": [
+        {
+          "title": "Highland tourist tax of £5 a night could raise £9.5m a year - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PQmVlZ2I4ZDN4Rk5IU1p5U0pBeEtScnhaaFNvYzdIUXpLUks3dFY2ZWtzS2xyN0pPQ0ducHJoaFU4LWF5X0ZUWlZ5Mjk0am12VDVVTXZpblh6Yngy?oc=5",
+          "age": "25 Aug",
+          "_ts": 1787659879.0
+        },
         {
           "title": "Highlands tourist tax could add £5 a night to hotel bills - Travelling for Business",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS29oWkM1OEhmVW5jWDhSYlNJU0FZRnRIb1F3TE43Qno0VUVTUVFmdzF6T19Zd3hZU1hNM1FJR1hYYm82S0J4V255T1UydWc3UUxyLXdaWEktd29JRmdJQUNCWjJfenVoQXhkbGNOcmFFbzYxaHBncWlkZkFCcWZtbzFFUlA5eGNFcExwaUR1cDAyb2xZRmM5VUwxd0IxcW85V3FmaDVqVENNanRpdktYaWtpQVdJZw?oc=5",
-          "age": "yesterday",
+          "age": "27 Aug",
           "_ts": 1787834737.0
-        },
-        {
-          "title": "Scottish Highlands benefiting from 'coolcation' trend - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQXRENmRuNUdKVTM3bDk3blYtSnhmUGRHdzc4a0FKTXJsVnlsS3I4ekxHaVFQbnlqZDVob291U3lESzFvc1pKNDVDdDBXZWRLZExSX3MyRDM3eXQ2?oc=5",
-          "age": "26 Aug",
-          "_ts": 1787785824.0
         }
       ]
     },
@@ -117,73 +123,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Vakkaru Maldives Raises Luxury Dining Standards With Danish Chef Jesper Koch’s Exclusive Island Return",
-      "link": "https://www.travelandtourworld.com/news/article/0oubf2jg1rw1/",
+      "title": "UK and More Countries to Unite at IAAPA Expo Europe 2026 in London",
+      "link": "https://www.travelandtourworld.com/news/article/k9kqfdrs65sm/",
+      "source": "Travel & Tour World",
+      "age": "1m ago",
+      "dot": "info"
+    },
+    {
+      "title": "ROBOT WORLD 2026 Seoul Positions South Korea at the Heart of the Global Robotics Technology Revolution",
+      "link": "https://www.travelandtourworld.com/news/article/fswpi2do39j0/",
+      "source": "Travel & Tour World",
+      "age": "1m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Not Done Weekly is Back! - The OTA Duopoly Just Got Company.",
+      "link": "https://www.hospitalitynet.org/news/4134156/not-done-weekly-is-back-the-ota-duopoly-just-got-company",
+      "source": "HospitalityNet",
+      "age": "5m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Discover the Sacred Trail of Antioquia: 13 Colombian Municipalities Join the Global Religious Tourism Network",
+      "link": "https://www.travelandtourworld.com/news/article/5jv4rxcjgzgi/",
       "source": "Travel & Tour World",
       "age": "6m ago",
       "dot": "info"
     },
     {
-      "title": "Germany aligns with more Nations as Open Monument Day Opens Historic Travel",
-      "link": "https://www.travelandtourworld.com/news/article/rwh1nuuax8h7/",
+      "title": "Serbian Festival Brings Columbus a Weekend of Food Music and Family Fun",
+      "link": "https://www.travelandtourworld.com/news/article/fsaox80l2uy9/",
       "source": "Travel & Tour World",
-      "age": "9m ago",
+      "age": "6m ago",
       "dot": "info"
     },
     {
-      "title": "Australia aligns with Thailand and more as Hunter Valley unveils major wellness resort",
-      "link": "https://www.travelandtourworld.com/news/article/irje051k3c2y/",
+      "title": "Arizona Aligns With New Jersey And More Places In US As Flash Flood Emergency Puts Popular Travel Destinations At Risk",
+      "link": "https://www.travelandtourworld.com/news/article/q490gy6rpeg2/",
       "source": "Travel & Tour World",
-      "age": "13m ago",
+      "age": "8m ago",
       "dot": "info"
     },
     {
-      "title": "Mauritius Travel Growth Connects Rodrigues Terminal Vision With Port Louis Cruise Jetty Expansion",
-      "link": "https://www.travelandtourworld.com/news/article/cjpugn0uenav/",
-      "source": "Travel & Tour World",
+      "title": "EHL Group announces leadership transition and appoints Achim Schmitt as the next CEO",
+      "link": "https://www.hospitalitynet.org/news/4134155/ehl-group-announces-leadership-transition-and-appoints-achim-schmitt-as-the-next-ceo",
+      "source": "HospitalityNet",
       "age": "14m ago",
       "dot": "info"
     },
     {
-      "title": "Germany Aligns with Czechia and More as Hohnstein Revives Fairytale Day Trips Near Dresden",
-      "link": "https://www.travelandtourworld.com/news/article/n36apj01ow10/",
+      "title": "Duetto honors the life and legacy of Founder Marco Benvenuti.",
+      "link": "https://www.hospitalitynet.org/news/4134154/duetto-honors-the-life-and-legacy-of-founder-marco-benvenuti",
+      "source": "HospitalityNet",
+      "age": "16m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Buffalo Welcomes a Powerful Yoga Fest With Music Wellness and a Meaningful Cause",
+      "link": "https://www.travelandtourworld.com/news/article/07y48tjfeh0e/",
       "source": "Travel & Tour World",
       "age": "16m ago",
       "dot": "info"
     },
     {
-      "title": "Mississippi’s Bay Saint Louis Takes Over Labor Day Travel As Americans Chase This Secret Coast Escape",
-      "link": "https://www.travelandtourworld.com/news/article/uvg4lrdmgmx6/",
+      "title": "Etihad Airways Takes Flight Beyond Boundaries with New Campaign Highlighting Abu Dhabi’s Global Spirit and Vision",
+      "link": "https://www.travelandtourworld.com/news/article/0tlpo22kaihg/",
       "source": "Travel & Tour World",
-      "age": "16m ago",
-      "dot": "info"
-    },
-    {
-      "title": "France Aligns With Germany and More as Strasbourg Elevates Short European Escapes",
-      "link": "https://www.travelandtourworld.com/news/article/as6gv2urkv23/",
-      "source": "Travel & Tour World",
-      "age": "19m ago",
-      "dot": "info"
-    },
-    {
-      "title": "How SingleThread Is Growing Without Copying Itself",
-      "link": "https://skift.com/2026/08/29/how-singlethread-is-growing-without-copying-itself/",
-      "source": "Skift",
-      "age": "20m ago",
-      "dot": "info"
-    },
-    {
-      "title": "World-Class Orchestras Transform Grafenegg Castle Into Austria’s Great Summer Music Escape",
-      "link": "https://www.travelandtourworld.com/news/article/ehyq2t7xe3dc/",
-      "source": "Travel & Tour World",
-      "age": "21m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Winners of the Highland Business Women Awards 2026 revealed - Inverness Courier",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2VvcDJqakx5akhySVg3d3RHRm1QblNMdjFmNHp5cWhDMHdzQW9CNDJJN1ZaNE10amFJUm9lbHkzVDVJQWZ2eFh5LTJENjdxVkwzUUl1SEtxajVQaFhuOVNWSDB4Tm5fa25BMDcyazlHZmdVZGhmOWVLbmIzZW1VblZVSlBtODZrby1jbFFXUE1oSWRyYWdIeU5pUnVOQTliWGVWdVR3?oc=5",
-      "source": "Google News",
-      "age": "14h ago",
+      "age": "17m ago",
       "dot": "info"
     }
   ],
@@ -222,21 +228,35 @@
       "link": "https://www.iberostar.com/en/offers/",
       "dot": "info",
       "age": "today"
-    },
-    {
-      "title": "Spectacular Algarve all-inclusive golf resort for 7 nights — for under £750 - The Sun",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTBJUUNpRWJablNkU0hHYUY0MkM5bWRFYkFDbjBjRi0zRmtabThuUkpyQXp3ZG5qS0ZfemtvNnRIR2U3UFBNQjJTMnRhbDlpZ2JKdVlXdDJ2dld3SXJGa1hoRlpPa242SnVkRDdaT1o2TzhleUJSMEdXWk1EQ0VXUlp6anRHblJOU1E?oc=5",
-      "source": "Riu",
-      "age": "26 Aug",
-      "dot": "info"
     }
   ],
   "tourism": [
     {
+      "title": "Canary Islands Lead in Tourist Apartments - La Voz Canaria",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjVXeHFCc2VXT0NZdF9CaURDaXJINGdjclBOclFsQjB3N3JxMFk4Um9uZDJWbG5iMV9yTklhTlV3VEJDbGZqd0hrU3RDb3hMdkQtSWVMeTYxaDBYS0o1YndVem5kbzRQclh0QjRPRTNsQzM3WDBUek9mZHh1YzM2ZTNGWnpkb054aGl3c3ZvQjd6WW9JVm1BMk51dEtYZm9SMktlVDZ6a19heTNpTXc?oc=5",
+      "source": "ISTAC",
+      "age": "1h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Canary Islands closes another record summer, but tourism warns: the post-pandemic effect is ending - Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkJkQVhYTy1ZdkthdkxrbWJYNVhqenpzWjNPVVA1UzBGazZJUVc3Q0pGQm4xTFlwZjZ5bDVYOXNfZ0tGWjIwVDdqVUphTXVrU3BMZEYyMXJaSFpnSUhENS1qbjhPeE1TNlAwc182OHBHVlNETjA1RjZmTXdwcnYyeGllVjEwYVhxaFhiMV9OR0VleEZOYTZoRnhqWnRHYUhPU1VEQ0l0VUROYVl6ay1XMUVkQjl3dnJ4UVNGTmphVHQ3R281a3VqMEZaa0hJMFgtODhZU9IB1AFBVV95cUxONkJkQVhYTy1ZdkthdkxrbWJYNVhqenpzWjNPVVA1UzBGazZJUVc3Q0pGQm4xTFlwZjZ5bDVYOXNfZ0tGWjIwVDdqVUphTXVrU3BMZEYyMXJaSFpnSUhENS1qbjhPeE1TNlAwc182OHBHVlNETjA1RjZmTXdwcnYyeGllVjEwYVhxaFhiMV9OR0VleEZOYTZoRnhqWnRHYUhPU1VEQ0l0VUROYVl6ay1XMUVkQjl3dnJ4UVNGTmphVHQ3R281a3VqMEZaa0hJMFgtODhZUw?oc=5",
+      "source": "ISTAC",
+      "age": "22h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Thailand Expands Tourism Crackdown in 2026: Stricter Deportation Rules for Law-Breaking Visitors - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmNfWTZiZjJ1TzFSTkxLaU9obTV3VlZKSDVMS2VMalhfRXhsejNBUzY2LUlwT2lFTThmM0M0OFBpZnE4bmJQclQtbEltWFVuZk0yNV9UQXg5Z2RONmRCbzBtUGU1Sm8yZEw5blBHVEppbGVoQjNwSXQzQ05yamVGNHB0UUJqMVhOTWJIOWpEYTI0bHFseTRoSVhzTHp3SHZQZDVFdVdR?oc=5",
+      "source": "JTB",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
       "title": "Highlands tourist tax could add £5 a night to hotel bills - Travelling for Business",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS29oWkM1OEhmVW5jWDhSYlNJU0FZRnRIb1F3TE43Qno0VUVTUVFmdzF6T19Zd3hZU1hNM1FJR1hYYm82S0J4V255T1UydWc3UUxyLXdaWEktd29JRmdJQUNCWjJfenVoQXhkbGNOcmFFbzYxaHBncWlkZkFCcWZtbzFFUlA5eGNFcExwaUR1cDAyb2xZRmM5VUwxd0IxcW85V3FmaDVqVENNanRpdktYaWtpQVdJZw?oc=5",
       "source": "VisitScotland",
-      "age": "yesterday",
+      "age": "27 Aug",
       "dot": "info"
     },
     {
@@ -266,27 +286,6 @@
       "source": "VisitScotland",
       "age": "25 Aug",
       "dot": "info"
-    },
-    {
-      "title": "Progress Made on Highlands Visitor Levy but ASSC Warns It Must Be Backed by Economic Evidence - Larder Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXlhcHRINjJpdlRxb0hpQWtNTWtpOHNjSUVNZy1QRVluWWw1dldRSEplS2xmVTg0clVIWF9uZEZKRWhqeHRGcU5MOVVDZXlXMlVaTTJhYS1sdzRSVXZVdjRQNEx6cTMtdmRla3BLSW9vWmNQdVFrTWZrSnFSdVR5MXVPYTRLaUhZWGtuN2FiTnFGZVNCall2MWc0OENOMTJEejhTUVgzRzg1elFNZ1FWdGc3WjB0MUpBZVE?oc=5",
-      "source": "VisitScotland",
-      "age": "24 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "Arrivals Boom: Brazil Welcomes Five Million International Travelers - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3M4bGppa3Jrem04bmFTMmd1VjRYZmtXWmtocXZYV19lWjBIdzhiYThhZGt0d2hMbE1FZlR0U0tIdmNaUkxpeEJ2VjdIeTZyZS1taV9DS09JTjZLcG9BUTE0ME9qVlh1NU84QWtkTGJ6OWFreHk3Z25sdmY1V1ctR2I2d0tZdm1LaGxZWg?oc=5",
-      "source": "Google News",
-      "age": "23 Aug",
-      "dot": "info"
-    },
-    {
-      "title": "Youth Travel: Gen Z Embraces Caribbean Lifestyle Escapes - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHVLZjgzSWppb3h6dzJqdm44OEF3UFNhYWt3QzEyc2d3ODUtSGhGQ0FWN2Y4ZXJTSEM1ZjhHbmY1bzBSQ2F3cTdkSG5VVjhXRDNmREMwWWJhZDhWNVZpcEloWk80eXo2NlNxdWxpQUotWHJjTnpMX19BeGVKcy0xT3hHREdBVmZBM2c?oc=5",
-      "source": "JTB",
-      "age": "23 Aug",
-      "dot": "info"
     }
   ],
   "airline": [
@@ -296,45 +295,59 @@
       "source": "Google News",
       "age": "27 Aug",
       "dot": "info"
-    },
-    {
-      "title": "Ryanair Expands Portugal Summer 2026 Schedule with 160+ Routes Led by Edinburgh, Trapani, and Vienna - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZndBbGh5alcwMGtFTHA1Szc3U2dieTdwVVBGRHJvV19yQkVET2Jod0JBZkd5a0JOT0pWam5odGJPdVFoSkJWaTJhempURHVPQVVyRk16cGpKUWRZLTdsZEhlaGRXaEQ1N3Vpa3hkM3Q1YkkwMUU2VFZ1N3R0WFJVZ0hvZXlNdHJqZjZndldGdw?oc=5",
-      "source": "Google News",
-      "age": "27 Aug",
-      "dot": "info"
     }
   ],
   "operators": [],
   "macro": [
     {
-      "title": "Entry exit system update: should I still expect queues when travelling to Europe? - which.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1hVaHFON0o2QlAyNTJwWWVNMEo4alAxQi16aFF4WjJIcXI5NWRmc1NheVVKbWctTnZDOE93Slgya1l6Vnc5YWtobGV2cmc0T1NHZlpqQkJ5TGJLZ2Y5RC1DZWJUdW1JV2VzNXV1ckNKcGtreDdKVlpoNEM3cG80c3hZOTRPbjJyVnZiYU9qR080R1lQRUpmOFZoLVRpZzdvMnBXY0x0ekxWNndOeXBNS29ocWtseXhfcll0T1Zfckl5ODV5?oc=5",
+      "title": "Summer Bank Holiday in the UK: What Should Tourists Know? - Visit Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWtBXzhzYzk2NGNmOGl3QXhtZEVvUFVyeVJnVUxDc0VaZWd5enlNYmlISTVLWk54c0liYk9fLUVwSkJNakVvMGMxdEZRTFdOdkVHNER6TGlycHcwemh5a1FwcWpmZTVXWVd3YnBLMzdSbWFHWWFITko0XzFWQ2ZaUnBYZ20wd05wZnhDOTRxdWpsZHNSS1Jz?oc=5",
       "source": "Google News",
-      "age": "26 Aug",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "TUI discount codes for August 2026 – tested daily - The Independent",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9zZlZMZlZRUjZGbnlaek02M0Z5VW9zNm5YNXFrbnAzc0d3NUlIcXNETDd0b3BWb1JpaEVydUhFcURBeVV5cFNob2U5T0ZLRWk0Wlh6bV9TWGxSV01aQ2R1V3lPWFpyLTc1WTMzaW5yN291MkE?oc=5",
       "source": "ONS",
-      "age": "25 Aug",
+      "age": "28 Aug",
       "dot": "info"
     }
   ],
   "events": [
     {
-      "title": "How to plan an African safari - Oman Observer",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CV1A4OXoxWVJ0anFEQnAyblZqRFJYUVd4VldmbjhZd2NkU2hmRWdUemJQNjlyR0xRamstTGNKZGdqTERhLTdmdlEwWGVxcWtQbl9zakRITlpCQdIBWkFVX3lxTE1CV1A4OXoxWVJ0anFEQnAyblZqRFJYUVd4VldmbjhZd2NkU2hmRWdUemJQNjlyR0xRamstTGNKZGdqTERhLTdmdlEwWGVxcWtQbl9zakRITlpCQQ?oc=5",
+      "title": "Kenya Integrates MICE Tourism with New Pre- and Post-Conference Safari Routes in 2026 - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWtVdFI0ZVllWHFwdUU5eWQ4bldtLTV6STlwWUhmTjA4WFRXUEMyZ09uOVpDYVhwY01OLW91UU03a1ZYblNQM2hDbUdnUURTZENZSDBvcE9YLTk2MEZPejc2bm5IZlBKeUtDZ0pBdmhZa0VObGNxYzNWYkYzeDB4eHE4RzNCeXFSREE0RFRfcDNzeUhHMG1wQWtjZDI?oc=5",
       "source": "Google News",
-      "age": "16h ago",
+      "age": "5h ago",
       "dot": "info"
     },
     {
-      "title": "UK festival on 'lockdown' after 'multiple people injured' in 'serious incident' - Yorkshire Live",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9qa19fMlZidFNpNlFZRUhQeUlLRkp2NzI0WTlXdFI4Z0gxdlpKSWZqT3BhODdDRnB5RG9DWnpGUDlTNHpERG1iZzFhVlZDOWV1enlqN0pBenJQZDJ6NVo5a3ZuUURJU0lERzk3TXIxUWZ3WDhIMEliR0xhd29EM0dQOHdlb1JXZVVJOUxJM3FiTUotaGtISnh30gGfAUFVX3lxTE9DcFZIa3l0aU41ZVE2SXhUckM3eUxpRHNDblVnMzhfZGFXb0JPV1JQOXFiejVYc0JYOXozbnBGUkRVbUtLRHo1cFhkT1A5TFNmdWZKRkk3TTFzRFpzb2dnUzU2UE8xS2RyLWYyUFBId2RDYU5CTUZJVmVQNnEzWDBfWG9zTUI1MjM5ZkpnZzNDdHdMdHNibmc1eWZfN1FHaw?oc=5",
+      "title": "Great Plains Launches Zamara Private Villa: A New Era of Exclusive Luxury Safaris in Kenya's Maasai Mara 2026 - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWtYaVZBb1hWNXc1QXZETUFPRFZKZjV3UW0ybnFYajBCTHEtOTZHS0czVHpqSFU3U2tYVHctQ0VteGxoQnBQa3pHbEFoNHlPQjdzUEJibUxOb1ZwX1hOZnRzdEpJZl9fUU9icnpYWWdxZlMya19ZcFN1dmhxcUFxV2JfVUd3Ym5hb3JtWkpYblMxd1RIb3ZEcnBnMFM2ZTg?oc=5",
       "source": "Google News",
-      "age": "18h ago",
+      "age": "6h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Preferred expands its global portfolio with 10 new members : Saturday, 29th August 2026 - 4hoteliers.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxUzUxM0Uwem9VR05uY3JxYjBzUnplUkRzU3JSNS1rQ1BoU2RTWjZzU1lvZWhUZ1ZqOWtXZmJDTno1cG5LenhsMzlReWNwdW5sUmJVWVZn?oc=5",
+      "source": "Google News",
+      "age": "29 Aug",
+      "dot": "info"
+    },
+    {
+      "title": "How to plan an African safari - Oman Observer",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CV1A4OXoxWVJ0anFEQnAyblZqRFJYUVd4VldmbjhZd2NkU2hmRWdUemJQNjlyR0xRamstTGNKZGdqTERhLTdmdlEwWGVxcWtQbl9zakRITlpCQdIBWkFVX3lxTE1CV1A4OXoxWVJ0anFEQnAyblZqRFJYUVd4VldmbjhZd2NkU2hmRWdUemJQNjlyR0xRamstTGNKZGdqTERhLTdmdlEwWGVxcWtQbl9zakRITlpCQQ?oc=5",
+      "source": "Google News",
+      "age": "28 Aug",
+      "dot": "info"
+    },
+    {
+      "title": "Notting Hill Carnival 2026 Guide: When, Where And How To Do London's Caribbean Festival - Londonist",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa1czZWc5cmN0NU9ocEQ0emJpMk9EalZnN0NLdlFla2IxdG1yS3N4ODdaSkxFNUlRdjNzUnZoUzVkZWU1TW91RG1YMEx5el9vWWdiV3FCWHpPQnpCUlF2RTdfeXFGQU5zaW9leFI0N1hpMDdBc1pvNzJOVUN0ckFHWUFoUzhXMzd1TXJFcElYSEYyX1p3?oc=5",
+      "source": "Google News",
+      "age": "28 Aug",
       "dot": "info"
     },
     {
@@ -357,21 +370,14 @@
       "title": "Current weather in Tenerife ☀️ 7-day forecast for the north and south - Teneriffa News",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YX2lGWXpHQUdwNWprb0FQLTh3WDREa3VHVHAzTDZuQkZtdU91QnEzR0dSZkFrQXRTTmZLOWV2bThURVJYTWQzaUlJTloxQ3hoOHZBdFlvcE1VekhvQnRFLWN6SlFDZnpLSXc?oc=5",
       "source": "Google News",
-      "age": "4h ago",
-      "dot": "info"
-    },
-    {
-      "title": "El Hierro weather - the latest forecast & 7-day outlook - Teneriffa News",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zeDd6emJHV3dQYUh5MTZsZWp2Y0hkYjRiX1d1ZUZyR1k4VGRCR2U0RDlFaUJWWC12bEJiM044S1RpMGJ3QzVwZzcyUl82RWl3TFc3Ry00YVpuVUhRMG52R1o1a3lfS1FHRnpz?oc=5",
-      "source": "Google News",
-      "age": "4h ago",
+      "age": "18h ago",
       "dot": "info"
     },
     {
       "title": "La Palma weather - the latest forecast & 7-day outlook - Teneriffa News",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96Y3VWUWdTNmxiLVY1V1ZPaVV2UVJqOV83VngydGNxYThWWUdydFV4NXlMRlJ4M0JzZndsNDRWTFl5a2dQbUNHc2pmcGJyQ3BmcWlrZ3FYcFlobFBaeEk0LWljcUUtYzNWX1E?oc=5",
       "source": "Google News",
-      "age": "17h ago",
+      "age": "28 Aug",
       "dot": "info"
     },
     {
@@ -382,13 +388,5 @@
       "dot": "info"
     }
   ],
-  "reputation": [
-    {
-      "title": "Park Hyatt enters Portugal with Comporta debut targeted for 2029 - La Revue Des Hotels",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVEJhLXJTRS1FeHZjem9BVk81OWpvQ1VUZkxXMC1rNUo3a3ZkSGxDYWp6dGdEYXN4bm1RSEVFWVVJSTUxNmxPVkRUTGw2T0hXajFYNHRqUzF1TTI0SGtlZF9aZDl0VERsMVNuRGxnLVBYSEU?oc=5",
-      "source": "Google News",
-      "age": "25 Aug",
-      "dot": "info"
-    }
-  ]
+  "reputation": []
 }
