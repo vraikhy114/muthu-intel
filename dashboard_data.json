@@ -1,25 +1,25 @@
 {
-  "generated": "2026-09-21T12:15:07.642822",
-  "date_label": "Monday 21 September 2026",
+  "generated": "2026-09-23T10:55:46.276225",
+  "date_label": "Wednesday 23 September 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 51,
+    "total_stories": 47,
     "muthu_mentions": 0,
     "competitor_changes": 0,
     "new_routes": 0,
-    "events": 4,
-    "weather_alerts": 0
+    "events": 5,
+    "weather_alerts": 1
   },
   "currency": [
     {
       "pair": "GBP / EUR",
-      "val": "1.164",
+      "val": "1.166",
       "delta": "unchanged",
       "dir": "flat"
     },
     {
       "pair": "GBP / USD",
-      "val": "1.334",
+      "val": "1.336",
       "delta": "unchanged",
       "dir": "flat"
     },
@@ -37,29 +37,29 @@
       "bar": 12,
       "articles": [
         {
-          "title": "Costa Dorada & Sousse Top UK Autumn Travel Savings 2026 - nomadlawyer.org",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0trREF5UTBUbUphOW53YlVILXhGdmhxUjBBUUEwcF80dFRqZmRfU3YtejFrSHhkTl9KY1R4c1BILXJISzJuQjZ4a1cxOElJbU92aGNXdXZRSFdVNm1pazI4X3JZRUNWQWNtZl9WNHZuMk04Vm1tYXJva2hZNTdiY3N4SFVsTHBjWDdERnJWb3RDZFV1V21GUldGM0pkWHJh?oc=5",
-          "age": "11h ago",
-          "_ts": 1789949646.0
+          "title": "'Be realistic, demand the impossible': Portugal's MUZEU wants visitors to think and reflect - Yahoo News UK",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2R2dUdFYnZtb05IeV9PTzBUOUQ0NEd3SG5KY3pIQ3A3M2M2eTBjTDF3NzRNUkZQS0x3ekJVWUllYi1ra2tyakNPSm5iX3MyTEM0ei1xdHhzX0pRTDhsYkNkc3cwVEFNS0poRU9iSHNKUEhqWFgwSFhoZzFlYmJrWkZsRG1BdzNHdkMyTg?oc=5",
+          "age": "yesterday",
+          "_ts": 1789994031.0
         }
       ]
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 2,
-      "bar": 24,
+      "articles_24h": 4,
+      "bar": 48,
       "articles": [
+        {
+          "title": "Windstar Cruises announces 2028 Europe season with five yachts and 348 itineraries - Data Portuaria",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT182UWhyRUxfUTE1VHJfeVdUeDcyNUxyNWkyRG84TzVLLTBaaWhwT1RpOUhoX1hYUUxCZWFpUi1GU0F6STM3Zm5xN2o1bFlMLUptOVF3UGpqT0oxZGNnYmc2a1lRTVRTaHlUTmppN244NjhxQXRIQUVSOTR2eEhjaXU0aDJqZlJIMDNlUnhsRUVyNFhPU0pIVnVSTC1qQWhCNWpLQ3JCVlozV1VfcFRnMw?oc=5",
+          "age": "14h ago",
+          "_ts": 1790107221.0
+        },
         {
           "title": "TUI discount codes for September 2026 – tested daily - The Independent",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9zZlZMZlZRUjZGbnlaek02M0Z5VW9zNm5YNXFrbnAzc0d3NUlIcXNETDd0b3BWb1JpaEVydUhFcURBeVV5cFNob2U5T0ZLRWk0Wlh6bV9TWGxSV01aQ2R1V3lPWFpyLTc1WTMzaW5yN291MkE?oc=5",
-          "age": "17 Sep",
-          "_ts": 1789647590.0
-        },
-        {
-          "title": "Jet2holidays discount codes for September – £100 off holidays - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3k0aXFOQ002WVh3SWZiTF9tZmVuUURUNmFBNEh3eUlCMFY5QTZmMVp5V3pnWlhhUENwbWlxUkN1cklsaE8yLXM3UF9nX1R6MmZIYXJNb0lpaUozMmc5RllZMm9hQkFYeWJJNHBxZzZHdDlCLTM3aHAyQWhLUGUwZWlLaGtacDZLQ0E?oc=5",
-          "age": "19 Sep",
-          "_ts": 1789801200.0
+          "age": "16 Sep",
+          "_ts": 1789574640.0
         }
       ]
     },
@@ -69,31 +69,24 @@
       "bar": 24,
       "articles": [
         {
+          "title": "Selara Africa Debuts With Travel Advisors in Mind - TravelAge West",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHhFVVR2TjZfdnJ6TThVZjFtNXB6d1BkQnhHRzNqRjZzc2ZXRU9VVGZPd3ZTSG5mX2tpd2lka0t5dTkyWVJtVWtNdVNkczhIRlVBUHE2cWJveWJPUHlmMlpXSWh2bThXdW9DOUt0cTBiQnZnbXhPbTM2Tk5aZEx3UzdyQmNqMzNTY1pvS3FkRkNoT3UzblRKVlhjOWYyRzQ?oc=5",
+          "age": "10h ago",
+          "_ts": 1790122178.0
+        },
+        {
           "title": "British Airways Syncretises With Qatar Airways and More as T - nomadlawyer.org",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRllyMlRMdWR6S3pMREx6RHpfakU3MlM4Ml9wMDVEQnRfSk1oUXJIOFRHT3J6OU5HRk42TFRWMzBWM0dtejVrcHFQYk5uY250Q2IzWllWb3NIMlFPaTZUWWQxdGNCVDgzSlV5VldVWXMzNVdSNEFNV2ZYLVlpQnRnWEVfTmRWSnY4cmNTNnJSc3FpUE1wWTlLd3lJU2ZKTHJBTXVmN0FoUkhRVjg2TldZZkdKdFZCZnFGTmFTcC1kTW1xN1FWZUNLc0Qtd2NSWGlueVlqbW1tTGh0MnVNS2cyMm1R?oc=5",
           "age": "17 Sep",
           "_ts": 1789646745.0
-        },
-        {
-          "title": "Jordan Tourism Encounters Major Setback As Over 5% Tourism R - nomadlawyer.org",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTEN2eW5WNHdEUDNnY1JGYjBrZVoyYmZxRlhNZUFJdmtQWWkyQnpHOXdMRzdHdFl6M1hKU28tNXczVGZxeE1OT0Z1ZERSRXpVdHhqTlBFZHJtcEgxVnhoNHRTeFRWUk0zQlhfaVJSTjd3VHpkQ2thTkpwYnBSTGtlbHV0eEJ3N2pmb2cwUU9DUkQycEpyY01Rdkszc0hlOVRDZTRBYXQwTEFlSXhfaHZjWVF3WUZEdFJEXzk0UVQ5X3laN1JyRUNrNF83UUxxVUFpWlFlN2hBV1dHMnBzaF82cF9B?oc=5",
-          "age": "17 Sep",
-          "_ts": 1789626023.0
         }
       ]
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 1,
-      "bar": 12,
-      "articles": [
-        {
-          "title": "Scotland’s Charity Air Ambulance announced as HITA charity partner for 20th anniversary awards - Strathspey Herald",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZzM4dGw5bkhlV2hMSk5BNlZTT2pxaGkyUGxuMFRISVlha0FMSnEzWVI2dHdhQklBWUVYOEZqNjh2TWRYWlQzczRVdUd2OTMyS3ZYRjlIY1JHc2g1QlJhdVpqSFJvRGo1UV9NRE9jc0l0N1UyRDhaTWhha0lZcmZQWlQzeDdySHB1VmhHN2c2aUVCLXEyWTRUTHBVWlBoOEZBTFZ5Yi10ZGVLSDVsdXc?oc=5",
-          "age": "1h ago",
-          "_ts": 1789988520.0
-        }
-      ]
+      "articles_24h": 0,
+      "bar": 0,
+      "articles": []
     },
     {
       "dest": "Cuba holidays",
@@ -111,73 +104,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Cyprus Mirrors Greece and Others as Autumn Travel Shifts Towards Villages and Rural Tourism",
-      "link": "https://www.travelandtourworld.com/news/article/f9lf612ngm25/",
-      "source": "Travel & Tour World",
-      "age": "just now",
-      "dot": "info"
-    },
-    {
-      "title": "United Kingdom Aligns With France And More As New Train Rule Cuts Travel Costs After Cancellations",
-      "link": "https://www.travelandtourworld.com/news/article/6wier8n2qbme/",
-      "source": "Travel & Tour World",
-      "age": "2m ago",
-      "dot": "info"
-    },
-    {
-      "title": "London Strengthens Big MICE Tourism With Major September Business Events",
-      "link": "https://www.travelandtourworld.com/news/article/ua5dctvphh5c/",
-      "source": "Travel & Tour World",
-      "age": "5m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Italy Aligns With Spain And More As MSC Cruises Expands Winter Sailings Across Global Destinations",
-      "link": "https://www.travelandtourworld.com/news/article/nswdiies791u/",
-      "source": "Travel & Tour World",
+      "title": "Emerging Travel Group Launches ETG Marketing Hub Amid Rising Demand from Travel Industry Partners",
+      "link": "https://www.hospitalitynet.org/news/4134533/emerging-travel-group-launches-etg-marketing-hub-amid-rising-demand-from-travel-industry-partners",
+      "source": "HospitalityNet",
       "age": "8m ago",
       "dot": "info"
     },
     {
-      "title": "UK Travel Update As Newcastle Airport Faces Flight Delays Due To Technical Issue",
-      "link": "https://www.travelandtourworld.com/news/article/v8l8sp8edu00/",
+      "title": "New York City Marathon 2026 Alters Bronx Course for First Time in 15 Years as US Sports Tourism Draws Global Runners",
+      "link": "https://www.travelandtourworld.com/news/article/wa3w3fi2k4u4/",
       "source": "Travel & Tour World",
-      "age": "13m ago",
+      "age": "12m ago",
       "dot": "info"
     },
     {
-      "title": "Australia Aligns With Singapore and Other Leading Destinations as Malaysia Cafe Tourism Drives Kuala Lumpur Food Travel Growth",
-      "link": "https://www.travelandtourworld.com/news/article/6q1gtd3wkvlj/",
-      "source": "Travel & Tour World",
-      "age": "13m ago",
-      "dot": "info"
-    },
-    {
-      "title": "France Expands MICE Tourism Through Paris and Regional New Business Events",
-      "link": "https://www.travelandtourworld.com/news/article/7rvimalt572z/",
-      "source": "Travel & Tour World",
-      "age": "16m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Mexico Travel Boosts As Mexicana Adds Ninth Embraer Jet With Over Eleven Percent Capacity Growth",
-      "link": "https://www.travelandtourworld.com/news/article/3g67f3zsrppq/",
-      "source": "Travel & Tour World",
-      "age": "20m ago",
-      "dot": "info"
-    },
-    {
-      "title": "An open letter to Hon. Dita Angara-Mathay, Secretary, Department of Tourism, Philippines",
-      "link": "https://www.hospitalitynet.org/opinion/4134468/an-open-letter-to-hon-dita-angara-mathay-secretary-department-of-tourism-philippines",
+      "title": "Minor Hotels and Grupo Petra Expand Partnership in Paraguay, Announce New NH Hotel in Asunción",
+      "link": "https://www.hospitalitynet.org/news/4134531/minor-hotels-and-grupo-petra-expand-partnership-in-paraguay-announce-new-nh-hotel-in-asuncion",
       "source": "HospitalityNet",
-      "age": "2h ago",
+      "age": "15m ago",
       "dot": "info"
     },
     {
-      "title": "HVS Asia Pacific Hospitality Newsletter - Week Ending 18 September 2026",
-      "link": "https://www.hospitalitynet.org/news/4134467/hvs-asia-pacific-hospitality-newsletter-week-ending-18-september-2026",
+      "title": "Costa Rica’s Papagayo Peninsula Enters a New Era of Ultra-Luxury Travel",
+      "link": "https://www.travelandtourworld.com/news/article/n6z2rz3k0ij4/",
+      "source": "Travel & Tour World",
+      "age": "15m ago",
+      "dot": "info"
+    },
+    {
+      "title": "The Customer Is Always Right … and Five Other Lies",
+      "link": "https://www.hospitalitynet.org/opinion/4134530/the-customer-is-always-right-and-five-other-lies",
       "source": "HospitalityNet",
-      "age": "2h ago",
+      "age": "17m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Australia Travel Enters New Era As The Tweed Surpasses Maldives In Global Destination Rankings",
+      "link": "https://www.travelandtourworld.com/news/article/kcmmsmkotulm/",
+      "source": "Travel & Tour World",
+      "age": "19m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Why Hotel Digital Merchandising Is Changing What It Means to Sell a Room",
+      "link": "https://www.hospitalitynet.org/podcast/4134529/why-hotel-digital-merchandising-is-changing-what-it-means-to-sell-a-room",
+      "source": "HospitalityNet",
+      "age": "21m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Singapore Leads Travel Innovation As ITB Asia 2026 Unveils The Next Era Of Global Tourism",
+      "link": "https://www.travelandtourworld.com/news/article/yzv7hmg3fjl2/",
+      "source": "Travel & Tour World",
+      "age": "25m ago",
+      "dot": "info"
+    },
+    {
+      "title": "IHG accelerates Malaysia Expansion with Debut of Garner Hotels and Franchise Model",
+      "link": "https://www.hospitalitynet.org/news/4134528/ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model",
+      "source": "HospitalityNet",
+      "age": "28m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Alberta Aligns With Nova Scotia And Other Canadian Destinations To Fuel 6% Tourism Surge As Travellers Turn Away From US Trips",
+      "link": "https://www.travelandtourworld.com/news/article/98fnqky5btbp/",
+      "source": "Travel & Tour World",
+      "age": "29m ago",
       "dot": "info"
     }
   ],
@@ -216,26 +209,26 @@
       "link": "https://www.iberostar.com/en/offers/",
       "dot": "info",
       "age": "today"
-    },
-    {
-      "title": "H10 Hotels expands its portfolio of Boutique Hotels in Barcelona - Breaking Travel News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeS10RjhPVDJCOUd3OVJmN1FmOWJHWjFRRzlnZnNLVUVNdEJDUVVMaC0tZHZMRWhpZ19RWUdQY09MaXF3dE9KSHUwSzlyNTA5ODRPc0lzY3JnNHpLem5rTllJT3ptZExpRlZ3S25YV0lZcXdFY3JDWHZhZlpiUUs1aF9xTGtvTzVxOFF5Qkl3MWY1LXJNN1VFbDV2WnlGQm5fUHZaT0dFNFpsREV3amRYQm1Bdw?oc=5",
-      "source": "H10",
-      "age": "5h ago",
-      "dot": "info"
     }
   ],
   "tourism": [
     {
-      "title": "Dubai and Middle East flight disruption: Regional airlines face delays and cancellations amid ongoing tensions - Condé Nast Traveller Middle East",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd3k1Sm9wMGpqb0NvX0QwdTZrVHQ3Yl9tZUFocVgtb3hzc01ZeWRBOFNrZTB0eG9lamxxeW0wbUVyTHZjakVLWGVlYldIaHVZOXRqZUVaRHYzaFNUZGp6NElrOFc4SE9LQUludFR6Wkp1WE1ITGs1REZreFlMNXBreXNENDJiekR2VGpMQTlnYlAzOTlWR0N0M1JkdDlGNFBPZFF0WVRmZ0w2aEFRX05ZMkJHT041NXVUQjVNOWp5YURyRDduclVwQ1Y1YklzRnFNS3cxV2o2YzFuVHk2QkE?oc=5",
+      "title": "Spain Tourism Employment August 2026: 3.05 Million Workers - nomadlawyer.org",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFp6SkxrQXlYZHliOVdPMi11dkwyNjFvY24yVHZWc2hxclRKV1hqbE56VXF4eVdmZ3I2M3NQeWtWQ2hrTXg1eGVRdlZmSW9BaUZqVHJsSnA0UjhzQWdPY3ZWSUw2dmhZdWlIOTl5U1BPdTA1SkNLTjU2dFFTWTYzakdyV0ttSUw3b3BmNnNUOXFKWHphc00yM1d3?oc=5",
       "source": "Google News",
-      "age": "3h ago",
+      "age": "7h ago",
+      "dot": "info"
+    },
+    {
+      "title": "TUI customers given new booking update before winter season - Nottingham Post",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWNTclFUeE1EUlBzZG5nbkxlQ3A0SFRPWDZYc0VQRVc5Uk9ZMVQ0a0RUZXVJcXdyUGxaWUNEbmtmUm9JSk8ydmlobnhUZ0lZcHFwdnRFazZreGtfWC1DODlwUGlGZ0tIV0JMWk1NMEVTTmtiRzN5NHRtLU54TVlBTTNkRE5kZEp0QUpjWW5OXzExdVlJanZDSkhB?oc=5",
+      "source": "Google News",
+      "age": "23h ago",
       "dot": "info"
     },
     {
       "title": "Why Kenya’s tourism growth faces new mobility test as passport ranking falls - People Daily",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU4xaDhfeVZFNnNrSm43NDZ2MTVDNmFFQWN1LUVjcTlVYlRyWFE0bzlORU5TT2RJZVpYb09KckJaZjhDVkpxcWJ0SUh1Ymtvd2ZwVVZpRkk1QVZPSFlGRVZMMVhDYjg2dDg3blZJWmE1dVVuZW1WclgzcFNWWFJvZXVjWE91WnQySWx5djVEaDFBWmJGYmZ6NDlxaGI3MktETHgyeGRsVDNRNWp4MGVzdGpZT0lMZkk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzhscTV3NlBPMDQxTTJNQVNDQndUVTIzaDEtbUVCZE5zclB2YUVaSGxpcURKSldseUNyemxtOHVDcldKa3dEZTYxbXBFUGRZVVZyV1BSaktFb1RTb3AwRnh3UTVlSExKR2hnMVNJZVF3YVFEUGM4emZmREpqWmRadVQ2WFFkTF8yX1JyY2xZOHplRzhQTHluWXl4bk1VdGlFZXlxeXVCVHlkNllJNWtvdmRB?oc=5",
       "source": "KTB",
       "age": "18 Sep",
       "dot": "info"
@@ -255,48 +248,33 @@
       "dot": "info"
     },
     {
-      "title": "Shakira’s Madrid Residency Drives Hotel Bookings Up 15% and Prices Up 20% - hotelnewsresource.com",
+      "title": "Shakira’s Madrid Residency Drives Hotel Bookings Up 15% and Prices Up 20% - Hotel News Resource",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13MmVWT3gyWVVvTVp5aVNNSFFpVTFSM3AxR2tqUjhPTk1OOXNnR21rVDJTa2I5STJXV3QzRElxT2VUMk1RWTBhMTVWbXVZSUFXczFnUU1MdG1hS3BjUVBhbGhn?oc=5",
       "source": "Google News",
       "age": "16 Sep",
       "dot": "info"
-    },
-    {
-      "title": "France & Italy Lead 9 Destinations in EES Biometric Border Expansion 2026 - nomadlawyer.org",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVpKbTMxdTJXclZfeUhFNFVIVXhBYm9ocVNreExCMWUyNTdweUNPMVJfWXZpZUNPZ0hlbE12bGoyT1FjdjI2UWVhSWg2WUtBRmJxeFBhUGdaS1JLaUpYS1BBSjZ6TlVTR1hOWTJMVGVXT1EtOGFPWTNwSlhDdndCZ3AxQzQ1U2xVcVQ5WHFoZHpuVGhDVnVxaDZjTU9oOWdqYmpySjBlRQ?oc=5",
-      "source": "Google News",
-      "age": "15 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "Cuba Tourism Collapses 62.8% as 73% of Hotels Remain Closed - rustourismnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajZCcHlyTVNrX1VLNFhaOVprN29uX0tsNi1yNUljY3BCZlhrNE5PTHdHblNoTHM3cWJOT2ZGbGg3QWZkV2dtQjFGQ0psWklVMU9CdFZRT3NYRlZLaUNMNWhLMjN1UGV0amtTa3RkM0FKVEZPNmNZeHpGMGp5Q3gwSmwtMDUyQVl5S2RKRVNjOElicWJHSnlnZ1VPSWdWUDF6NlE?oc=5",
-      "source": "Google News",
-      "age": "14 Sep",
-      "dot": "info"
     }
   ],
   "airline": [],
-  "operators": [
-    {
-      "title": "The latest Expedia discount codes to save you 20% on hotel bookings - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDZ5T2NRYmhQc2RDcnVwNktNaWxJdlFmVVJKNW9zQ1VGTjYxdjRIcWJnWVVEQ2k1SlhOTS1rRENQbWhydC00cEQ1czhoV2I4eEs5ZUxndkNiTUYtTFNPSUJnS2V1dHpNVFF3ZUlHMmx0Z3liNkk1MjYyNzMwb2VaZ0lUcFZMLTlIZ1I5NA?oc=5",
-      "source": "OTA",
-      "age": "18 Sep",
-      "dot": "info"
-    }
-  ],
+  "operators": [],
   "macro": [
+    {
+      "title": "TUI Sees Travelers Booking Closer to Departure as Summer Demand Improves - GTP Headlines",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlhtWG5TTFZNaFNKWEJIbnp1TmlNN3R0V2F6SWdHWUx2Ti1wbHMzTmxZb0xCQzZGdXNOckh2WUliSURMNG1qa2hPLUk3MldXVWlmN2FYS0JoQ0gwcDdBLU9ZdXVOOFR4ZFExbVZMcnY5SW9GWGxQeU9hTkJIS3pUTjJGbGdtQzBtRm1PR09oY1BjN0RUSkhtRC1FWlZQRENnLUVWeC1WZw?oc=5",
+      "source": "Google News",
+      "age": "21h ago",
+      "dot": "info"
+    },
     {
       "title": "Portugal and Belgium flights are set to be disrupted by strikes this September and October - Time Out Worldwide",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUdKRUM4VzJWTGdhTVZCOEVtMlpQU3MzX3dwc3c1TTBZZ0kzUVdjemdHT0hkNnJocnQ3RXh0TFB0dE8wdWxROUIwSnhobXZZemJZVTk5WkNyRUpaS0hRMGlSTjFsZS1tSzZtc0VCNEo4ZHNDREpUMVIyaktJZkozUENCQUJkWlFDZU1Dc1dGMkdKcGxkakZqQk90ZERjLVNzM1g5R2RBdzFGTGlQVUEzZFh3d0xweUR2Q1E?oc=5",
       "source": "Google News",
-      "age": "1h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "Interest rates held but Bank signals rise if energy prices stay high - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QZ21jNFFtTTMtejBhVWNScm1wLU0tdWlnNzNRblJkc2l4R2tKUTNYTk5hdGtLN2E2aTBPNlgzQktGSmExUm1pSWJmczlhQm1MZjNiMmx5Q0tGRVlXVGc?oc=5",
+      "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
       "source": "Google News",
       "age": "17 Sep",
       "dot": "info"
@@ -304,7 +282,28 @@
   ],
   "events": [
     {
-      "title": "Final ScotFest: After 46 years, Oklahoma's beloved Scottish festival closes with a celebration this weekend - KJRH",
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - britannica.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Google News",
+      "age": "7h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Arts in the Heart sees 60% drop in visitors with move to fairgrounds - WRDW",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVByUGFpYm1xVE01c1N0M05TeGVBZGhvMHNYWjJ5Nng3Yjlmenh3R3NkVVFtX1lmenRsdkpzZFAzQ3ZjRjR4RVhTbExIOWlEeC1BTUZKZVlSMmVoaEVMZ25udHVzcDdkdDdqRG51cEJ2MmYzNDFiemVjQ3RNZ1h2aUg2SnRZcng0NWp2U2JhNzB1MVBYbUVJYTBWaFFXX096bnVZZNIBpAFBVV95cUxQRVByUGFpYm1xVE01c1N0M05TeGVBZGhvMHNYWjJ5Nng3Yjlmenh3R3NkVVFtX1lmenRsdkpzZFAzQ3ZjRjR4RVhTbExIOWlEeC1BTUZKZVlSMmVoaEVMZ25udHVzcDdkdDdqRG51cEJ2MmYzNDFiemVjQ3RNZ1h2aUg2SnRZcng0NWp2U2JhNzB1MVBYbUVJYTBWaFFXX096bnVZZA?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "A Jamaican’s Guide To The Best Things To Do In New York in September 2026 - Jamaicans.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlLS2ItZ0lPRTlmdU12eng4MGxRXzRjMXZwT1phOXlQaWh0ZlV2TTFpc3hMV3d6N0NTSmJPa19Sd1N3MXZibDE5aTBvNkZ3aTNQbHc3M2xydWktcm9NOGV2aC14M0VpWElWNjNaNDVNUVJEdDFrYnBoekg0b3dUOERGT1AxME41YThKX0c0ejMyeW9teHBMaFlERQ?oc=5",
+      "source": "Google News",
+      "age": "19 Sep",
+      "dot": "info"
+    },
+    {
+      "title": "Final ScotFest: After 46 years, Oklahoma's beloved Scottish festival closes with a celebration this weekend - 2 News Oklahoma KJRH Tulsa",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG5xaUx4RHFETkpCalJhNjVVWkw1c3RVcjJPai1Ed2w4cTdVOVVNVnhweUxpczR2XzdjTTBWeHNDU3JWUWo4bXBpa0dJYWlsWjJCTThMWXdieDRYNGVMaU53NmpuUTB0RGEzSi15MGZvb292dlo5RUdqdmtvamFCT0pUd3FMS05mTWVlTVVpVDNjXy1vaVdzRnIwX0JxY1UtZ0JWMGJJOEZNTUZMMm01N1hOYlA1NloxckI1M3BWbVNmaDhwT0FkZ2IzSzE3V3BsdlZnbGtvTmcxQnEzaEQyUWRxMlkyVEtXNkFCOVZ3?oc=5",
       "source": "VisitScotland",
       "age": "18 Sep",
@@ -316,35 +315,14 @@
       "source": "Google News",
       "age": "18 Sep",
       "dot": "info"
-    },
-    {
-      "title": "Kenya Travel 2026: Emirates & Qatar Airways Safari Guide - nomadlawyer.org",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTk95ZUpQdnpaTWUwbThXR1lfY2xwT2pNZXlyNzg3Y3RYU3ZMU2ViRXFxMjM2dTBEQkdtSF9IUXJHQm52dG1GajRyQ3lQWi11cEg5ODhDbkJKNUx3YUZ2bjM0S0xmTXRhR3czRVhpRHpLZlJLZmt6RW9USFJ2cGZKS1ZCakZBeGFjYXc?oc=5",
-      "source": "Google News",
-      "age": "17 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "All UK public and bank holidays 2026 - RAC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFdTNYNDVIMV9GVHJKX084NkdhX2ZTaHZTM3ZGb3R3OGE1REtBcFVhSG5sX2JHcXpNdTJvbXlKbEtOQTJGdGRvaTFrbUs0Q1dLTUFCcExBb25FNXFPSmNUYWU0X2FyalNzSEE?oc=5",
-      "source": "Google News",
-      "age": "16 Sep",
-      "dot": "info"
     }
   ],
   "weather": [
     {
-      "title": "El Niño is returning – here's how it could affect your travel plans - Condé Nast Traveller India",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUy11dklJVXBYcFd6RjdYQVJOYks2VzJZX1B6UDU5LU1zV29fQzNfMldiRE9INHY2TXNCN1JkUFhGck5ETXJrcHM0N3pNc3pBTF8tODdGcmFQbEQxTEdkX0VJS1ZtY0lMQ0pUX04tRXFkRkpvWl9rcHRIaFBMQll2MlBxdkRMR3NjSHBCMDRDdlFZdlpDMTFhYUlXN1gyWE0?oc=5",
-      "source": "Google News",
-      "age": "16 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "Electric mobility brings Africa’s energy transition into the wild - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZjMxNDR3Mlg2NVRFZmhOWXB0YktLMVBYSldTM0hsRnZsNkFrN3lpdFNJX0xZUlNxSmFQT29MT2ExSTBBMjlxY0FWVjhjb1lIRTZiWXBkXzhvMHdaSzVmWndoYVJFdEpYY1V6Y2FhRk0xRS1JaEZFaWtUUlNmQmVrZ0g1YVc4RWlmVmRZbWczbHZ3MHdyU1lkN1BqSDIxMjdCOHhlZ1JmOFFCMS1fMGxqMnB0VkNTUnRrSm9kcHVVY1lnd21rbEQ3WmVwdm5xM1QycUtV?oc=5",
-      "source": "Google News",
-      "age": "14 Sep",
+      "title": "It's almost the end of September. Where are all the hurricanes? - CBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFF4Q2VOMnNHVTUxNkFOWkh0T2xkbHJkblFrSU9pUmdCajVKTEZxRkM5YjZvdk00VWJlQm1uOF9NMEMzbUNUUTFhTWY4bWRCTE5oTUdFZmRFZVY0SmZHeEtwY1JWMEhmYVJWVXZ3TU1jVDJKczl5cWhzOFJDVWRwZEp6MUY?oc=5",
+      "source": "NHC",
+      "age": "yesterday",
       "dot": "info"
     }
   ],
