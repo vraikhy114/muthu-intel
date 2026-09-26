@@ -1,25 +1,25 @@
 {
-  "generated": "2026-09-24T11:15:44.682163",
-  "date_label": "Thursday 24 September 2026",
+  "generated": "2026-09-26T10:57:31.518012",
+  "date_label": "Saturday 26 September 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 49,
+    "total_stories": 48,
     "muthu_mentions": 0,
     "competitor_changes": 0,
     "new_routes": 1,
-    "events": 4,
+    "events": 2,
     "weather_alerts": 1
   },
   "currency": [
     {
       "pair": "GBP / EUR",
-      "val": "1.163",
+      "val": "1.162",
       "delta": "unchanged",
       "dir": "flat"
     },
     {
       "pair": "GBP / USD",
-      "val": "1.328",
+      "val": "1.325",
       "delta": "unchanged",
       "dir": "flat"
     },
@@ -33,13 +33,13 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 3,
-      "bar": 36,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
         {
           "title": "Connecting demand, creating growth - Tour operators in focus: TUI Airline launches Summer 2027 programme - TUI Group",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVMzb3ZDbWxMRFNPbXBYaEJSaXZlQVlkTzFWUlFPU2xTUFJmT3U5R3F3TXlTN1hXYXhETUdTMExnNDZLdi1ETDAzTWNMckgyeTk4MmIxRlhaWkFBVDZEc3FhODBscW9lWXVfbHNtcHhaMlhNemFwTU4zeEdDUDRlaUZ6N1JNQVFsY25OeVlZbUpmS25MdXRQZklVTlBBQVpHTWJiQ2N0Zlg3eHF5SEZuUjhCRjE2TFAwUThyRjk3eFdYYzFsbWpmWUFibDZLU1ZXSUV3MVdNUV80Zw?oc=5",
-          "age": "2h ago",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1FudXdQVzVyOG91ZHFkdlhkUlExcUZLQTBGTmlSZm1jNXNqN2pkRG0tSjkyZUZqbERnZ2lPM1BsNTBGVHVNdGNlSTI5ZVRTa3VpZEhIbU9Vc00tbTBQN3ZMRm5sWFZRWkR0aU9GNFh3OEJ0dTlwTjZRUG9vYjlIVWR5aG92V3NFNHlkWTh4U2VobFMzdmhDcFNCOWNXM2hXWEc0YWx3eDlFbVB5YzdEaVRQb1hreGVoai1ZZG45eGNDbm1GYXBGbDE2M01COHVrOTlNay13?oc=5",
+          "age": "24 Sep",
           "_ts": 1790237828.0
         },
         {
@@ -52,40 +52,73 @@
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 4,
-      "bar": 48,
+      "articles_24h": 3,
+      "bar": 36,
       "articles": [
         {
           "title": "Windstar Cruises announces 2028 Europe season with five yachts and 348 itineraries - Data Portuaria",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT182UWhyRUxfUTE1VHJfeVdUeDcyNUxyNWkyRG84TzVLLTBaaWhwT1RpOUhoX1hYUUxCZWFpUi1GU0F6STM3Zm5xN2o1bFlMLUptOVF3UGpqT0oxZGNnYmc2a1lRTVRTaHlUTmppN244NjhxQXRIQUVSOTR2eEhjaXU0aDJqZlJIMDNlUnhsRUVyNFhPU0pIVnVSTC1qQWhCNWpLQ3JCVlozV1VfcFRnMw?oc=5",
-          "age": "yesterday",
+          "age": "22 Sep",
           "_ts": 1790107221.0
         },
         {
-          "title": "TUI discount codes for September 2026 – tested daily - independent.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9zZlZMZlZRUjZGbnlaek02M0Z5VW9zNm5YNXFrbnAzc0d3NUlIcXNETDd0b3BWb1JpaEVydUhFcURBeVV5cFNob2U5T0ZLRWk0Wlh6bV9TWGxSV01aQ2R1V3lPWFpyLTc1WTMzaW5yN291MkE?oc=5",
-          "age": "17 Sep",
-          "_ts": 1789647590.0
+          "title": "Jet2holidays discount codes for September – £100 off holidays - independent.co.uk",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3k0aXFOQ002WVh3SWZiTF9tZmVuUURUNmFBNEh3eUlCMFY5QTZmMVp5V3pnWlhhUENwbWlxUkN1cklsaE8yLXM3UF9nX1R6MmZIYXJNb0lpaUozMmc5RllZMm9hQkFYeWJJNHBxZzZHdDlCLTM3aHAyQWhLUGUwZWlLaGtacDZLQ0E?oc=5",
+          "age": "21 Sep",
+          "_ts": 1790004043.0
         }
       ]
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 2,
+      "bar": 24,
+      "articles": [
+        {
+          "title": "Selara Africa Debuts With Travel Advisors in Mind - TravelAge West",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHhFVVR2TjZfdnJ6TThVZjFtNXB6d1BkQnhHRzNqRjZzc2ZXRU9VVGZPd3ZTSG5mX2tpd2lka0t5dTkyWVJtVWtNdVNkczhIRlVBUHE2cWJveWJPUHlmMlpXSWh2bThXdW9DOUt0cTBiQnZnbXhPbTM2Tk5aZEx3UzdyQmNqMzNTY1pvS3FkRkNoT3UzblRKVlhjOWYyRzQ?oc=5",
+          "age": "23 Sep",
+          "_ts": 1790122178.0
+        },
+        {
+          "title": "Top 10 Best Tourist Centres In Africa 2026 - Nubia Magazine!",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yYS1KMUdjbWZITkFXZnRIamVGdlNTZ3h2d3FsTzg2Vm1INUJvMGRvSnFDSG5RWDlJSktvWThvRUxEWW95YXpENmY3a2Q2c2E4U2psRmpsNk9BajUwYWM1YTY1VWhiRjJDNU9KNw?oc=5",
+          "age": "yesterday",
+          "_ts": 1790321340.0
+        }
+      ]
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 2,
+      "bar": 24,
+      "articles": [
+        {
+          "title": "Best Traitors-inspired Scottish hotels for an autumn escape - London Evening Standard",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlTNzFVY0hIeS1TSGllWWZleUFvRUhCMzRvZkxLUzRUd1Y3aVFKcVJtLW1BYW53U1hVWWFlZW9iTW8zZHhfLXN3RmJwbDBSVUNHdFJ4U0duVVBxblRiTTFqNklia3pNZ2F1UFVnQmxKZ2phX0ZqV1NReEVMZ1ZVOUN1SURUNElsX01CU2ExTDlCRDdaaFE?oc=5",
+          "age": "20h ago",
+          "_ts": 1790344654.0
+        },
+        {
+          "title": "Scotland’s Charity Air Ambulance announced as HITA charity partner for 20th anniversary awards - Shetland Times",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGlGdkUtdVVRMnVmMXdlbUxneUJTNUplTDAzSHFlejhjaWlsWDZqMzZDNjN5R2N3NGk2cHA2Q0JkZUpsdGpfSEtQZ2RZcEYya1dfNEg3czRKcXZqTjJoTWR1UXNzSXZjTTJaQ2xfdXF2ZmZYNC05U0M0QnNlbzUyOGtzVE5MS1FpQV83dW1NS3ZmbjgwS04zNXJBU1RHclNQOFhnNGUzT0E?oc=5",
+          "age": "21 Sep",
+          "_ts": 1789988520.0
+        }
+      ]
     },
     {
       "dest": "Cuba holidays",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 1,
+      "bar": 12,
+      "articles": [
+        {
+          "title": "Canadians diverting their holiday travel plans from Cuba to other Caribbean destinations: Flight Centre - CTV News",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbnh5NjdCc3BNY2xOS28xaXR2aGYzQlpKZjg1UFRCUDZfd2pidEpPM1h2RXJ6OXBpV1RXaWVoYXRqVlRqOGplU1lVeE5IczFNSGVLdUNDRkJxakFnb0FRUkY2ZUtMX3BCRWpoZVQ3cmdqVmVBU2poUUhrQU0tNEFyOEdKQlR5eVNYRDlRRnh6cU9OMTVOVURUd2JWVTFqRjBxZzhvaUdSZUpXX1p2dTFGQW00ak5ZRzQ1N0d5TDg1NDJVOFF5U0dObzdwMmdoV3JGall2QjcwZEljbVBHUno1MkpCVW1MS0M3VW10Smt3?oc=5",
+          "age": "yesterday",
+          "_ts": 1790330556.0
+        }
+      ]
     },
     {
       "dest": "Jamaica all-inclusive",
@@ -97,73 +130,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "The Society Names Sandy Lu Design Director to Drive Next Phase of Hospitality Design",
-      "link": "https://www.travelandtourworld.com/news/article/b2qq27ezvw12/",
+      "title": "Panda Fest Brings a Feast of Asian Flavours and Festival Energy to Altoona Iowa",
+      "link": "https://www.travelandtourworld.com/news/article/9mzwgmwe2a0d/",
       "source": "Travel & Tour World",
-      "age": "2m ago",
+      "age": "1m ago",
       "dot": "info"
     },
     {
-      "title": "UK Railway Evolution Links London and Derby Through Great British Railways Passenger Travel Reform",
-      "link": "https://www.travelandtourworld.com/news/article/45i4kppdo0xf/",
+      "title": "Spain Follows Italy and Others to Face Europe Travel Costs Split in 2026 as Package Holidays Rise and Airfares Ease",
+      "link": "https://www.travelandtourworld.com/news/article/6kvg4iwl032h/",
       "source": "Travel & Tour World",
       "age": "4m ago",
       "dot": "info"
     },
     {
-      "title": "Tigray Travel Disrupted as Ethiopian Airlines Suspends Flights to Mekelle, Axum and Shire",
-      "link": "https://www.travelandtourworld.com/news/article/ftqqr5z5j8o5/",
+      "title": "Mexico Overtakes Canada and Other American Countries in Catapulting Egypt Tourism With the Highest Number of Tourists in 2026",
+      "link": "https://www.travelandtourworld.com/news/article/bmjfahlodwci/",
       "source": "Travel & Tour World",
       "age": "6m ago",
       "dot": "info"
     },
     {
-      "title": "Israel and Switzerland Are Now Discussing Airport Resilience at Ben Gurion for More Reliable Air Travel",
-      "link": "https://www.travelandtourworld.com/news/article/bcd7cnyl57aj/",
+      "title": "Indonesia, Australia And More Reveal Lombok’s Rising Appeal For Adventure And Island Travel",
+      "link": "https://www.travelandtourworld.com/news/article/7xjzqvdihgqe/",
+      "source": "Travel & Tour World",
+      "age": "6m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Taiwan High Speed Rail Breaks Historic Passenger Record As Mid-Autumn Festival Travel Surge Fuels Domestic Tourism Growth",
+      "link": "https://www.travelandtourworld.com/news/article/ro4y7mi0c5fi/",
       "source": "Travel & Tour World",
       "age": "7m ago",
       "dot": "info"
     },
     {
-      "title": "UAE Follows Finland as AI Ski Trips Cruises and Gen Z Shape the Future of Travel in 2026",
-      "link": "https://www.travelandtourworld.com/news/article/4irzihnp0nul/",
+      "title": "Discover Agios Nikolaos: Your Guide to the Sissi and Kalo Chorio World Tourism Day Celebrations in Greece",
+      "link": "https://www.travelandtourworld.com/news/article/ukaoat5mc6ge/",
       "source": "Travel & Tour World",
-      "age": "9m ago",
+      "age": "10m ago",
       "dot": "info"
     },
     {
-      "title": "Natalie Gonzalez Appointed General Manager of O2 Beach Club & Spa in Barbados",
-      "link": "https://www.travelandtourworld.com/news/article/kmt3ps8xpu3u/",
-      "source": "Travel & Tour World",
-      "age": "9m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Brazil Launches New Groundbreaking RASOE Framework to Boost Sustainable Exports and Secure Stronger Position in Global Markets",
-      "link": "https://www.travelandtourworld.com/news/article/h5ppz4zcqu1q/",
+      "title": "Morocco Races With Egypt and Other Nations With Record Investment in Airports and Hotels to Lead Africa’s Next Tourism Boom Through Mega Events Until 2030",
+      "link": "https://www.travelandtourworld.com/news/article/rbu9a5msyke9/",
       "source": "Travel & Tour World",
       "age": "11m ago",
       "dot": "info"
     },
     {
-      "title": "WTTC and JATA Join Forces to Accelerate Japan’s Global Tourism Growth",
-      "link": "https://www.travelandtourworld.com/news/article/a2n0wpf3w7or/",
+      "title": "Ibiza Expands Nautical Tourism Appeal as Spain’s Mediterranean Island Attracts New Wave of Sea-Based Travellers: All You Need to Know",
+      "link": "https://www.travelandtourworld.com/news/article/khh93luycxeq/",
       "source": "Travel & Tour World",
-      "age": "16m ago",
+      "age": "15m ago",
       "dot": "info"
     },
     {
-      "title": "Blastness partners with DirectBooker to bring hotels onto AI platforms and drive direct bookings",
-      "link": "https://www.hospitalitynet.org/news/4134550/blastness-partners-with-directbooker-to-bring-hotels-onto-ai-platforms-and-drive-direct-bookings",
-      "source": "HospitalityNet",
-      "age": "24m ago",
+      "title": "Expedia Cuts 58 Roles in Latest Layoff Round",
+      "link": "https://skift.com/2026/09/25/expedia-cuts-58-roles-in-latest-layoff-round/",
+      "source": "Skift",
+      "age": "8h ago",
       "dot": "info"
     },
     {
-      "title": "Hotel Optimize Prices but Ignore the People Paying Them",
-      "link": "https://www.hospitalitynet.org/opinion/4134554/hotel-optimize-prices-but-ignore-the-people-paying-them",
-      "source": "HospitalityNet",
-      "age": "46m ago",
+      "title": "Flight to London evacuated after 'bomb threat' at Tenerife airport - Metro.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pCeW14VW8ta2JyZmNBNml4RXRiaDdxUndweHlrM2g5cm5MX1N6WjBVSzlick56X1BHakdBd0dTdmstQmZ6RUJTT2t4eHk2X2tVa2M0RHhLY3lEYXpNZHd1bGlkWS1tQ2l2b1diYlB5OF9ucEM3TGQtaUR3R2VhQWJGNGQ5UGdkcXp2bGJDYklwY1BISHlKdNIBngFBVV95cUxQQWRMUFR3SjVaZUgwMG96QVNLUmFIeFY5X0xOcXZUamxHLTRKbS1jLTdSaS1HcUp4T0txTV9oTnZCMUc2Sk1XcTdLMlBtdTd1MGhqZTRlWHVKcGZsbzVfSFlkOWpFampQd2pwckF0c2lyZ09heHFwOTY5aUc2QnNPdHR2azcwckpzZFR4dXBvMktrQjM4Y3BNeXBCYUlvQQ?oc=5",
+      "source": "Google News",
+      "age": "14h ago",
       "dot": "info"
     }
   ],
@@ -206,31 +239,24 @@
   ],
   "tourism": [
     {
-      "title": "TUI customers given new booking update before winter season - Nottingham Post",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWNTclFUeE1EUlBzZG5nbkxlQ3A0SFRPWDZYc0VQRVc5Uk9ZMVQ0a0RUZXVJcXdyUGxaWUNEbmtmUm9JSk8ydmlobnhUZ0lZcHFwdnRFazZreGtfWC1DODlwUGlGZ0tIV0JMWk1NMEVTTmtiRzN5NHRtLU54TVlBTTNkRE5kZEp0QUpjWW5OXzExdVlJanZDSkhB?oc=5",
+      "title": "Major airline announces 25 new routes for 2027 - 8 from Gatwick Airport - AOL.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjIzVzF3V1JnTHREUkhPNXFCYURYZjB5RTFWUGVqNmNFTGE0WHdfbWZTOFQzUjhSY09HMlYxMVJrRkt5bDkwS19vQVFvRktnRXFvbjc2WHc5TERtRzhCbWFlUEdaQ2hLNkIxMjU3aE9iLW5SazE0SXJJWk1wQVNzNDRTT2lrUQ?oc=5",
       "source": "Google News",
-      "age": "yesterday",
+      "age": "22h ago",
       "dot": "info"
     },
     {
-      "title": "Europe Autumn Travel 2026: Spain, Romania, Malta & UK - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQODJVT3dMLXFPZXVaMGpuSVNxblk2WWNFejUyT2dkQmtOdk1kZ2JBSEQ1Wmg1cUNUNHNFLXdCcXBTVGJnTVl0NTJFLTI4dUp3TllMbzFRV1dlbmNpMmFZNGtDZVg5LUdhRXhYZFlKNVN6VmVOTkd1N2wyNS0tV2tRZ2RR?oc=5",
+      "title": "TUI customers given new booking update before winter season - Nottingham Post",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWNTclFUeE1EUlBzZG5nbkxlQ3A0SFRPWDZYc0VQRVc5Uk9ZMVQ0a0RUZXVJcXdyUGxaWUNEbmtmUm9JSk8ydmlobnhUZ0lZcHFwdnRFazZreGtfWC1DODlwUGlGZ0tIV0JMWk1NMEVTTmtiRzN5NHRtLU54TVlBTTNkRE5kZEp0QUpjWW5OXzExdVlJanZDSkhB?oc=5",
       "source": "Google News",
       "age": "22 Sep",
       "dot": "info"
     },
     {
-      "title": "Why Kenya’s tourism growth faces new mobility test as passport ranking falls - People Daily",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzhscTV3NlBPMDQxTTJNQVNDQndUVTIzaDEtbUVCZE5zclB2YUVaSGxpcURKSldseUNyemxtOHVDcldKa3dEZTYxbXBFUGRZVVZyV1BSaktFb1RTb3AwRnh3UTVlSExKR2hnMVNJZVF3YVFEUGM4emZmREpqWmRadVQ2WFFkTF8yX1JyY2xZOHplRzhQTHluWXl4bk1VdGlFZXlxeXVCVHlkNllJNWtvdmRB?oc=5",
-      "source": "KTB",
-      "age": "18 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "UN Tourism Statistics vs WTTC: Which Data Tells More? - eTurboNews",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXU0VLai1qZlJVZ1Rjbk5udGJDYUs1ZDIyU2ZDMzJNcnVrRHNqUkJjTGVoNG1oYTg5WGpHaVZPa01xckdhS0UzNUNuSEZtUFlQb19EN0w5T1JsWmNSSVBBcjBoTzk4U2pMeGc?oc=5",
-      "source": "JTB",
-      "age": "17 Sep",
+      "title": "Hotel nights grow by 1.4% in August and exceed 48.7 million due to the pull of foreign tourism. - Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVHFEOWtzbFMyX2dxd0djM2NtMHQ4bjdsZEJOSWYtcVBSRzJCYXBLeURJYndNWHJjNmFOTXRXaGgyaHZxUC1tR25NbHZkQ2J2ZlRiVGdoSmdFSlZTeHNuNEoxMzlfZHFhSFdGazZKZ1d1U1NlRVpZZGhMUGVvU1lxcEhUazZTaUp5TU1IY0VYNnpac2lVeHhaSllPV0xhZXdQOHlkRUc5QWoyR0FaMzR0TjZ3ZVA2YlhaekNIdWVSVzJkTkdJVFlQQTJ30gHPAUFVX3lxTFBTNDZWRFFiQkF3RXNTQ1dBRndlb0phM3NSd1YteG00a3B5Wm9lcXk1UmVSRk4yY3llTTRBbWwxMzNBZHdPckNiSW4tTjBHR056c2JnSkYzbnJiNndFWmc1N0Z2UWV6bW1sMldobmotNHVrb2dna1pKVWJxVGVFMHI1VWo1V0VRMGVxbTVXZ2lhSjVzWFd0UGhiN3B0dER0R2s4TjJneU5rQWhYVUp2ZmlsMEFnWFlJakJ3aHdzblB6VFVPSWo5aGFfYnR6TXlTbw?oc=5",
+      "source": "ISTAC",
+      "age": "22 Sep",
       "dot": "info"
     }
   ],
@@ -254,72 +280,72 @@
   ],
   "macro": [
     {
-      "title": "TUI Sees Travelers Booking Closer to Departure as Summer Demand Improves - GTP Headlines",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlhtWG5TTFZNaFNKWEJIbnp1TmlNN3R0V2F6SWdHWUx2Ti1wbHMzTmxZb0xCQzZGdXNOckh2WUliSURMNG1qa2hPLUk3MldXVWlmN2FYS0JoQ0gwcDdBLU9ZdXVOOFR4ZFExbVZMcnY5SW9GWGxQeU9hTkJIS3pUTjJGbGdtQzBtRm1PR09oY1BjN0RUSkhtRC1FWlZQRENnLUVWeC1WZw?oc=5",
-      "source": "Google News",
+      "title": "GfK: UK’s sustained consumer confidence boost may be short-lived - Investment Week",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWpqdHJDT094bC1KT0Y2MzhySkRnLVU5dkViMm9vUjZLeFpWWlg2bTVxd2U5bEMwSl9FcDgwbmZleDF4REcyOGRFcmtyOXJQMk8wT0V1U0Z6UjRpcjkzY1VoX1VmMW85ME8wd21xOXhxX1JFcHZ1OGsyLUU3ZVlGYkFLNE11aEhBcTdEck9HUXdZV1h3aS0wR010UnJIaVVjdmc?oc=5",
+      "source": "GfK",
       "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "Portugal and Belgium flights are set to be disrupted by strikes this September and October - Time Out Worldwide",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUdKRUM4VzJWTGdhTVZCOEVtMlpQU3MzX3dwc3c1TTBZZ0kzUVdjemdHT0hkNnJocnQ3RXh0TFB0dE8wdWxROUIwSnhobXZZemJZVTk5WkNyRUpaS0hRMGlSTjFsZS1tSzZtc0VCNEo4ZHNDREpUMVIyaktJZkozUENCQUJkWlFDZU1Dc1dGMkdKcGxkakZqQk90ZERjLVNzM1g5R2RBdzFGTGlQVUEzZFh3d0xweUR2Q1E?oc=5",
-      "source": "Google News",
-      "age": "21 Sep",
+      "title": "Consumer Confidence up one point in September to -13 - NIQ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2xrLXAtbTB2Q21ia19NYWVqa0dfRTQ3cGg1QmJ6RVpOcjN2ZWRVU1FQYlFiRFhqaG9VUUxBeVhsQzgza2w0RDd1RC1XM29CdWsya0hzTlB1QW1DYWhnbEdkNU1zZGxPcVNhQlc1cEZpVW1fclNReTl6c2lERWxIbW9CcnEtSG1hMFpoeUdVV1ZxSjFoTVdsYmpzelFlWUJqVzJF?oc=5",
+      "source": "GfK",
+      "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "Bank Holds Lending Rate At 3.75% Despite Rising Inflation And Hike By US Federal Reserve - forbes.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0hlOHpLbWRvYS1Cc0x6dnRESV8waktYOGNaVkxnYXRYMEpSTlVKTXF1WEhCYU1YM1dCeGx3SnZZeXEyNV9QTjF6b0RiSTRxemgtQktkM3B0ZFktR2FSMUZRWkViZ2k3bk1ORzVmZG1jbXdQNVNPeVVkaXdZNVZTYVNVbWdGZ0laY1AtUw?oc=5",
-      "source": "Google News",
-      "age": "17 Sep",
+      "title": "UK consumer confidence hits over two-year high in September as personal finances improve: GfK - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZWU2ZFpQcnV4aWYtYm42dHdoU1F6X3haeFNLdHVOYktfN25acFB4WFdOMzZ1Q3hBWHJSSDQ5SkN5S2EyY1RsMUN6UTBvTjNZOFJYbjBiNkI2czl1Y3RnejM0a1cxTndBNlJpZEtNelVURTM4ZnU2QXFmMlIzVWtIel9meTg1M01GTjk4QlE5ZTBhdFBvdmdyeWNOUE9EUGhhaUpCaDdfOGVieUNMak4xTzJlVHRIMndIdXZ2bGllOS05bllNWGctSnNBcVZNeVhIcVdua3dfYlEyck8zSzFieXRGTkVLdmRJZldkSnlmMTRDWnlYQ1pMWHVTQnRwZzEzQ2lOWnl6TmJBWjVRVU5r0gGUAkFVX3lxTE1fVE5tQk5XdEFKUDJnUFlVMnh6T2JvR0FSeXNNalYyOVRRSDdzdXZPMlAwN2h4YU1WbWdaSnB3bm1iamRqLU1YTjNLWXhad0JtM1BTX3A3a1FIOENYblZhSHctb1N0Q3VEZUozRVRBZzNrXy12Rkd1MFVaNGN5N2dIeXAyOHQyZTlTTFZqdkdZTmNvazFJaVYwVmdBcml6ak9YS3dFWWRMU0l1YmVzdjJEOHFDc2JIYTR6TlBQRkY4ZlgyLWpFRU1IUmdWVENXeW54Q0tHRXl6cFF5ZG5aQ2RKeG1za3NtenFMUzdSb3A0Nnd2SGhsNjc1d1U4Tm12bnhfdkFpNXdMT2FXdUlCeGt4c3R5cw?oc=5",
+      "source": "GfK",
+      "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "What's happening to UK interest rates and what does it mean for mortgages? - bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-      "source": "Google News",
-      "age": "17 Sep",
+      "title": "UK Consumer Confidence Hits More Than 2-Year High - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlVjY0tmWkp6QkwwMGFpSE8xcGpYWGRpUXZNVTdGcXJ2WkVUSHA0b3N0ZFBTdG9GU0t4UWZkdEdILVQ5QS1qYkJWRGNaVDhVSVQ1WThCTmhjSzN5aFEyT3VTOTd6ejV3QXdDQU1hTWYzZktQbUNPc1VwTjN1eGdhelM3ZmFMV2Vpek9aMmpZa2FOVTlyMjNneVdBSk5nQjR6R0E?oc=5",
+      "source": "GfK",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "UK consumer confidence hits more than two-year high in September, GfK says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHJpR3JTbTBFNHNJWXFnSU9IUEJZNUNtdk1tSzBBMElKVzhTMWdyNmpzbFItTW9KX09NRXFpaklNemhFeGdBdE5NZ2VHVXRBWHczVjFsYUNXQk5NWjFEU2pua3UzOE5JaGhocHE1V0otWm5OMmliOVFHdlUtZWo2RjQwR21kSHQ2Y3RNYXVYUGJFOUJsV1lPbzJxVlpwNlNjYl82dXYyYlpqSmlrSFo3cTdPNl9xZw?oc=5",
+      "source": "GfK",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "UK consumer confidence hits more than two-year high in September, GfK says - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQkZnYWp6WVpyRHJlOGJyU0FKSjVJRkk2QmJLWnIwb2FrUHJseWhWeFRqM3F2LWg3VUtQSTVwRUI4TlVRQWtOYjhOSlBhU2E4Y29OUXIweXA5ck16d0Njczh1dlFfVTg1czRDY3EwRVliZnFUcWwxNUhnMzFYcTRONU5QYWtHdU40azhBbE15cTIwSFZSUVdSRWp5SXByZnBDWTNwWnNWX1F1eUYyWnN1ejZ2TWwyaTlIdUo4Ulh1dElFRXhZMkQ5UkRNcEtfTXZYVElRSi1mRjV4ZW8?oc=5",
+      "source": "GfK",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "Friday preview: GfK consumer confidence survey, Michigan sentiment due - Sharecast.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOUJEWFlKaUZ6dklDY21tMWdTbEowcmlnTlVPTFVmbkV1NFNQN0NhbDR2cGpVWHllakptV2o5dHVaUXdJWFE3ODI4UDRsZ0VUT3VuSEQ4cG1SMVlTUW1pRGVJNXVJdm9NaC1ZQzV6VlFhaG5RRTZ4SnlhSFd5eTQ5LTNMcnNkekZwZ0ZnTzJTRTlPTU96OEk2SEdSTHktNUoyc25HbEdOU181VHhzUTFZcWRGZFhUc3ZWdnozbDl2NVBlVkNxNTlBN2ZUUktYN3lo?oc=5",
+      "source": "GfK",
+      "age": "yesterday",
       "dot": "info"
     }
   ],
   "events": [
     {
-      "title": "Arts in the Heart sees 60% drop in visitors with move to fairgrounds - WRDW",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVByUGFpYm1xVE01c1N0M05TeGVBZGhvMHNYWjJ5Nng3Yjlmenh3R3NkVVFtX1lmenRsdkpzZFAzQ3ZjRjR4RVhTbExIOWlEeC1BTUZKZVlSMmVoaEVMZ25udHVzcDdkdDdqRG51cEJ2MmYzNDFiemVjQ3RNZ1h2aUg2SnRZcng0NWp2U2JhNzB1MVBYbUVJYTBWaFFXX096bnVZZNIBpAFBVV95cUxQRVByUGFpYm1xVE01c1N0M05TeGVBZGhvMHNYWjJ5Nng3Yjlmenh3R3NkVVFtX1lmenRsdkpzZFAzQ3ZjRjR4RVhTbExIOWlEeC1BTUZKZVlSMmVoaEVMZ25udHVzcDdkdDdqRG51cEJ2MmYzNDFiemVjQ3RNZ1h2aUg2SnRZcng0NWp2U2JhNzB1MVBYbUVJYTBWaFFXX096bnVZZA?oc=5",
+      "title": "Arts in the Heart Festival was a success despite lower attendance numbers - Post and Courier",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSzg5dEVEalVwRnN5bXVaTUw2MnVuLUk5ZTdXc1dYMWNzbXNfODFuSldPVHZ5Q2FDeFB1bEtuUU5YVFBwQVY0MTR1Z2tRbjN0dnZNdzNmSjFYR1J4VFpxakZNVWFBTFpRRUVVNVVKUWloUmxrZzJHbFY2ajhsUkxVc2dFX2szRk1LenlPUWQ3a19rT3g4aWllSUNzNTQzT2VHTGVnd2t5YlpnLThyUlJNcXUxVGNKZFlpdGxCLVJXMDQ2ck1OSG1nWHlGa1d3SjlUMjZFZklIbkwxbS1ZRWhpUks3eVI0Y1JzWlpZU1lpZXotUQ?oc=5",
       "source": "Google News",
-      "age": "21 Sep",
+      "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "A Jamaican’s Guide To The Best Things To Do In New York in September 2026 - Jamaicans.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlLS2ItZ0lPRTlmdU12eng4MGxRXzRjMXZwT1phOXlQaWh0ZlV2TTFpc3hMV3d6N0NTSmJPa19Sd1N3MXZibDE5aTBvNkZ3aTNQbHc3M2xydWktcm9NOGV2aC14M0VpWElWNjNaNDVNUVJEdDFrYnBoekg0b3dUOERGT1AxME41YThKX0c0ejMyeW9teHBMaFlERQ?oc=5",
+      "title": "Tunisia ranks second among French holiday destinations for 2026 Toussaint break - African Manager",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3dWaUlxLTZ5VXIxWG1vR0NzNFQyQ2xfSUxqVnowdHVGbVREbGpMcDV1S3hrTnpua1NaM21vdzUxRllYSmtZY1N5OXExSWI0QnJjY3p2dm4zRHM5SU1zZ3R6am9lMGdNaTVOb2d3TlFxMGlRV21WSTU2VkZUcWs2Q2Y2aHNoSVZBZl8yblhtWktNSVZtMnZfU2trZlR4SVpVbUlmZXRfLXNCSGplVWhV?oc=5",
       "source": "Google News",
-      "age": "19 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "Final ScotFest: After 46 years, Oklahoma's beloved Scottish festival closes with a celebration this weekend - kjrh.com",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG5xaUx4RHFETkpCalJhNjVVWkw1c3RVcjJPai1Ed2w4cTdVOVVNVnhweUxpczR2XzdjTTBWeHNDU3JWUWo4bXBpa0dJYWlsWjJCTThMWXdieDRYNGVMaU53NmpuUTB0RGEzSi15MGZvb292dlo5RUdqdmtvamFCT0pUd3FMS05mTWVlTVVpVDNjXy1vaVdzRnIwX0JxY1UtZ0JWMGJJOEZNTUZMMm01N1hOYlA1NloxckI1M3BWbVNmaDhwT0FkZ2IzSzE3V3BsdlZnbGtvTmcxQnEzaEQyUWRxMlkyVEtXNkFCOVZ3?oc=5",
-      "source": "VisitScotland",
-      "age": "18 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "Kenya turns to food, culture and events to boost tourist spending - the-star.co.ke",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb21vbWQxaTVIVHBUWkw4WjFTcFloTzh6X2JqdjRwN2V6UzEzYThGZVdnYTlXYk1jQWQybzA1YkgtREZ2bFFpVE5LaEZTdUt1R0NzbmYxYWthdVg1NzFBN0lKUjItWWJoR2tPcmtLaF9iYnFhNExDR2ZUbmVfcjZwQ0JiakxaQ0hpLTF0UDVjam14Z1VEX2E1TldVcV85NWxzLXJBa09YdkFjbHpCZzhYSw?oc=5",
-      "source": "Google News",
-      "age": "18 Sep",
+      "age": "yesterday",
       "dot": "info"
     }
   ],
   "weather": [
-    {
-      "title": "𝐓𝐡𝐞 𝐊𝐞𝐧𝐲𝐚 𝐌𝐚𝐫𝐢𝐭𝐢𝐦𝐞 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐭𝐲 (𝐊𝐌𝐀) 𝐡𝐚𝐬 𝐰𝐚𝐫𝐧𝐞𝐝 𝐭𝐡𝐚𝐭 𝐫𝐨𝐮𝐠𝐡 𝐬𝐞𝐚 𝐜𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬 𝐚𝐫𝐞 𝐯𝐞𝐫𝐲 𝐥𝐢𝐤𝐞𝐥𝐲 𝐭𝐨 𝐩𝐫𝐞𝐯𝐚𝐢𝐥 𝐚𝐥𝐨𝐧𝐠 𝐭𝐡𝐞 𝐜𝐨𝐚𝐬𝐭𝐚𝐥 𝐬𝐭𝐫𝐢𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝐚𝐧𝐝 𝐃𝐞𝐜𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟐𝟔. According to KMA, the - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMitAlBVV95cUxQWEdmcF9PSVY1bDRZSkZmb1VDS3JsNnI2dVQtbG1zaVAtWU5NVkdJYmkyOUJobUhvUE16SzFUeTBjZVMtUDBOSVVqNEJhekFWNVpPT2YtU3FFcHVKc0t2MlFsRFBhOWVmbk5PRm1pRUFLbHhLelhBOFcyeTYtWHFhemFmTVJ1c1BFSFB5b0hMcHpFR09TMmxGZnJBeFI5eEp0dUNnWHI4d2Q4MWpwSUU5YlQ3UEJlZ2p6ZkdmdWZ4MnRBOUZhaV9Renl3WTV6MWl3aDI1dnYxUFJmb0tNMXhKY3NvRXRxQmZER0NYOVdiMHNNd1lUOWdXZnpkWkRpSDZZeGtnY18yY01FdWV6dDlDUVJkSGIxbHEwZnRIX2pWNXdMb0t1WU1EUFh0SkNHanpWY0ZubWpiVkhwWGhnOWMtWkdIdVJHN3ZqdkMzaTJGLWIySTJFckdoWGdoSUhuUTdSU0xFUjhIemlpQ3R1Z2pqTUdnOHJQOU9SVWxsMnZhUm54U3RKRnlDSkVjUVA4Q1l2dDJGbU1SRUU4NHdJTVlqV2MySEdMRUkwenR2eWUyMF9MdHJiRkk4Q2pVeDZVb0pLS3BIakYwMWJXY2ZBWUd4dXJMYzhaaUM4VE1FaHFDbGtWYzBQZDJLaTJpUHBUMmVjNzUzNm4tM20wYkhDcUdOVERRTF9wRnhqaFI5U1lsT2pMZkJkS1dtZ2FZcTlQamc0WlZiNV9FNmw4aE5lS2w2aThLRUtxSVl6LXhsZG5JczdtbDdIeVZSVXpHNHFjRUl3MEx4bm1QaDFrRTBmcFNyUEpZM2JpbXo4b1hidVNfMDl5dmdvOHRSWC1QSWZSSl9kcWRpVVdYdXNuVmRyc3lHZmdibnU0RHFDR2NWY2JEMGpBUHJ1RUJsUGNGVC1weURsLS03dVZ5Zm94RVJBdG4yRWJOc3FXOVZaNURRamZHbGg2YkJGdzZWeVBLVUoxMHFOSHEwVEw1WDlONGo3LWVhR21fV0ZUMVlRaUUxSzFXdGoxWVBVc0FMeW1ZelBBLUxTOXMxOWZLbzlpSmJLamFNYS1idmR1cENJRFYteWxtdUFPR1pUQ1dIUXkwMU15SXkzS0t3dEJtNDJBYkUtbG5wNnpIajR2cF9pV1VzbWxwTWJKeVhWZDktVGZaaWsxLU5wbVItNlJoVjlfTHZtcXduaWV4RVlqUWotV3dWUWczbEJWdmhjaTk0SVJlRkl4bzFTOHBxaU1tcHVZU2NkRDZ4N1lsZ3dtRU1kbzl0MlY2SjVuZFFuRV9CaTFpczhUODNRWDhhM3hlZzItNk9WaEJjRHViZGNEWjhBckVMZ2hrVWpXOWsxU1g3NmNpZlVtRjh2REJ2OXBRTnhhcTl0SGlGeVk2REg3em4tS0VHeHVuWk5hT3g2TlMyNW93Y1l2ZlJHQ0Vlem95NnNkZnVIRGdMel9fYVNoX3ZjVkRjUVpLM2FIalZ1eWtCRXdJeGZaU0hSa3l5ckxIU2psSElFWlN3OXhGQWhzY29kaHJYTzI0NWY3Um14cWI0S1FwQjk0OWdERnoza0ZHZlJjMFBIX2ZYaXNtQTVmcjlWRkY1ODE0THdEdnd2?oc=5",
-      "source": "Google News",
-      "age": "3h ago",
-      "dot": "info"
-    },
     {
       "title": "It's almost the end of September. Where are all the hurricanes? - CBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFF4Q2VOMnNHVTUxNkFOWkh0T2xkbHJkblFrSU9pUmdCajVKTEZxRkM5YjZvdk00VWJlQm1uOF9NMEMzbUNUUTFhTWY4bWRCTE5oTUdFZmRFZVY0SmZHeEtwY1JWMEhmYVJWVXZ3TU1jVDJKczl5cWhzOFJDVWRwZEp6MUY?oc=5",
