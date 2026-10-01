@@ -1,25 +1,25 @@
 {
-  "generated": "2026-09-30T12:04:03.606861",
-  "date_label": "Wednesday 30 September 2026",
+  "generated": "2026-10-01T12:38:54.481740",
+  "date_label": "Thursday 01 October 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 51,
+    "total_stories": 58,
     "muthu_mentions": 0,
     "competitor_changes": 0,
-    "new_routes": 2,
-    "events": 3,
+    "new_routes": 4,
+    "events": 4,
     "weather_alerts": 1
   },
   "currency": [
     {
       "pair": "GBP / EUR",
-      "val": "1.167",
+      "val": "1.170",
       "delta": "unchanged",
       "dir": "flat"
     },
     {
       "pair": "GBP / USD",
-      "val": "1.325",
+      "val": "1.329",
       "delta": "unchanged",
       "dir": "flat"
     },
@@ -33,48 +33,34 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 1,
-      "bar": 12,
-      "articles": [
-        {
-          "title": "Connecting demand, creating growth - Tour operators in focus: TUI Airline launches Summer 2027 programme - TUI Group",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1FudXdQVzVyOG91ZHFkdlhkUlExcUZLQTBGTmlSZm1jNXNqN2pkRG0tSjkyZUZqbERnZ2lPM1BsNTBGVHVNdGNlSTI5ZVRTa3VpZEhIbU9Vc00tbTBQN3ZMRm5sWFZRWkR0aU9GNFh3OEJ0dTlwTjZRUG9vYjlIVWR5aG92V3NFNHlkWTh4U2VobFMzdmhDcFNCOWNXM2hXWEc0YWx3eDlFbVB5YzdEaVRQb1hreGVoai1ZZG45eGNDbm1GYXBGbDE2M01COHVrOTlNay13?oc=5",
-          "age": "24 Sep",
-          "_ts": 1790237828.0
-        }
-      ]
+      "articles_24h": 0,
+      "bar": 0,
+      "articles": []
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 3,
-      "bar": 36,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
         {
-          "title": "Jet2holidays discount codes for September – £100 off holidays - The Independent",
+          "title": "TUI discount codes for October 2026 – tested daily - The Independent",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9zZlZMZlZRUjZGbnlaek02M0Z5VW9zNm5YNXFrbnAzc0d3NUlIcXNETDd0b3BWb1JpaEVydUhFcURBeVV5cFNob2U5T0ZLRWk0Wlh6bV9TWGxSV01aQ2R1V3lPWFpyLTc1WTMzaW5yN291MkE?oc=5",
+          "age": "29 Sep",
+          "_ts": 1790682308.0
+        },
+        {
+          "title": "Jet2holidays discount codes for October – £100 off holidays - The Independent",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3k0aXFOQ002WVh3SWZiTF9tZmVuUURUNmFBNEh3eUlCMFY5QTZmMVp5V3pnWlhhUENwbWlxUkN1cklsaE8yLXM3UF9nX1R6MmZIYXJNb0lpaUozMmc5RllZMm9hQkFYeWJJNHBxZzZHdDlCLTM3aHAyQWhLUGUwZWlLaGtacDZLQ0E?oc=5",
           "age": "25 Sep",
           "_ts": 1790333300.0
-        },
-        {
-          "title": "TUI discount codes for September 2026 – tested daily - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9zZlZMZlZRUjZGbnlaek02M0Z5VW9zNm5YNXFrbnAzc0d3NUlIcXNETDd0b3BWb1JpaEVydUhFcURBeVV5cFNob2U5T0ZLRWk0Wlh6bV9TWGxSV01aQ2R1V3lPWFpyLTc1WTMzaW5yN291MkE?oc=5",
-          "age": "28 Sep",
-          "_ts": 1790581751.0
         }
       ]
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 1,
-      "bar": 12,
-      "articles": [
-        {
-          "title": "Uber Safari Kenya facing resistance from local tour guides - qz.com",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12T2p2U1BUX3JoV09kUy1pZ1NXMFpmVy1kR3ZkcTNzUDdiU25CdW9ybVpZQmtobUhBdGxma2o5cmtuUlpVTUJ2TmxveVlibnBnT0FENFRtY0JxYkxNOVg3bDh3U25JWjQ?oc=5",
-          "age": "yesterday",
-          "_ts": 1790609849.0
-        }
-      ]
+      "articles_24h": 0,
+      "bar": 0,
+      "articles": []
     },
     {
       "dest": "Scotland Highlands hotel",
@@ -82,7 +68,7 @@
       "bar": 24,
       "articles": [
         {
-          "title": "Best Traitors-inspired Scottish hotels for an autumn escape - standard.co.uk",
+          "title": "Best Traitors-inspired Scottish hotels for an autumn escape - London Evening Standard",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnlTNzFVY0hIeS1TSGllWWZleUFvRUhCMzRvZkxLUzRUd1Y3aVFKcVJtLW1BYW53U1hVWWFlZW9iTW8zZHhfLXN3RmJwbDBSVUNHdFJ4U0duVVBxblRiTTFqNklia3pNZ2F1UFVnQmxKZ2phX0ZqV1NReEVMZ1ZVOUN1SURUNElsX01CU2ExTDlCRDdaaFE?oc=5",
           "age": "25 Sep",
           "_ts": 1790339115.0
@@ -107,8 +93,8 @@
           "_ts": 1790319600.0
         },
         {
-          "title": "Canadians diverting their holiday travel plans from Cuba to other Caribbean destinations: Flight Centre - CP24",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbDZnanZHQUZDckFmUWpQOFdjcTJMeGhPSTFCSzgxbmlmQVhYaUt6VHJTcEdlQ2dQWVRHSzJMWkVEY3hMVkF6ZExtLUdlbENEeC1KNVVGZ0RGakdwVVY3VTREa2RHcmNreTZFVENENWdEY3Q3cVVPTlJvVldELWhDUzMzb2dHeFk0UE8xQTJXTHU0Sm85T2VRNFlvODVGclFBRTFVMXRmczRyR1VkSlRUaDdEd1RzWVI2SjRmMWJRbk5pbW5kdnY5ZTJ1Wm9KNEpQSm1lTGo2RlozUS1XTmY2VThVaw?oc=5",
+          "title": "Canadians diverting their holiday travel plans from Cuba to other Caribbean destinations: Flight Centre - CTV News",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbnh5NjdCc3BNY2xOS28xaXR2aGYzQlpKZjg1UFRCUDZfd2pidEpPM1h2RXJ6OXBpV1RXaWVoYXRqVlRqOGplU1lVeE5IczFNSGVLdUNDRkJxakFnb0FRUkY2ZUtMX3BCRWpoZVQ3cmdqVmVBU2poUUhrQU0tNEFyOEdKQlR5eVNYRDlRRnh6cU9OMTVOVURUd2JWVTFqRjBxZzhvaUdSZUpXX1p2dTFGQW00ak5ZRzQ1N0d5TDg1NDJVOFF5U0dObzdwMmdoV3JGall2QjcwZEljbVBHUno1MkpCVW1MS0M3VW10Smt3?oc=5",
           "age": "25 Sep",
           "_ts": 1790330556.0
         }
@@ -131,73 +117,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Sepang Motorsport Weekend Triggers Massive Spike in Malaysian Holiday Accommodation Demand",
-      "link": "https://www.travelandtourworld.com/news/article/ovxcst8ssoi0/",
+      "title": "Azerbaijan Turns Baku’s Formula 1 Spotlight Into Autumn Heritage and Luxury Travel",
+      "link": "https://www.travelandtourworld.com/news/article/f85va7yhfrh4/",
+      "source": "Travel & Tour World",
+      "age": "1m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Jakarta JICAF 2026 Draws Travellers With Live Art, Rare Collectibles and Ticket Deals in Indonesia",
+      "link": "https://www.travelandtourworld.com/news/article/fxhelwnwnj2x/",
       "source": "Travel & Tour World",
       "age": "2m ago",
       "dot": "info"
     },
     {
-      "title": "Beyond the Crowds Pierre Delivers South Dakota River Adventures for Young Travellers",
-      "link": "https://www.travelandtourworld.com/news/article/ty7snr2dm03z/",
+      "title": "Strawberry’s Case for Fixing the Data Before the Model",
+      "link": "https://skift.com/2026/10/01/skift-data-ai-summit-europe-preview-strawberry-kari-anna-fiskvik/",
+      "source": "Skift",
+      "age": "3m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Indonesia Aligns with France and More Welcoming Global Culinary Travellers as Heritage Tourism Expands",
+      "link": "https://www.travelandtourworld.com/news/article/rxmtrwvn2kye/",
+      "source": "Travel & Tour World",
+      "age": "4m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Kashmir’s Pahalgam Turns Into a Dream Holiday Escape with Traditional Wazwan Luxury Cottages and Mountain Adventures",
+      "link": "https://www.travelandtourworld.com/news/article/z7o14pmhd83b/",
       "source": "Travel & Tour World",
       "age": "5m ago",
       "dot": "info"
     },
     {
-      "title": "Buenos Aires Marathon Brings Global Runners Into a City Bursting With Spring Energy",
-      "link": "https://www.travelandtourworld.com/news/article/zxrcb32nzff8/",
+      "title": "World Spa and Wellness Convention Brings Global Spa and Wellness Leaders Together in London",
+      "link": "https://www.travelandtourworld.com/news/article/l5eh6tv820vf/",
       "source": "Travel & Tour World",
       "age": "5m ago",
       "dot": "info"
     },
     {
-      "title": "Shan-A-Punjab Welcomes Global Culinary Expert Chef Yogesh Kumar Rajput To Lead Kitchen Excellence",
-      "link": "https://www.travelandtourworld.com/news/article/wu4ujt5hvtji/",
-      "source": "Travel & Tour World",
-      "age": "8m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Miami Rises With Orlando and More Florida Cities in Fueling US Tourism With Over 63% Share of Brazilian Tourist Arrivals in 2026",
-      "link": "https://www.travelandtourworld.com/news/article/58wtp6hdl4sb/",
-      "source": "Travel & Tour World",
-      "age": "9m ago",
-      "dot": "info"
-    },
-    {
-      "title": "California Unites With Washington to Revolutionize Passenger Rail Departure Alerts",
-      "link": "https://www.travelandtourworld.com/news/article/0mxkpr6t8rhc/",
+      "title": "Colombia Unites with Ecuador and Others as Dubai FHS World 2026 in UAE Drives Major Investments and Reshapes Middle East Hospitality Industry",
+      "link": "https://www.travelandtourworld.com/news/article/lu5tcwnyvkcw/",
       "source": "Travel & Tour World",
       "age": "11m ago",
       "dot": "info"
     },
     {
-      "title": "Egypt Tourism Boom Unlocks 220,000 Jobs As Every Million Travellers Fuel Powerful Economic Growth",
-      "link": "https://www.travelandtourworld.com/news/article/ojd0u3whqobe/",
+      "title": "Peru and Colombia Expand Community Tourism With New Digital Verification and Nature-Based Travel",
+      "link": "https://www.travelandtourworld.com/news/article/yx20k7q45a86/",
       "source": "Travel & Tour World",
-      "age": "12m ago",
+      "age": "18m ago",
       "dot": "info"
     },
     {
-      "title": "Leeds Alongside York, Sheffield, Bradford, Manchester and More Reveal Growing Rail Security Challenges Across Yorkshire and Northern England",
-      "link": "https://www.travelandtourworld.com/news/article/p48k5u2qggtz/",
+      "title": "Turismo Andaluz Joins Visit Costa del Sol, Fairmont La Hacienda and More Companies Participating X: by micebook 2026 Andalucía for Four Days of Business and Destination Discovery",
+      "link": "https://www.travelandtourworld.com/news/article/a70gqonilboz/",
       "source": "Travel & Tour World",
-      "age": "14m ago",
+      "age": "19m ago",
       "dot": "info"
     },
     {
-      "title": "PATA and TTRA Formalise Partnership to Strengthen Tourism Research and Knowledge Exchange",
-      "link": "https://www.hospitalitynet.org/news/4134661/pata-and-ttra-formalise-partnership-to-strengthen-tourism-research-and-knowledge-exchange",
+      "title": "Mews launches Guest Messaging and Automations: GMs set the workflow, front desk staff get back to hosting",
+      "link": "https://www.hospitalitynet.org/news/4134685/mews-launches-guest-messaging-and-automations-gms-set-the-workflow-front-desk-staff-get-back-to-hosting",
       "source": "HospitalityNet",
-      "age": "24m ago",
-      "dot": "info"
-    },
-    {
-      "title": "WTTC Brings Together More Than 100 Global Speakers for the World's Most Influential Travel & Tourism Event: WTTC’s Global Summit",
-      "link": "https://www.hospitalitynet.org/news/4134660/wttc-brings-together-more-than-100-global-speakers-for-the-worlds-most-influential-travel-tourism-event-wttcs-global-summit",
-      "source": "HospitalityNet",
-      "age": "36m ago",
+      "age": "22m ago",
       "dot": "info"
     }
   ],
@@ -236,6 +222,13 @@
       "link": "https://www.iberostar.com/en/offers/",
       "dot": "info",
       "age": "today"
+    },
+    {
+      "title": "Chile strengthens its presence in Argentina after a record participation in FIT 2026 - Travel2Latam",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYmNHbktwaGh3SWFLZ2xTckg4MnJLZ0Fta0tpQ2J4TTNTTWJqbUt4ZkNIUzF5TkkzWlFMVlJlZktRLXFuN056RGZ3NVB0dDhxTlRFdjVtZlU3ZnVjYlh2SWlTWjREZW81YnJ1M3RDRXphaWZTVDRISFVGMXRzR2NnSFpGNXIxNlpWLWI5QVAza3o2aUlhLXU5UmxKdDUxd1RSejVmYWh5c3p3LTBnMktKdkxnMTBPNmI2R1BOUGMwcU1IX3RoWlNvSw?oc=5",
+      "source": "Lopesan",
+      "age": "16h ago",
+      "dot": "info"
     }
   ],
   "tourism": [
@@ -243,25 +236,39 @@
       "title": "August 2026 Tourism Figures Decline Year-on-Year - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJqSndqYTNNSDFHLUF6ZjRkVDFaU3pVRmV3OTc3QlhYTEFtRkhGWWpsWG9ZOFJCbVRJTll6NFczTGl4UWo0MjhxYUpLQ2VKYXZHYTZtN2FNNUdTR1BDSTlhWnBBcWlTRUdSMnk4bWZ0NHBVaHdhTUJkRm5rczRvelJlTEQ?oc=5",
       "source": "Google News",
-      "age": "37m ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "Cuba Loses 64% of Tourists as Arrivals Fall to Just 450,000 - Rus Tourism News",
+      "title": "What the World Cup taught us about hotel elasticity - HOTELS Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmN3U0VGczBubFB6b0xtcmZIdWtObXR6N3QxdGo5d095b2doSkVCWVc1ZnFtRWhxNXRxeU9zSERJRXM4LU9yLU1KMUJNWDVGbzh0SjkzODY0RDFoNlBSNmU2Y2p6cDNwMEU0bmNQQmtzTFJYVlpuN1Q5azZOSXV1eTNVQU9oQQ?oc=5",
+      "source": "Google News",
+      "age": "28 Sep",
+      "dot": "info"
+    },
+    {
+      "title": "Cuba Loses 64% of Tourists as Arrivals Fall to Just 450,000 - rustourismnews.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3VwWXFEZ3N6NEwxTG1hQ0FodllxX1FkYVJnU195VTZlZkpFcVpqYWVnV0xzUEhZamxYN0ZCWEExbE0yalZQRmpVX0JTZ2tJeVVIWWxPenozbmFSanJWYTZSOUVqeHBRdGJZclBJZEpDVndLRDFBMFdpRzlzcmJvU2NGVEs2a2czRDVfUTJiaFQ3RUZCb1hCSHZ0OGtUWWZSNGc?oc=5",
       "source": "Google News",
       "age": "27 Sep",
       "dot": "info"
-    },
-    {
-      "title": "Major airline announces 25 new routes for 2027 - 8 from Gatwick Airport - AOL.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjIzVzF3V1JnTHREUkhPNXFCYURYZjB5RTFWUGVqNmNFTGE0WHdfbWZTOFQzUjhSY09HMlYxMVJrRkt5bDkwS19vQVFvRktnRXFvbjc2WHc5TERtRzhCbWFlUEdaQ2hLNkIxMjU3aE9iLW5SazE0SXJJWk1wQVNzNDRTT2lrUQ?oc=5",
-      "source": "Google News",
-      "age": "25 Sep",
-      "dot": "info"
     }
   ],
   "airline": [
+    {
+      "title": "50 New Routes Launching In October 2026 - aviationweek.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakd6aFN1dXVFSk9UbVJMUEhibkVyejktbmRVcDdJWWVBODVidUg3RktNLTFzT19EakJaSVFLY1JTZTEtd2N3SXJyZlM2eUswXzg2cWJaMDFkUnFidkdSMVBoc0hOSlV4b1gxX01Fd05VXy05c3U5MDh5Zm9YX01RTWk1anIxN2RNRTBMY3o1eE5GV040VlM0?oc=5",
+      "source": "Google News",
+      "age": "3h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Air Canada Launches These New 9-Hour Nonstop Routes In 1 Month: See Map Now - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXhNNHhDZXpqamxwRFFkRHJ3MHN5YkxpeHRiMHdqeTRiYWozeUtmVURIamR2cUpaRzUxREh3YlFKb250SWhXdkVmQkI5WjFPMmZ5ZGlCUnplem1uRVRyOGJuNC1hMVBBYWpoLXduS0xYZkllTDdqSWpZUjFEeWRMZEYwQURITkE?oc=5",
+      "source": "Google News",
+      "age": "23h ago",
+      "dot": "info"
+    },
     {
       "title": "Air Canada Launches 31 Major New Nonstop International Routes: See Full List Now - Simple Flying",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12dXhWcm5pUGRkSXlUU2dzLVpnTlI4OWthSHJPU0o3Y3RZSEpOcGhVRzdnajFmUWlQRkZpQ3B0ajFwYUZma3dmV1JjQW5yS09wUVhSM3BmU0plS0kwMzRjWVhnZTZ3ZWVYcnkxZEJSalkwckhUV3NxMWZKc0VkZw?oc=5",
@@ -277,41 +284,49 @@
       "dot": "info"
     }
   ],
-  "operators": [],
+  "operators": [
+    {
+      "title": "Page not found - Aviation.Direct",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1d5bTVvOE1WQXZPWmViZXdjNjNyRV80eXNCd0dFTVZwRzI1Sm5ldi1QNVgxN1dPOUl0MHRveVh0TTRMcjd1TXpVby13bHZ4dnZBWlB5UGZKMDhoZ3NjVk5wZEhiU3EteHJhbF9EZHR4MDVCaVJFR3RnT1RfN3VTY1A0aTRZSjJYejdzSzlDaDdFNjlmR2V3WDBnbi1GZmg3TUd6MTgtR2J2ckM5VjdxV2V2XzdjcV9vM25ldW5B?oc=5",
+      "source": "TUI",
+      "age": "11h ago",
+      "dot": "info"
+    },
+    {
+      "title": "The latest Expedia discount codes to save you 20% on hotel bookings - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDZ5T2NRYmhQc2RDcnVwNktNaWxJdlFmVVJKNW9zQ1VGTjYxdjRIcWJnWVVEQ2k1SlhOTS1rRENQbWhydC00cEQ1czhoV2I4eEs5ZUxndkNiTUYtTFNPSUJnS2V1dHpNVFF3ZUlHMmx0Z3liNkk1MjYyNzMwb2VaZ0lUcFZMLTlIZ1I5NA?oc=5",
+      "source": "OTA",
+      "age": "24 Sep",
+      "dot": "info"
+    }
+  ],
   "macro": [
     {
-      "title": "Demand for European travel increased this summer, despite pricing pressure and geopolitical disruption - travolution.com",
+      "title": "Demand for European travel increased this summer, despite pricing pressure and geopolitical disruption - Travolution",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2VPWDZ4WkJHbmxtdFotdFpQbW5sUTlJbTJEZHNxRjhUcW1IRFlucHJKLWt4RVB2Y3NJMWtBZXlZUHhOQWl0VzdTRzd3cXZHYjQ4N3dydzBzSVh2ZVRqdEJjWEQyV0dGbzU4VGdvUnhhOEowX2xENzRUT0pJSXhnUF84a0NuVFZLZU9maHpzYUQtQzh2aW5TOHk1SmgzdUtHaEVzUEwyVFBQU1JjMWxwVWFMMmNsb3BpMmRCUm5kRWc1YkpMMFNKRUtqalU3ZVB3ZjA2VHBHb1JyX25meDJRV1J6aFE?oc=5",
       "source": "Google News",
-      "age": "21h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "China's Golden Week travel surge masks cautious consumer spending - Reuters",
+      "title": "China's Golden Week travel surge masks cautious consumer spending - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdm9HZjg0WXpHcEN4R21wd3ZZOFVJNmRMTVRNWUhRQl96TEVVWG1HQnB5UTZvU3JyaWswRUtaRlh5Q2dQMzJqY1U2UFdCRjJRcEY2eDVXenZsU1RWX3R3T1ZLSmlSeXREemhST0FCMEdsbnE3ZDE5MjlwRW9QWTl1VVFmWG5tQ0YyREZ4d2RuZ25PYmNVV2NLRW1YODA5R3FNMHFDa29udTEzTHhTQndvZ2lDeFBvdEdYWEVJ?oc=5",
       "source": "ONS",
-      "age": "yesterday",
+      "age": "29 Sep",
       "dot": "info"
     },
     {
-      "title": "European Travel Demand Remained Resilient in Summer 2026 - traveldailynews.com",
+      "title": "European Travel Demand Remained Resilient in Summer 2026 - Travel Daily News International",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFlSWjM1cHBIcjhZQXh0Z0kyTUhYM081ZWxWY2t2bkRZdG1GanJYZlBxNHhxNXc4WjE1Mi05QWtQc2dnQ0dBX1YwRW02dDM0N1VlWDdUcmtxbERfVkd0b0ZQVnRhUXBZc2huNGFJSVBLX3ZFTVRtWVY1MThaYUZwNnI4MW5wdDlHS2pqMW1B?oc=5",
       "source": "Google News",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "Brits are still flocking to Ibiza in ever greater numbers – but spending less and less - Olive Press News Spain",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHdmakY3eTc4YnBuck9SWGdvVUtNWDRJUUtZTE91c2xIN1dPdlBjOWVZWDJvcVp0SUlRS1RORWNIdzJyOWhRZ2hkOEVHem9aSGlLWTZBTVlVaFlrUDh6QW54S0RjUjVrX1hOekIweTVlVU55U3cxVW1mbzBoWHRPUGN0VkItWTVENHpOYTRGSlVGR1huSW1VZlRYR2haajA2T2plaUJRZmo?oc=5",
-      "source": "Google News",
-      "age": "yesterday",
+      "age": "29 Sep",
       "dot": "info"
     },
     {
       "title": "GfK: Consumer Confidence Increased Again in September - Insight DIY",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLW1LODNNNmNVR3NDX2RiMHlIZFJBNnRFNTFMcnJ5d2FWRmF0ZHZ0b3J6bkR4UW11a1NKSnZPTWZBSk5UWHlXM3JfcWVGN0g1ZGhzMzU1b2JzRUFCODBYSTBtck95NWx2aTh6Y2FGUjNIVnNnYjNmam9xVkV1U2dPTVZKeUxRSXNqS2ZkOWNMenRzaHZwd1R3WTBLMkc?oc=5",
       "source": "GfK",
-      "age": "yesterday",
+      "age": "28 Sep",
       "dot": "info"
     },
     {
@@ -327,9 +342,23 @@
       "source": "GfK",
       "age": "25 Sep",
       "dot": "info"
+    },
+    {
+      "title": "UK Consumer Confidence Hits More Than 2-Year High - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlVjY0tmWkp6QkwwMGFpSE8xcGpYWGRpUXZNVTdGcXJ2WkVUSHA0b3N0ZFBTdG9GU0t4UWZkdEdILVQ5QS1qYkJWRGNaVDhVSVQ1WThCTmhjSzN5aFEyT3VTOTd6ejV3QXdDQU1hTWYzZktQbUNPc1VwTjN1eGdhelM3ZmFMV2Vpek9aMmpZa2FOVTlyMjNneVdBSk5nQjR6R0E?oc=5",
+      "source": "GfK",
+      "age": "24 Sep",
+      "dot": "info"
     }
   ],
   "events": [
+    {
+      "title": "Thai economy stable in August, says central bank - The Peninsula Qatar",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWhVSmJjVWlTNF91X0Fha1V2YzFBbzhfNXN3SmVUZWpDc1M2cFh0S3lyXzJwcnFZNTNpOS03aElmNUkyeDkzdkEyQWNnb0RsN1R2akZYa05fWnhtVXF1cFlnaXRCTmNuLUh6ZzZqa1VtbHJfRENsaDVLQThnN0Q5dnRfR0hob2VKZnZlSF84UG9FUm13RHNscWpTczQ?oc=5",
+      "source": "Google News",
+      "age": "6h ago",
+      "dot": "info"
+    },
     {
       "title": "Daudi Matsiko: Black British Folk Takeover - Ham & High",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnJIT3puM00zMnBUTUN4WUZGekVvblhubmRULW1Zd1lnM1FMbXJST200Q0ZRbDdvV0x4TE05MWlwYjg5Nzc3Q0RLcG0wSE1RS1dnT1pwTzFMdFd0QmFJb0pvc2VqMS1wY2NnODFnM2swdjQxamFPYlIzOHNkajlJdnpteld6MHpIMnc0dm1BUjFpR3BrN3UxV1NHNkpZUlVveDdHVlF6eUxBbzl6cDdGYndUX2E2V0k?oc=5",
@@ -359,14 +388,15 @@
       "source": "Google News",
       "age": "28 Sep",
       "dot": "info"
-    },
-    {
-      "title": "Maps: Tracking Post-Tropical Cyclone Gonzalo - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGNKdlhXdklDYWRvYUhxM0tTYVpSWC1xTG83U0pJNFljQmJFREpLR3FlMGNpUnB4T1ppRF9nNUdpdEh5OHVGNUc3V1FZS1NMOVh4MmxyWnhVV3VLS0RjRHIyLWJNMTVZbzhvSlBySUtYOVRaWXRvbXg1cGpxaVdDTXFBUWVjM1d5SW16aw?oc=5",
-      "source": "NHC",
-      "age": "27 Sep",
-      "dot": "info"
     }
   ],
-  "reputation": []
+  "reputation": [
+    {
+      "title": "Pine Cliffs Resort, Algarve – Hotel Review - CN Traveller",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FNFl4X29nVFYzWHVBanpDOVcwN3RkUHNRak12RUl0dVpnTVNvMklqOG1pX0NyOS1JTDc0M0xFZ2k5Z0htNTVjeFJEZVNLRUV2X01jLUFTdlB5WWJmY0NGSExnQ0xGQVhPTkRpazNRZUY0b1ZPelR1XzY1WQ?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
+      "dot": "info"
+    }
+  ]
 }
