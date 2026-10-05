@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-03T11:16:16.066111",
-  "date_label": "Saturday 03 October 2026",
+  "generated": "2026-10-05T13:47:35.217302",
+  "date_label": "Monday 05 October 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 62,
+    "total_stories": 57,
     "muthu_mentions": 0,
     "competitor_changes": 0,
     "new_routes": 3,
-    "events": 2,
-    "weather_alerts": 1
+    "events": 0,
+    "weather_alerts": 0
   },
   "currency": [
     {
@@ -39,8 +39,8 @@
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 3,
-      "bar": 36,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
         {
           "title": "TUI discount codes for October 2026 – tested daily - The Independent",
@@ -51,8 +51,8 @@
         {
           "title": "Jet2holidays discount codes for October – £100 off holidays - The Independent",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3k0aXFOQ002WVh3SWZiTF9tZmVuUURUNmFBNEh3eUlCMFY5QTZmMVp5V3pnWlhhUENwbWlxUkN1cklsaE8yLXM3UF9nX1R6MmZIYXJNb0lpaUozMmc5RllZMm9hQkFYeWJJNHBxZzZHdDlCLTM3aHAyQWhLUGUwZWlLaGtacDZLQ0E?oc=5",
-          "age": "1 Oct",
-          "_ts": 1790848380.0
+          "age": "2 Oct",
+          "_ts": 1790929309.0
         }
       ]
     },
@@ -64,19 +64,19 @@
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 5,
-      "bar": 60,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
         {
           "title": "‘You could have an amazing time for £30,000’: UK castles cash in on Traitors-style events - The Guardian",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2RLQVFYZEI2NjV5aUZRMlpGX0Ewc04zZ0VIQXlzVnV3R1V2Tjd1QkJvMTcySVBPVU1aQlVrRk9DREFqUUkzUW8zQUVwUlhsNlktTkJtUThPdnB5YjZQVS11Q21faWFKcWFfam9JWm5DN29mYTBUTHI3eURQSXk5dTE5VzBQTlJWRUNpUnlua2E1UGR6RWtNTnVtTno?oc=5",
-          "age": "17h ago",
+          "age": "2 Oct",
           "_ts": 1790963280.0
         },
         {
           "title": "The new hotels worth rethinking your travel plans for - Vogue Adria",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwUk03bjdKVHZWYlB4cm1RQ1RXOVF2NzNOVFo2bTlYYmdjeXctNVJ0LUV1Zi15bzd6ODU0MWlERnphX0U5eXloVnNwRi03TzVNcTVoZWRDREdtMzg?oc=5",
-          "age": "18h ago",
+          "age": "2 Oct",
           "_ts": 1790960446.0
         }
       ]
@@ -97,73 +97,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Spain Features Alongside France, Joining Europe’s New Spending Map as Travel Spending Reveals New Habits",
-      "link": "https://www.travelandtourworld.com/news/article/tcif6bbyelm8/",
-      "source": "Travel & Tour World",
-      "age": "1m ago",
-      "dot": "info"
-    },
-    {
-      "title": "California Aligns With Oregon and More to Boost Green Grid Travel Corridors",
-      "link": "https://www.travelandtourworld.com/news/article/6wtaz97otusr/",
-      "source": "Travel & Tour World",
+      "title": "Choice Hotels International Opens 600th Extended Stay Property, Reinforcing Its Segment Leadership",
+      "link": "https://www.hospitalitynet.org/news/4134734/choice-hotels-international-opens-600th-extended-stay-property-reinforcing-its-segment-leadership",
+      "source": "HospitalityNet",
       "age": "12m ago",
       "dot": "info"
     },
     {
-      "title": "Philadelphia Steps Up With Houston and Others as US Cities Offer Retirees Better Travel and Healthcare Access",
-      "link": "https://www.travelandtourworld.com/news/article/9hd4zc0ijli4/",
-      "source": "Travel & Tour World",
-      "age": "14m ago",
-      "dot": "info"
-    },
-    {
-      "title": "UK Aligns With US And More Facing Soaring Premium Travel Rates Across Global Business Corridors",
-      "link": "https://www.travelandtourworld.com/news/article/wy3wo67g27m4/",
-      "source": "Travel & Tour World",
+      "title": "Sleep is a host's right too.",
+      "link": "https://www.hospitalitynet.org/opinion/4134733/sleep-is-a-hosts-right-too",
+      "source": "HospitalityNet",
       "age": "17m ago",
       "dot": "info"
     },
     {
-      "title": "Canada Follows Australia and Others to Update Brazil Travel Advisory Ahead of October Election",
-      "link": "https://www.travelandtourworld.com/news/article/inbtoda8c0rj/",
-      "source": "Travel & Tour World",
-      "age": "22m ago",
+      "title": "The Inventory Illusion - Why 350,000 Race Fans Left Madrid Hotel Rooms Empty",
+      "link": "https://www.hospitalitynet.org/opinion/4134732/the-inventory-illusion-why-350000-race-fans-left-madrid-hotel-rooms-empty",
+      "source": "HospitalityNet",
+      "age": "30m ago",
       "dot": "info"
     },
     {
-      "title": "Ireland Expands Connemara Tourism Links With Estonia as Galway Opens New European Cultural Gateway",
-      "link": "https://www.travelandtourworld.com/news/article/gsxeaaze0v8n/",
+      "title": "Canada and New England Cruise Tourism Expands as Holland America Unveils Major 2028 Montréal Programme",
+      "link": "https://www.travelandtourworld.com/news/article/ls8dv7vrbas0/",
       "source": "Travel & Tour World",
-      "age": "24m ago",
+      "age": "31m ago",
       "dot": "info"
     },
     {
-      "title": "Vilnius Airport Faces Sudden Closure in Lithuania as Drone Alert Sends Flight Schedules Into Disarray",
-      "link": "https://www.travelandtourworld.com/news/article/6oty158i9mc1/",
-      "source": "Travel & Tour World",
-      "age": "25m ago",
-      "dot": "info"
-    },
-    {
-      "title": "New York Aligns With New Jersey To Boost London Girls’ Flag Football Travel Ahead Of Olympic Debut",
-      "link": "https://www.travelandtourworld.com/news/article/juco7g8dy3w5/",
-      "source": "Travel & Tour World",
+      "title": "Not Done Weekly - Destination AI Summit Recap!",
+      "link": "https://www.hospitalitynet.org/opinion/4134731/not-done-weekly-destination-ai-summit-recap",
+      "source": "HospitalityNet",
       "age": "32m ago",
       "dot": "info"
     },
     {
-      "title": "India Now Has a ‘Digital Tourism Stack.’ Can it Fix a Fragmented Market?",
-      "link": "https://skift.com/2026/10/03/india-now-has-a-digital-tourism-stack-can-it-fix-a-fragmented-market/",
-      "source": "Skift",
-      "age": "5h ago",
+      "title": "Is Grey the New White in Hotel Towels?",
+      "link": "https://www.hospitalitynet.org/opinion/4134730/is-grey-the-new-white-in-hotel-towels",
+      "source": "HospitalityNet",
+      "age": "34m ago",
       "dot": "info"
     },
     {
-      "title": "Hopper’s Co-Founder and B2B Boss Left The Company",
-      "link": "https://skift.com/2026/10/02/hoppers-co-founder-and-b2b-boss-left-the-company/",
-      "source": "Skift",
-      "age": "13h ago",
+      "title": "HFTP Announces 2026 Paragon Award Recipient – Raymond Martz",
+      "link": "https://www.hospitalitynet.org/news/4134709/hftp-announces-2026-paragon-award-recipient-raymond-martz",
+      "source": "HospitalityNet",
+      "age": "41m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Finland Beats Sweden and Other Leading Countries as Helsinki Sets the Pace for Sustainable Tourism in 2026",
+      "link": "https://www.travelandtourworld.com/news/article/a3fbvnqsjgon/",
+      "source": "Travel & Tour World",
+      "age": "49m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Zimbabwe Unites Malawi and More as Zambia Rail Revival Strengthens Regional Travel and Tourism Access",
+      "link": "https://www.travelandtourworld.com/news/article/tdfyuxf02zz8/",
+      "source": "Travel & Tour World",
+      "age": "50m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Air Canada Vacations Targets Bahamas Winter Travel With Up to 13,000 Aeroplan Points for Nassau and Great Exuma",
+      "link": "https://www.travelandtourworld.com/news/article/l1k9wiii1l2n/",
+      "source": "Travel & Tour World",
+      "age": "52m ago",
       "dot": "info"
     }
   ],
@@ -207,7 +207,7 @@
       "title": "H10 Hotels reopens the Playa Meloneras in southern Gran Canaria after a three-year renovation and elevates it to the luxury brand Horizons Collection - maspalomas24h.uk",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTNKZ3NjTWVsVW03UktYWS1VQ2hsVmF2V3lGSVFGSFhoTVlzREstaVpUekhSNDYyMlh4QjlCUl9QVFJuaXY0QWgyVkF4UmVIdGJCZ1VOTVRMNVFISXFIWlNMb1ByX1FFZFhPUmJwdVh6TzU0dmhjRXYzaG84cXQ2empBVFA3MWFpSHFaVE5sWXM3dHhEUC1kck5xbWRwTlMtdktCNmt4T0Z5bWE3VkdHRXJTUQ?oc=5",
       "source": "H10",
-      "age": "yesterday",
+      "age": "5h ago",
       "dot": "info"
     },
     {
@@ -227,17 +227,31 @@
   ],
   "tourism": [
     {
-      "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZE55eDRGUF9sdGtWcnF0MkNGU19ZYkpkQWN1U0dHakxncEpSQlpOTkFHMjYzQmk2MVdLZkZLeWtNRU4wb1ltX0w5bW4xdS11eVIwaVpvTzlUTUFSdUJPdDllYW1DaEdjbFJLaWozWUFoczg3Qm1Od2NMYUxOZnVrajBaWUljSm5PX2Zpb3d6VUNGRnRyX0pqQ0dqYWxJdGV1cmJtdGxJU1VleXRub2x1Rl9RY1QwTEZNXzlBUnR1TjFvaFltTHdtX3pHT3lTV3NNbHVDcnN5ZFNjY3lSMmdYLUplRDdONWE1Q2d4bA?oc=5",
-      "source": "Google News",
-      "age": "yesterday",
+      "title": "Portugal archipelago feels the impact of Ryanair's departure - The Portugal News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU05pR2NyYUxVVkZteGNjTjZFczdDNnBaSmpsYmpwV1k5MW1saHBYYnlwc1Ntb2ZYYks1ZjZJdTlIQ1g1anNwX0c5RHp0cmFHV3VtSUh6dGsyUUQ5T05ocHlCLW9CcllpYkxkVkNJbmp4RU5Zd3p4TWZBaGJwSWUydjBxMTNfRkdqckgySjlxa3JVNENLcmx4bFZ6MlVHeFRJaWg4c25aZ1NGZlluMzRmMEowbTdkZw?oc=5",
+      "source": "ISTAC",
+      "age": "6h ago",
       "dot": "info"
     },
     {
-      "title": "Nepal Sees 12.1% Increase in Foreign Tourist Arrivals in September 2026, Driven by Asian Market - Ratopati",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFZKRXFWLWtVNDRkZUowb0lyaXFDbWtwOVZzaFB4STd1R2FvQzJXNEd5RFd1M0VKRExiNEJuQmpTVm4tdzVwNk56bjhRNFJ0QVlGc2tyRmZ3VmRtSk1WVGFXVW9EMTlkWHVoOGVfVE9wVjh4Vk9ENnBiaEExenFIVVprOW5NSmdncnR2UU5sMzhpX0VmemZMUE5B?oc=5",
+      "title": "Kenya’s tourism momentum presents a boon for aviation - Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZGxfQ0RXNERZSVlreWFMRVFrOVhya0Y2bDB3Q083d3BscmdmT2ZhX2drTFJUNWNJc2tjME9nMzAwZVdFSzRXdFllQ0FmWmxGZEN0dUEzal9FTnBKWENZMVdzUlJYS2ZzbXpqRnRRdVZoZUluVnNTNVpqbUZjUjR5c0VmQ1RnSHMwcVloZS1EM1NPYkQtY3lYWUU4ckZqSFdEdk9aS2xGYzZ6Z3lYNGR2ZGxuSHlYU3RCUmRoanA5bjVhM21uTG5n?oc=5",
+      "source": "KTB",
+      "age": "7h ago",
+      "dot": "info"
+    },
+    {
+      "title": "April tourism numbers fall - FBC News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByeG9tMHdRYmNMRVBwOTRDVlJTYTRyaHBhZGhtT3g2bm9FTV93bWROS1pWcjRBM181UkJ0Y25LMjQxNFBqZ3dnYTBxaU9SdFBRS05DNXRBUHFqdGVHeDREbDk3cGdwY1BJUWtJ?oc=5",
       "source": "Google News",
-      "age": "1 Oct",
+      "age": "3 Oct",
+      "dot": "info"
+    },
+    {
+      "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZE55eDRGUF9sdGtWcnF0MkNGU19ZYkpkQWN1U0dHakxncEpSQlpOTkFHMjYzQmk2MVdLZkZLeWtNRU4wb1ltX0w5bW4xdS11eVIwaVpvTzlUTUFSdUJPdDllYW1DaEdjbFJLaWozWUFoczg3Qm1Od2NMYUxOZnVrajBaWUljSm5PX2Zpb3d6VUNGRnRyX0pqQ0dqYWxJdGV1cmJtdGxJU1VleXRub2x1Rl9RY1QwTEZNXzlBUnR1TjFvaFltTHdtX3pHT3lTV3NNbHVDcnN5ZFNjY3lSMmdYLUplRDdONWE1Q2d4bA?oc=5",
+      "source": "Google News",
+      "age": "2 Oct",
       "dot": "info"
     },
     {
@@ -248,16 +262,9 @@
       "dot": "info"
     },
     {
-      "title": "August 2026 Tourism Figures Decline Year-on-Year - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXJqSndqYTNNSDFHLUF6ZjRkVDFaU3pVRmV3OTc3QlhYTEFtRkhGWWpsWG9ZOFJCbVRJTll6NFczTGl4UWo0MjhxYUpLQ2VKYXZHYTZtN2FNNUdTR1BDSTlhWnBBcWlTRUdSMnk4bWZ0NHBVaHdhTUJkRm5rczRvelJlTEQ?oc=5",
+      "title": "Cuba tourism collapses 62% as fuel shortages and grid failures shut hotels - Travel Daily Media",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjJydlcxX1NQU0RESTlSQWo2UlJITkVMRlZadGF0ZW5hU2JJeVJiY0tobkhjaERLb2JOb3g4cVprdl9HQ1pzVkRFcmhFTnpXTl9mc21McnozU2M0TEpaeEZpclhvaHVydV8xVWZWVVZZOHVHRENRdlhoZGRuYmNoeDRhazNVbXhhcGVtZW5kMjlkRXF2dW5FNEVITE5wSGtOd0xUdk1Zek10YUE?oc=5",
       "source": "Google News",
-      "age": "30 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "Kanaren develops new tourism funding plan through 2028 - Teneriffa News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGt1cUV3M3pHenlhZlZBR0lRTnJEeklaZ0Y0a3YzRzVUZDQ5QTJvSzl0WFo5cDZ3WmY1V1VpUFJUN3VBRmNXbXRscDdVaXVjWEdOelJaZGZSVS1UbzE0eHhoWGNwWWtLOU12QnFQZGJyUk95bU8wSnZUZl85b1NEd2NpWmFVMW9udmNUczdpQzBrUWpkMzNQV0p5Z01pS0szbGxuTy1qY2R3d1VTU0xiX1pEUUdpa003b0ozLUIyLWt3a0lIVDdtVQ?oc=5",
-      "source": "ISTAC",
       "age": "28 Sep",
       "dot": "info"
     }
@@ -267,7 +274,7 @@
       "title": "Air Canada Launches Nonstop Flights To 7 New Destinations In 2026: See Full List Now - Simple Flying",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEJoQ2ZWdElkSloyWjVELUYtM19HanJIOXQ5LVk5Yl9vOVZMV05qNUE1UVZfV1VzeFZydzBreDR5MTRkaGcwLXFFUWxBR2l5RUpJVVFFMS1FcW51TjhsWWxRMXc3dzFPYkE3aUh5WWk0UTExdnQ2TDZsT2ZLYmp1cEZsaFhkUHhW?oc=5",
       "source": "Google News",
-      "age": "18h ago",
+      "age": "2 Oct",
       "dot": "info"
     },
     {
@@ -287,17 +294,17 @@
   ],
   "operators": [
     {
-      "title": "Page not found - aviation.direct",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1d5bTVvOE1WQXZPWmViZXdjNjNyRV80eXNCd0dFTVZwRzI1Sm5ldi1QNVgxN1dPOUl0MHRveVh0TTRMcjd1TXpVby13bHZ4dnZBWlB5UGZKMDhoZ3NjVk5wZEhiU3EteHJhbF9EZHR4MDVCaVJFR3RnT1RfN3VTY1A0aTRZSjJYejdzSzlDaDdFNjlmR2V3WDBnbi1GZmg3TUd6MTgtR2J2ckM5VjdxV2V2XzdjcV9vM25ldW5B?oc=5",
-      "source": "TUI",
+      "title": "The latest Expedia discount codes to save you 20% on hotel bookings - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDZ5T2NRYmhQc2RDcnVwNktNaWxJdlFmVVJKNW9zQ1VGTjYxdjRIcWJnWVVEQ2k1SlhOTS1rRENQbWhydC00cEQ1czhoV2I4eEs5ZUxndkNiTUYtTFNPSUJnS2V1dHpNVFF3ZUlHMmx0Z3liNkk1MjYyNzMwb2VaZ0lUcFZMLTlIZ1I5NA?oc=5",
+      "source": "OTA",
       "age": "1 Oct",
       "dot": "info"
     },
     {
-      "title": "The latest Expedia discount codes to save you 20% on hotel bookings - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDZ5T2NRYmhQc2RDcnVwNktNaWxJdlFmVVJKNW9zQ1VGTjYxdjRIcWJnWVVEQ2k1SlhOTS1rRENQbWhydC00cEQ1czhoV2I4eEs5ZUxndkNiTUYtTFNPSUJnS2V1dHpNVFF3ZUlHMmx0Z3liNkk1MjYyNzMwb2VaZ0lUcFZMLTlIZ1I5NA?oc=5",
-      "source": "OTA",
-      "age": "29 Sep",
+      "title": "Page not found - Aviation.Direct",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1d5bTVvOE1WQXZPWmViZXdjNjNyRV80eXNCd0dFTVZwRzI1Sm5ldi1QNVgxN1dPOUl0MHRveVh0TTRMcjd1TXpVby13bHZ4dnZBWlB5UGZKMDhoZ3NjVk5wZEhiU3EteHJhbF9EZHR4MDVCaVJFR3RnT1RfN3VTY1A0aTRZSjJYejdzSzlDaDdFNjlmR2V3WDBnbi1GZmg3TUd6MTgtR2J2ckM5VjdxV2V2XzdjcV9vM25ldW5B?oc=5",
+      "source": "TUI",
+      "age": "1 Oct",
       "dot": "info"
     }
   ],
@@ -306,7 +313,14 @@
       "title": "British tourists boost Spain to break August visitor record but they spent less - Olive Press News Spain",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFZ0SHNJa1hKdUlfV2FQOHcwLXdFaEU1YUN5c3lTbl84WDRjOWIxaDh4cFFzM09sZmJ4NVYySVQ0M3YzZENkdXRSSVloMUpBRm9qTHBROHdzNFlTSmEzLXpDNzl4NUppS2tYTnZaZ2R5NTFrbG1HS3RzRFZhTFdzaUNkTWpSV1V5VUd4Y3REa1MwZnE4R0hmMnViMm5pdHpqSk9pdWRDVzdTOFpZMkM5ZU1YVVNJRGthcFI4azRkSkFRZ3Q0cDdCZXNTVQ?oc=5",
       "source": "Google News",
-      "age": "yesterday",
+      "age": "2 Oct",
+      "dot": "info"
+    },
+    {
+      "title": "Homeowners face £5k mortgage bill shock this year as borrowing costs rocket - The Sun",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUtfaTZUd2VMdDBGSHpQM1NDYndfTXNIWWRKMWpIZllnV3czbXVnMlQ3RGREazdoeWVfS3I1Qy1yTGlSQ1ZCWUktNmplUEZLUlVzOUZUaUFCUXFEck9jYUFKU19GaGtfUmhnblJYSjJNdTNzZ3ZaQlI5ajFvdUFzN25OMDdCX1RwMXc?oc=5",
+      "source": "Google News",
+      "age": "1 Oct",
       "dot": "info"
     },
     {
@@ -331,13 +345,6 @@
       "dot": "info"
     },
     {
-      "title": "China's Golden Week travel surge masks cautious consumer spending - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdm9HZjg0WXpHcEN4R21wd3ZZOFVJNmRMTVRNWUhRQl96TEVVWG1HQnB5UTZvU3JyaWswRUtaRlh5Q2dQMzJqY1U2UFdCRjJRcEY2eDVXenZsU1RWX3R3T1ZLSmlSeXREemhST0FCMEdsbnE3ZDE5MjlwRW9QWTl1VVFmWG5tQ0YyREZ4d2RuZ25PYmNVV2NLRW1YODA5R3FNMHFDa29udTEzTHhTQndvZ2lDeFBvdEdYWEVJ?oc=5",
-      "source": "ONS",
-      "age": "29 Sep",
-      "dot": "info"
-    },
-    {
       "title": "European Travel Demand Remained Resilient in Summer 2026 - Travel Daily News International",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFlSWjM1cHBIcjhZQXh0Z0kyTUhYM081ZWxWY2t2bkRZdG1GanJYZlBxNHhxNXc4WjE1Mi05QWtQc2dnQ0dBX1YwRW02dDM0N1VlWDdUcmtxbERfVkd0b0ZQVnRhUXBZc2huNGFJSVBLX3ZFTVRtWVY1MThaYUZwNnI4MW5wdDlHS2pqMW1B?oc=5",
       "source": "Google News",
@@ -352,35 +359,12 @@
       "dot": "info"
     }
   ],
-  "events": [
-    {
-      "title": "Daudi Matsiko: Black British Folk Takeover - Ham & High",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnJIT3puM00zMnBUTUN4WUZGekVvblhubmRULW1Zd1lnM1FMbXJST200Q0ZRbDdvV0x4TE05MWlwYjg5Nzc3Q0RLcG0wSE1RS1dnT1pwTzFMdFd0QmFJb0pvc2VqMS1wY2NnODFnM2swdjQxamFPYlIzOHNkajlJdnpteld6MHpIMnc0dm1BUjFpR3BrN3UxV1NHNkpZUlVveDdHVlF6eUxBbzl6cDdGYndUX2E2V0k?oc=5",
-      "source": "Google News",
-      "age": "27 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "Charlotte de Witte in Belgrade: regular tickets sold out for open-air techno show beneath Ada Bridge - KarloBag.eu",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1BsZzBUXzNVd0xZb1U4Y1F4UEV2NHVrV2ExT1NEbTZOTHF1X01XUDhhbC1hdENPd1BuLTBfWEVhWkRnc3RDT1hjME9TMEJjam1NbXNZLV9rN0hkLWFKR2lRXzJfYW9WSFB6V2dGOWxNaWxVODZrcHdJYmVUTkFXTmlyNjU1VU1zNlROcGg2VjFJVkhUTUt2OS1hdGZGd2ZFUEtITnl5WjdYb01PLW5uZ0V6UVd2THM?oc=5",
-      "source": "Google News",
-      "age": "26 Sep",
-      "dot": "info"
-    }
-  ],
-  "weather": [
-    {
-      "title": "Storms, heavy rain and hail forecast as weather warnings issued - The Portugal News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFFodDhVZXlDQWc2a2NuRHI5UlpxUXFheXdRNGlMUE8yaHdaUmcyeTNaNEMtZHhVcjVCTzFYSC1BdS1ORjJPV3FMSVk1aV9hdjVDQl92V2RxODFtNXdLcUk0WkRzS1dxcHdWOFA2X1h1d3BIM3pnVGs5M05MV1dINnh6c2lQNHBFOGJUNElkajIxQlRJbi10M2hVaDN0Z0FXLWNBMDJHZFNYSkhySmtsSmNZeklxRDRnSEE?oc=5",
-      "source": "Google News",
-      "age": "28 Sep",
-      "dot": "info"
-    }
-  ],
+  "events": [],
+  "weather": [],
   "reputation": [
     {
-      "title": "This family-friendly Algarve resort allows you to customise your holiday - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXhBSGdGMDdCYTkwZjBNQ1Z6MlllVnNSLTVBXzZMZk8tMjBISUxBYkFBbkNQNnZUTnZ3OFdmNjh3dFFLeG5hb2p0cVhSZi1fb2pjR2wzWDQ3VmJOSjU5a0NoRGNLbFFYckVOZU5ZWHNLR0JnODducDh3QllrTW9QcWRTT3FybjgzbV9iS3lHc1Z4U1JEM1h4WC1hUkI1M1FLNW45dVFfRVBkNE1HQTg4NUN3?oc=5",
+      "title": "Pine Cliffs Resort, Algarve – Hotel Review - Condé Nast Traveller",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FNFl4X29nVFYzWHVBanpDOVcwN3RkUHNRak12RUl0dVpnTVNvMklqOG1pX0NyOS1JTDc0M0xFZ2k5Z0htNTVjeFJEZVNLRUV2X01jLUFTdlB5WWJmY0NGSExnQ0xGQVhPTkRpazNRZUY0b1ZPelR1XzY1WQ?oc=5",
       "source": "Google News",
       "age": "29 Sep",
       "dot": "info"
