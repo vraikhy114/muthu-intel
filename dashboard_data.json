@@ -1,25 +1,25 @@
 {
-  "generated": "2026-10-05T13:47:35.217302",
-  "date_label": "Monday 05 October 2026",
+  "generated": "2026-10-06T12:54:07.283144",
+  "date_label": "Tuesday 06 October 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 57,
+    "total_stories": 58,
     "muthu_mentions": 0,
     "competitor_changes": 0,
     "new_routes": 3,
-    "events": 0,
+    "events": 1,
     "weather_alerts": 0
   },
   "currency": [
     {
       "pair": "GBP / EUR",
-      "val": "1.176",
+      "val": "1.180",
       "delta": "unchanged",
       "dir": "flat"
     },
     {
       "pair": "GBP / USD",
-      "val": "1.320",
+      "val": "1.323",
       "delta": "unchanged",
       "dir": "flat"
     },
@@ -33,9 +33,16 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 1,
+      "bar": 12,
+      "articles": [
+        {
+          "title": "Portugal property market shifts, idealista congress hears - Idealista",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3BtNC1Obk0yajc5XzBKV2xHaC1LN2ZQMnpTajc5SU55Szd0NTRmSUI2alctTU1LTlJ2SmkwbnRqX3RsVVNZWjFIQTRiM3J2YV9JUDhheldaZUxRSGVfSnY3OERYMnZOaVRybGYzTTU2YnRNNEo3bEl2TTJsakhHa291bjkzVnZVTmphYnZkUDgtZTJHYmZsQkNCVVVEX0YzVEx6cDEzdnkyYnFaTC1WVTI4Q2ZHNTQ0c0tmRG1XZWlabGw3Vm02NUo2MjNZR1Bnd3c?oc=5",
+          "age": "yesterday",
+          "_ts": 1791187200.0
+        }
+      ]
     },
     {
       "dest": "Tenerife all-inclusive",
@@ -58,9 +65,16 @@
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 1,
+      "bar": 12,
+      "articles": [
+        {
+          "title": "Kuoni offers trade-only discounts to push Africa sales - Travel Weekly - Home",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3p2LWRUcmVDckdCYVVvT0tQNEswT1JCUHlrZlk3aEdjcWhDYjRZb1diRk0zdjhoem5YbXlDSFc2Ql9LVS1UV1VaeGItaHU3b1RzSmJxS01BWjRpdE5xWFZoYTJxTmpHR29nbnk5WTVPWFQzTnNqazF6UU5pZ256TUdRMDhkb3oweGhLeVNhWQ?oc=5",
+          "age": "2h ago",
+          "_ts": 1791282780.0
+        }
+      ]
     },
     {
       "dest": "Scotland Highlands hotel",
@@ -97,73 +111,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Choice Hotels International Opens 600th Extended Stay Property, Reinforcing Its Segment Leadership",
-      "link": "https://www.hospitalitynet.org/news/4134734/choice-hotels-international-opens-600th-extended-stay-property-reinforcing-its-segment-leadership",
-      "source": "HospitalityNet",
-      "age": "12m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Sleep is a host's right too.",
-      "link": "https://www.hospitalitynet.org/opinion/4134733/sleep-is-a-hosts-right-too",
-      "source": "HospitalityNet",
-      "age": "17m ago",
-      "dot": "info"
-    },
-    {
-      "title": "The Inventory Illusion - Why 350,000 Race Fans Left Madrid Hotel Rooms Empty",
-      "link": "https://www.hospitalitynet.org/opinion/4134732/the-inventory-illusion-why-350000-race-fans-left-madrid-hotel-rooms-empty",
-      "source": "HospitalityNet",
-      "age": "30m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Canada and New England Cruise Tourism Expands as Holland America Unveils Major 2028 Montréal Programme",
-      "link": "https://www.travelandtourworld.com/news/article/ls8dv7vrbas0/",
+      "title": "Swiss President Guy Parmelin Visits Noida International Airport",
+      "link": "https://www.travelandtourworld.com/news/article/jcb1d9xky4u8/",
       "source": "Travel & Tour World",
-      "age": "31m ago",
+      "age": "just now",
       "dot": "info"
     },
     {
-      "title": "Not Done Weekly - Destination AI Summit Recap!",
-      "link": "https://www.hospitalitynet.org/opinion/4134731/not-done-weekly-destination-ai-summit-recap",
-      "source": "HospitalityNet",
-      "age": "32m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Is Grey the New White in Hotel Towels?",
-      "link": "https://www.hospitalitynet.org/opinion/4134730/is-grey-the-new-white-in-hotel-towels",
-      "source": "HospitalityNet",
-      "age": "34m ago",
-      "dot": "info"
-    },
-    {
-      "title": "HFTP Announces 2026 Paragon Award Recipient – Raymond Martz",
-      "link": "https://www.hospitalitynet.org/news/4134709/hftp-announces-2026-paragon-award-recipient-raymond-martz",
-      "source": "HospitalityNet",
-      "age": "41m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Finland Beats Sweden and Other Leading Countries as Helsinki Sets the Pace for Sustainable Tourism in 2026",
-      "link": "https://www.travelandtourworld.com/news/article/a3fbvnqsjgon/",
+      "title": "San Francisco Aligns Phoenix and More in Powering Las Vegas Tourism with Over Large Number of Tourists Through Digital Growth and Partnerships in 2026",
+      "link": "https://www.travelandtourworld.com/news/article/6wwgjo8k9ffa/",
       "source": "Travel & Tour World",
-      "age": "49m ago",
+      "age": "3m ago",
       "dot": "info"
     },
     {
-      "title": "Zimbabwe Unites Malawi and More as Zambia Rail Revival Strengthens Regional Travel and Tourism Access",
-      "link": "https://www.travelandtourworld.com/news/article/tdfyuxf02zz8/",
-      "source": "Travel & Tour World",
-      "age": "50m ago",
+      "title": "The Changing Shape of Indonesia’s Hotel Market",
+      "link": "https://www.hospitalitynet.org/news/4134759/the-changing-shape-of-indonesias-hotel-market",
+      "source": "HospitalityNet",
+      "age": "5m ago",
       "dot": "info"
     },
     {
-      "title": "Air Canada Vacations Targets Bahamas Winter Travel With Up to 13,000 Aeroplan Points for Nassau and Great Exuma",
-      "link": "https://www.travelandtourworld.com/news/article/l1k9wiii1l2n/",
+      "title": "New York Steps Up With California and More in Leading US Tourism Into a New Digital Era as One Billion Biometric Traveller Checks Transform Airports, Land Borders and Cruise Ports",
+      "link": "https://www.travelandtourworld.com/news/article/pagroc97moau/",
       "source": "Travel & Tour World",
-      "age": "52m ago",
+      "age": "13m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Peru Tourism Accelerates as TUI Reports 10% Growth and Expands Amazon, Coast and Adventure Holidays",
+      "link": "https://www.travelandtourworld.com/news/article/61y8s3757686/",
+      "source": "Travel & Tour World",
+      "age": "13m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Texas Joins California and More US States in Hammering Mexico Tourism as Tourist Arrivals From Dallas, Los Angeles and Other Major Hubs Decline Throughout 2026",
+      "link": "https://www.travelandtourworld.com/news/article/iupm6ergp59i/",
+      "source": "Travel & Tour World",
+      "age": "19m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Caroline Beteta Returns to Brand USA Leadership as Interim CEO From November 9, 2026",
+      "link": "https://www.travelandtourworld.com/news/article/ha06x5efoj98/",
+      "source": "Travel & Tour World",
+      "age": "23m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Florida Joins California and Others in Bracing for New Tourism Impact Amid Volatile Visitor Demand as US Visa Bond Program Raises Entry Costs to $20,000",
+      "link": "https://www.travelandtourworld.com/news/article/cc22373eewk4/",
+      "source": "Travel & Tour World",
+      "age": "25m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Canada Follows Mexico and More to Boost US Tourism as Hotel 1883 Opens in North Dakota",
+      "link": "https://www.travelandtourworld.com/news/article/ipgid6bzhk5t/",
+      "source": "Travel & Tour World",
+      "age": "28m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Generator Targets Portfolio Doubling by 2031 with London Acquisition and Paris Conversion Project",
+      "link": "https://www.hospitalitynet.org/news/4134758/generator-targets-portfolio-doubling-by-2031-with-london-acquisition-and-paris-conversion-project",
+      "source": "HospitalityNet",
+      "age": "1h ago",
       "dot": "info"
     }
   ],
@@ -207,7 +221,7 @@
       "title": "H10 Hotels reopens the Playa Meloneras in southern Gran Canaria after a three-year renovation and elevates it to the luxury brand Horizons Collection - maspalomas24h.uk",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTNKZ3NjTWVsVW03UktYWS1VQ2hsVmF2V3lGSVFGSFhoTVlzREstaVpUekhSNDYyMlh4QjlCUl9QVFJuaXY0QWgyVkF4UmVIdGJCZ1VOTVRMNVFISXFIWlNMb1ByX1FFZFhPUmJwdVh6TzU0dmhjRXYzaG84cXQ2empBVFA3MWFpSHFaVE5sWXM3dHhEUC1kck5xbWRwTlMtdktCNmt4T0Z5bWE3VkdHRXJTUQ?oc=5",
       "source": "H10",
-      "age": "5h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
@@ -218,7 +232,7 @@
       "dot": "info"
     },
     {
-      "title": "Barceló Discount Codes: Up to 40% Off for October 2026 - Condé Nast Traveler",
+      "title": "Barceló Discount Codes: Up to 40% Off for October 2026 - cntraveler.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xRWRCaW9ZZnI2S0h5OG9uZGF0Uk0yUW80M3puZDNUckVGc3Y4OEYydnhFZVNGSTF2LUVqdEw2eXFqaDc5ZnpwTlFlbDVHckpmWlFLNHBMaDM1SVUxY19tczhSNXc?oc=5",
       "source": "Barceló",
       "age": "29 Sep",
@@ -227,17 +241,31 @@
   ],
   "tourism": [
     {
-      "title": "Portugal archipelago feels the impact of Ryanair's departure - The Portugal News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU05pR2NyYUxVVkZteGNjTjZFczdDNnBaSmpsYmpwV1k5MW1saHBYYnlwc1Ntb2ZYYks1ZjZJdTlIQ1g1anNwX0c5RHp0cmFHV3VtSUh6dGsyUUQ5T05ocHlCLW9CcllpYkxkVkNJbmp4RU5Zd3p4TWZBaGJwSWUydjBxMTNfRkdqckgySjlxa3JVNENLcmx4bFZ6MlVHeFRJaWg4c25aZ1NGZlluMzRmMEowbTdkZw?oc=5",
+      "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZE55eDRGUF9sdGtWcnF0MkNGU19ZYkpkQWN1U0dHakxncEpSQlpOTkFHMjYzQmk2MVdLZkZLeWtNRU4wb1ltX0w5bW4xdS11eVIwaVpvTzlUTUFSdUJPdDllYW1DaEdjbFJLaWozWUFoczg3Qm1Od2NMYUxOZnVrajBaWUljSm5PX2Zpb3d6VUNGRnRyX0pqQ0dqYWxJdGV1cmJtdGxJU1VleXRub2x1Rl9RY1QwTEZNXzlBUnR1TjFvaFltTHdtX3pHT3lTV3NNbHVDcnN5ZFNjY3lSMmdYLUplRDdONWE1Q2d4bA?oc=5",
+      "source": "Google News",
+      "age": "3h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Canary Islands airports: greatest progress, but Tenerife South stays bottom - Teneriffa News",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUzFBZzlVdjhRNEZ1RWlWRnBqTzd4ZWp3cjdZTkRLSWg2aWpIbEYyVmFWTHVVam52ZDVGM1k4UDJnbE1ZWndpNEFJY1o4YjRkMHBCbHN5Yk04UzFDV0tBRDR3QXRnYVZ0ZXlxZGlKS013cnNqSmRyN3MwcGl1YWtCN24wUk5ZSU9LMERib1hlZzIyQnlJaVo5WjdJRmFoWVZJTHhnT1FRSmVWYmR4d3AtRWlFdUFHdDRqMGZHUi0wd3RmbnNRS1k4aF9hRExTWmtiSExZMUtOYUlCR3FMYW5HWFZwSQ?oc=5",
       "source": "ISTAC",
-      "age": "6h ago",
+      "age": "5h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Canary Islands airports: greatest progress, but Tenerife South stays bottom - Teneriffa News",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM05xYTRoMEFvb0lkR2NqWE1MM2g3eHNBVThFR09nTGtIRHc4N3k5R2JocnNZVnVtQ0R0cHZ1WmVJd2JKZmFVSHJVNTFlb24yR2JzTGY5MzJqd1M4bUtpUC02dFVLUVRPRjgwV3RoZEoxZ19fTDBTUVg0SWlHcnhXTHBiQ3VyOGVyV1R5WEJ0d3JzY19pelVDSjNlOWRJY2xxTC0xY2V1d1hyX2tkWHlwT0VGMnFVYlVIWDM0MWRBNDdiUTFGbnk0TFVnVEJNU1Vsd01CWVhET185RzdBeUE?oc=5",
+      "source": "ISTAC",
+      "age": "5h ago",
       "dot": "info"
     },
     {
       "title": "Kenya’s tourism momentum presents a boon for aviation - Business Daily",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZGxfQ0RXNERZSVlreWFMRVFrOVhya0Y2bDB3Q083d3BscmdmT2ZhX2drTFJUNWNJc2tjME9nMzAwZVdFSzRXdFllQ0FmWmxGZEN0dUEzal9FTnBKWENZMVdzUlJYS2ZzbXpqRnRRdVZoZUluVnNTNVpqbUZjUjR5c0VmQ1RnSHMwcVloZS1EM1NPYkQtY3lYWUU4ckZqSFdEdk9aS2xGYzZ6Z3lYNGR2ZGxuSHlYU3RCUmRoanA5bjVhM21uTG5n?oc=5",
       "source": "KTB",
-      "age": "7h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
@@ -248,24 +276,17 @@
       "dot": "info"
     },
     {
-      "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZE55eDRGUF9sdGtWcnF0MkNGU19ZYkpkQWN1U0dHakxncEpSQlpOTkFHMjYzQmk2MVdLZkZLeWtNRU4wb1ltX0w5bW4xdS11eVIwaVpvTzlUTUFSdUJPdDllYW1DaEdjbFJLaWozWUFoczg3Qm1Od2NMYUxOZnVrajBaWUljSm5PX2Zpb3d6VUNGRnRyX0pqQ0dqYWxJdGV1cmJtdGxJU1VleXRub2x1Rl9RY1QwTEZNXzlBUnR1TjFvaFltTHdtX3pHT3lTV3NNbHVDcnN5ZFNjY3lSMmdYLUplRDdONWE1Q2d4bA?oc=5",
-      "source": "Google News",
-      "age": "2 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
+      "title": "Nepal Sees 12.1% Increase in Foreign Tourist Arrivals in September 2026, Driven by Asian Market - Ratopati",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFZKRXFWLWtVNDRkZUowb0lyaXFDbWtwOVZzaFB4STd1R2FvQzJXNEd5RFd1M0VKRExiNEJuQmpTVm4tdzVwNk56bjhRNFJ0QVlGc2tyRmZ3VmRtSk1WVGFXVW9EMTlkWHVoOGVfVE9wVjh4Vk9ENnBiaEExenFIVVprOW5NSmdncnR2UU5sMzhpX0VmemZMUE5B?oc=5",
       "source": "Google News",
       "age": "1 Oct",
       "dot": "info"
     },
     {
-      "title": "Cuba tourism collapses 62% as fuel shortages and grid failures shut hotels - Travel Daily Media",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjJydlcxX1NQU0RESTlSQWo2UlJITkVMRlZadGF0ZW5hU2JJeVJiY0tobkhjaERLb2JOb3g4cVprdl9HQ1pzVkRFcmhFTnpXTl9mc21McnozU2M0TEpaeEZpclhvaHVydV8xVWZWVVZZOHVHRENRdlhoZGRuYmNoeDRhazNVbXhhcGVtZW5kMjlkRXF2dW5FNEVITE5wSGtOd0xUdk1Zek10YUE?oc=5",
-      "source": "Google News",
-      "age": "28 Sep",
+      "title": "Portugal aims to break into top 10 most competitive tourism markets - theportugalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNkwwSmNrYjhqWVFmVlFxMWNkWC1ZSUI0ZGpKLU1VNko1ZWx0eHRoXzlyZWlNczBrUXEzYy1CbzNMYVplV1JKd0QtRmNrUXVEUXFncGFqMXljNXR0VVpTR1R2a0tSRFZ0M2NzNWlwSU1zNzVma1YzNWc1MV82WHAxUG5WdWdiellPTTNnM0g5S1RCNjNZUlcwaWNVOHZRRDg0OWRvQ05CVXoyZmp6X19Xb1Y2YWdqT1diVWZ2U3dhTGs?oc=5",
+      "source": "ISTAC",
+      "age": "29 Sep",
       "dot": "info"
     }
   ],
@@ -301,7 +322,7 @@
       "dot": "info"
     },
     {
-      "title": "Page not found - Aviation.Direct",
+      "title": "Page not found - aviation.direct",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS1d5bTVvOE1WQXZPWmViZXdjNjNyRV80eXNCd0dFTVZwRzI1Sm5ldi1QNVgxN1dPOUl0MHRveVh0TTRMcjd1TXpVby13bHZ4dnZBWlB5UGZKMDhoZ3NjVk5wZEhiU3EteHJhbF9EZHR4MDVCaVJFR3RnT1RfN3VTY1A0aTRZSjJYejdzSzlDaDdFNjlmR2V3WDBnbi1GZmg3TUd6MTgtR2J2ckM5VjdxV2V2XzdjcV9vM25ldW5B?oc=5",
       "source": "TUI",
       "age": "1 Oct",
@@ -309,20 +330,6 @@
     }
   ],
   "macro": [
-    {
-      "title": "British tourists boost Spain to break August visitor record but they spent less - Olive Press News Spain",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFZ0SHNJa1hKdUlfV2FQOHcwLXdFaEU1YUN5c3lTbl84WDRjOWIxaDh4cFFzM09sZmJ4NVYySVQ0M3YzZENkdXRSSVloMUpBRm9qTHBROHdzNFlTSmEzLXpDNzl4NUppS2tYTnZaZ2R5NTFrbG1HS3RzRFZhTFdzaUNkTWpSV1V5VUd4Y3REa1MwZnE4R0hmMnViMm5pdHpqSk9pdWRDVzdTOFpZMkM5ZU1YVVNJRGthcFI4azRkSkFRZ3Q0cDdCZXNTVQ?oc=5",
-      "source": "Google News",
-      "age": "2 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "Homeowners face £5k mortgage bill shock this year as borrowing costs rocket - The Sun",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUtfaTZUd2VMdDBGSHpQM1NDYndfTXNIWWRKMWpIZllnV3czbXVnMlQ3RGREazdoeWVfS3I1Qy1yTGlSQ1ZCWUktNmplUEZLUlVzOUZUaUFCUXFEck9jYUFKU19GaGtfUmhnblJYSjJNdTNzZ3ZaQlI5ajFvdUFzN25OMDdCX1RwMXc?oc=5",
-      "source": "Google News",
-      "age": "1 Oct",
-      "dot": "info"
-    },
     {
       "title": "Share of UK household spend on package holidays abroad FY 2020-2025, by income group - Statista",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdjVJWWhfVFlPUFMzbUlaNzQzU1BmXzdZdHYyT3g2MndQeXFMUDdRdnhGb3JmbEswMlkxSlVLTC1pNDVBQ2Zzdmk2TW45YUI3WF9ZSW1hZTJOY2hIM19UckVUWVdvYUdyR0R6MTlrR2RCOHVQUUFzV0ZPd1RXZEpKUzQ5ZHJRX2FyTHBsT0dMUzdjdnh5aXg5UUl5dmp4SEFkUFhoUk4wWEI1SGIyUzI4aTdkcmdlcVByZkYxS00xLVo?oc=5",
@@ -343,27 +350,36 @@
       "source": "Google News",
       "age": "29 Sep",
       "dot": "info"
-    },
+    }
+  ],
+  "events": [
     {
-      "title": "European Travel Demand Remained Resilient in Summer 2026 - Travel Daily News International",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFlSWjM1cHBIcjhZQXh0Z0kyTUhYM081ZWxWY2t2bkRZdG1GanJYZlBxNHhxNXc4WjE1Mi05QWtQc2dnQ0dBX1YwRW02dDM0N1VlWDdUcmtxbERfVkd0b0ZQVnRhUXBZc2huNGFJSVBLX3ZFTVRtWVY1MThaYUZwNnI4MW5wdDlHS2pqMW1B?oc=5",
+      "title": "IRONMAN Barcelona 2026 cancelled due to severe weather: more races postponed due to rain - Triatlón Noticias",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0xvYTJ6SExKNjJCT2poUndWM1lrNzJITWFqRkpzM2VuTkFKRzVualJCWlIxSmNFdFlzd0FhS3BJb0NrWUlWbVI2aF9JODIyVTdEVHQ2WnM5Nk1TSjlJVjMzNC1sMXdSeWRJN2hYb0JpWk1BZDFlaENXWmIydDJnaUI0OUw0QWJMakE?oc=5",
       "source": "Google News",
-      "age": "29 Sep",
-      "dot": "info"
-    },
-    {
-      "title": "GfK: Consumer Confidence Increased Again in September - Insight DIY",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLW1LODNNNmNVR3NDX2RiMHlIZFJBNnRFNTFMcnJ5d2FWRmF0ZHZ0b3J6bkR4UW11a1NKSnZPTWZBSk5UWHlXM3JfcWVGN0g1ZGhzMzU1b2JzRUFCODBYSTBtck95NWx2aTh6Y2FGUjNIVnNnYjNmam9xVkV1U2dPTVZKeUxRSXNqS2ZkOWNMenRzaHZwd1R3WTBLMkc?oc=5",
-      "source": "GfK",
-      "age": "28 Sep",
+      "age": "3 Oct",
       "dot": "info"
     }
   ],
-  "events": [],
-  "weather": [],
+  "weather": [
+    {
+      "title": "Met: Kenya to experience rainfall as October short rains season begins - the-star.co.ke",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajRfbWNEZGtGeEQ4MFhWMm04M2tUYTBwVU9BR2o1WTNWdFpKenR5dmhRQnl3Y1o4dmJWZmtBaktObGFic19kaWt3SzJQcGNOY29ZWE9JanhValdxcVNZNWwweHl1SEdNQ21UTlBYdjFwOHhvNXRuTW9HcnlfQjBpRXJ3VE9rSWd4T21QWnVYeG9vSENMamc?oc=5",
+      "source": "Google News",
+      "age": "19h ago",
+      "dot": "info"
+    }
+  ],
   "reputation": [
     {
-      "title": "Pine Cliffs Resort, Algarve – Hotel Review - Condé Nast Traveller",
+      "title": "The Hotel Indigo brand reaches 200 open hotels worldwide, twice as many as in 2019 - La Revue des Hôtels",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFhaemVfU0ViYTduc1plNGE5X052WWsxdjQ5QV9lUGlnZ01QUjVYel9sbm1jYkdsc1VicjlFYTVubC1sRGg2a2RSVGdBWl93dVp4T0NSS0Y5bUFJN3dvOFVZamZTMFJaVFJ3TUYweTBWR2k4dVA2WEcwa0hLRVcyc1ltN3ozN04tQlAtRHp4ZGI1LVlWWksxZWNvNmkwdzA5cmc?oc=5",
+      "source": "Google News",
+      "age": "16h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Pine Cliffs Resort, Algarve – Hotel Review - CN Traveller",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FNFl4X29nVFYzWHVBanpDOVcwN3RkUHNRak12RUl0dVpnTVNvMklqOG1pX0NyOS1JTDc0M0xFZ2k5Z0htNTVjeFJEZVNLRUV2X01jLUFTdlB5WWJmY0NGSExnQ0xGQVhPTkRpazNRZUY0b1ZPelR1XzY1WQ?oc=5",
       "source": "Google News",
       "age": "29 Sep",
