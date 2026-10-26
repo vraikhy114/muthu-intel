@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-24T10:25:49.023707",
-  "date_label": "Saturday 24 October 2026",
+  "generated": "2026-10-26T12:24:44.645377",
+  "date_label": "Monday 26 October 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 65,
+    "total_stories": 56,
     "muthu_mentions": 0,
-    "competitor_changes": 0,
-    "new_routes": 4,
-    "events": 3,
+    "competitor_changes": 3,
+    "new_routes": 6,
+    "events": 2,
     "weather_alerts": 0
   },
   "currency": [
@@ -43,37 +43,50 @@
       "bar": 12,
       "articles": [
         {
-          "title": "New £120 holiday tax coming into force in Spain from December 2026 - Wales Online",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOW10Q3JzWjFwV3h2aUFLLV96YU5HaUJWRFNialJQOHVLcHZuRE5RclNEWmg1VkJHSF9MVTRTczgybUdvaUZHSURqcTAwekR1QzJiMUN3UzJSb05rbGZfelNYckk5OW5ma3I4eGpvSE9JNW81LTZ3TXRKVWMzVHRlZlpVS01wcHdU0gGOAUFVX3lxTFB6SWhVRkdKRXZSTjdqN3Z4djE0MEo4ZjZiZllHR212YVRnRE9qUTUxTE9xbDBBQmZ3anZ3amFfV1NpdkJDLXlxajVDNUNmV2dBR3NYTWM4MEtteTNjb0UybXhoZWZiYmVxYmZGcnY1UjJmcWIzYlBLZW15ZGZJcnl1TTZDNUxwbnMtZ2FreWc?oc=5",
-          "age": "21 Oct",
-          "_ts": 1792566000.0
+          "title": "Bahia Principe Coupons: 40% Off This October - Condé Nast Traveler",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zUDN6bnlkOGFGRUc1b3Z5Nkt6by1Gb3BTZFB4WTZuc1ZKVzNVdjZoa1Q5RHJkVkU4MEdaVmtoQmdndThUU0JJRkdVazJpUlVqejdocjBORmNIVlBPWG9Mdl91aEg?oc=5",
+          "age": "22 Oct",
+          "_ts": 1792678064.0
         }
       ]
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 8,
-      "bar": 96,
+      "articles_24h": 10,
+      "bar": 100,
       "articles": [
         {
-          "title": "Kenya Flight Bookings Through Travel Intermediaries Rise 9% as International Demand Strengthens - Kenya Association of Travel Agents",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmJ0aklYYTFHS3pPa05FTFBXWDBhbmxDZC02dXN5c0dBcGpwWjRSTl9PVEhXNHM2RU4yRklkOFdFOTR5TXhqSXY1MnNxZm9JbVZ3X202blVYcUwxRF81RldYc1hpVnpsb2pIazItQ1dQdkxpOU5pYzBaRlRka1hPa21rdXpsb2gtREIzXzc4OXNlTXFGZHRIaHlLZGZzQ2RGM0g3TkZmdUpTcTJlQWhTZWJKd1JKZ3Vp?oc=5",
-          "age": "18 Oct",
-          "_ts": 1792307805.0
+          "title": "A&K reports 27% growth as Australian luxury travellers book bigger, longer and further ahead - Karryon",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JWUp0ZUI2Rk5iaVlzZVhoTFVYQkdBX3FrWFR6eGhWY2lya1BjS3pOOFNTSGMtcDQ0d1RrbXF3cmRrQXdTSGN5MUg3V1dmd1FOeHUyMDFtcmRBdHRlSXFJUQ?oc=5",
+          "age": "10h ago",
+          "_ts": 1792978447.0
         },
         {
-          "title": "Beyond The Plains Safaris Moves Nairobi Office to Kiambu Road, Ridgeways - Char-Koosta News",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbWRoT0ppdlNoRmFfNFpNdlExRHl0ekZxQm5WTVc0cGR2VDEzOXpCcUNLdTU4bjNhV1MyYkp0NDdqa0tnWUVkMFVMMnhVQ2k0TWgyNVYxR2FtVFdTQmZQa3AwSVAwOEYwa1B0b3Brb2VNSmtRcUgzdFRXV0lBR0xyMG5FRDVjcFdQdUpqd01IY1NoMjJtSzdLUmlOaTlQY25jTHB0QVpiekZOMF9rNVhlb3cyZnRsTXpXR2VoNlJ1b1J0Y1k4RnhaQkUtQzc0d2FyLTl0WTdkWkNxU1J6emFmVE9FODFXYnNQMW9HVjVINDhjVGFlUnEwWmdjRGV6eTVtV2o2TmZsQmxvbHc?oc=5",
-          "age": "22 Oct",
-          "_ts": 1792631703.0
+          "title": "Kenya Hotel Bookings Rise as Firms Plan Hiring Amid Inflation Pressures - The Kenyan Wallstreet",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTBULU5RN0tJNU1HaV9Vc0tsN2tCTFVhSVg5cU1NS09NaTVRUXRoeHNqVnM0WVViaS1yOW1jNS1nZ0pVb1RJVGJQdVlCQi1VeFhwSER5MWlXcm8zeVp0Tlh1aTdrSHZqRGRhVDdJY3l6Rkw3dnFQQ3NqdTJ5NUJQUTdPM25XbXFBaFpGa1JVRlg5YnZBTHZERjRsRWV4TThlamc?oc=5",
+          "age": "21 Oct",
+          "_ts": 1792570526.0
         }
       ]
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 0,
-      "bar": 0,
-      "articles": []
+      "articles_24h": 2,
+      "bar": 24,
+      "articles": [
+        {
+          "title": "7 luxurious UK Christmas hotels that are still available to book for 2026 - Red magazine",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2SFBPdzQwaGdlTjVWcjlUdnFKVzYySHhnVkliRmtuTXB6X1ZPdWVOSW9wdDJPRkZEN2w3MVdvOEVJUG1aSmdQb0l5VmxZendZNDRrcnAtckFqWTJadHl3MTliWjd0MlViZkdjRzlwUUlYWU0?oc=5",
+          "age": "5h ago",
+          "_ts": 1792996385.0
+        },
+        {
+          "title": "27 of the best restaurants with rooms in the UK: From Scotland to the south coast - SquareMeal",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMl9oN3Bab0VyYXhIOEtYYlZjbVBjVDhXVXdxWGpTMFBBZ3VHWU9xeWV5bVZZaG5YUDF1UDRnQVItNWhCdTBVcE9rX2MzVFdRQjNld2Y3dWdJdF9hS1IzRWx5SUNsWWg2OEdnOTJLSEFOcGs1Z1lCQ1FRRkdtQXl3Mk5WU2ZOUzJ2eWNET0VaTQ?oc=5",
+          "age": "20 Oct",
+          "_ts": 1792454400.0
+        }
+      ]
     },
     {
       "dest": "Cuba holidays",
@@ -91,77 +104,98 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Kenya Tourism Faces a Booking Shock as Recent Protests Rattle Nairobi Hotels and Unsettle International Travellers",
-      "link": "https://www.travelandtourworld.com/news/article/awp39gyux425/",
+      "title": "Australia’s Railway Ticket Puzzle Mirrors Germany and Others as Fares, Booking Rules and Timetables Shape Travel",
+      "link": "https://www.travelandtourworld.com/news/article/xwo4v1eycimw/",
       "source": "Travel & Tour World",
-      "age": "4m ago",
+      "age": "just now",
       "dot": "info"
     },
     {
-      "title": "UK Follows Ireland and More as Guernsey Tourism Gains Momentum with 12% Air Visitor Growth in 2026",
-      "link": "https://www.travelandtourworld.com/news/article/abi5toex469w/",
-      "source": "Travel & Tour World",
-      "age": "5m ago",
+      "title": "Hyatt and Brigade Group Announce Plans for Two New Hyatt Regency Hotels in Bengaluru",
+      "link": "https://www.hospitalitynet.org/news/4135097/hyatt-and-brigade-group-announce-plans-for-two-new-hyatt-regency-hotels-in-bengaluru",
+      "source": "HospitalityNet",
+      "age": "7m ago",
       "dot": "info"
     },
     {
-      "title": "US Leads UK And More In Supporting Mexico Tourism Boom With Over 7% Rise In Entries As Aviation And Cruise Arrivals Surge In H1 2026",
-      "link": "https://www.travelandtourworld.com/news/article/0eoi88n5zw32/",
+      "title": "Shimla Welcomes Cloud 7 Hotel The Forest as Kerten Hospitality Accelerates India Expansion With 1,000-Key Ambition",
+      "link": "https://www.travelandtourworld.com/news/article/wkwjfhmjocle/",
       "source": "Travel & Tour World",
-      "age": "6m ago",
+      "age": "11m ago",
       "dot": "info"
     },
     {
-      "title": "Contour Airlines Expands Pennsylvania Air Travel with New DuBois Flights to Atlanta and Chicago in 2027",
-      "link": "https://www.travelandtourworld.com/news/article/bgaq2hebml9i/",
+      "title": "Spain Joins France and Italy as Norwegian Bella Opens Bookings for 2028 Mediterranean Cruise Holidays",
+      "link": "https://www.travelandtourworld.com/news/article/0t2h2bj7m6yj/",
       "source": "Travel & Tour World",
-      "age": "15m ago",
+      "age": "11m ago",
       "dot": "info"
     },
     {
-      "title": "Athens Ranks Second in Europe for Hotel Value Growth, New Report Reveals - GreekReporter.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXVnNUpNdVYzQmp3WmQ2eERkRWJpMnB6X3RNelc2TlV2d1VoTWtjWGIzQ2JLZWtlbURxeVRSV0ZmNlZwRXlqam5CbHR6RnZjdWROVFhMYkVOc0VFMHZJVVVtanhDMnRad1BPUVFSNFZUUUd1aXFxdFZ6NGVkMnVMVF9XSWJTajVIRm91YU1laXZ6N1BSNVEyQlZsbEJXZWM?oc=5",
-      "source": "Google News",
+      "title": "Air India Express Records Strong Brand Momentum, Ranks Among India’s Four Fastest-Rising Brands in October 2026",
+      "link": "https://www.travelandtourworld.com/news/article/0ccvss0s5cnw/",
+      "source": "Travel & Tour World",
+      "age": "13m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Booking.com’s ‘How India Travels 2026’ Explores the Rise of Alternative Accommodations",
+      "link": "https://www.hospitalitynet.org/news/4135096/bookingcoms-how-india-travels-2026-explores-the-rise-of-alternative-accommodations",
+      "source": "HospitalityNet",
+      "age": "17m ago",
+      "dot": "info"
+    },
+    {
+      "title": "HFTP Welcomes Robert Firpo-Cappiello as Director of Communications and Promotes Christina Van Allen to Managing Editor of Hospitality Upgrade",
+      "link": "https://www.hospitalitynet.org/news/4135082/hftp-welcomes-robert-firpo-cappiello-as-director-of-communications-and-promotes-christina-van-allen-to-managing-editor-of-hospitality-upgrade",
+      "source": "HospitalityNet",
+      "age": "18m ago",
+      "dot": "info"
+    },
+    {
+      "title": "US Tourists Ditch Hot Spots for Sweden as Stockholm Flight Searches Explode 99 Percent in Mass Travel Shift",
+      "link": "https://www.travelandtourworld.com/news/article/fafki0qwif0b/",
+      "source": "Travel & Tour World",
       "age": "19m ago",
       "dot": "info"
     },
     {
-      "title": "Netherlands Joins UK and More in Driving Spain’s Hotel Demand as Prices Jump 6.7%",
-      "link": "https://www.travelandtourworld.com/news/article/6c99rn3gy7ti/",
-      "source": "Travel & Tour World",
-      "age": "35m ago",
+      "title": "Why Hotel Reviews and Responses Are More Important than Ever in the AI Era",
+      "link": "https://www.hospitalitynet.org/opinion/4135095/why-hotel-reviews-and-responses-are-more-important-than-ever-in-the-ai-era",
+      "source": "HospitalityNet",
+      "age": "22m ago",
       "dot": "info"
     },
     {
-      "title": "France And Spain Outpaces All Other Countries Across Earth As All-Season Magnetism, Sun Hospitality Makes It The Ultimate Tourism Gateway",
-      "link": "https://www.travelandtourworld.com/news/article/ku1qgwm1sqgv/",
+      "title": "US Thanksgiving Weather 2026 Rain Snow and Shock Regional Travel Storm Chaos Threatens Holiday Trips",
+      "link": "https://www.travelandtourworld.com/news/article/k6gy5iyrvnft/",
       "source": "Travel & Tour World",
-      "age": "38m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Holiday Rental Trends Spotlight Portugal, Malta and Other EU Markets as Travel Demand Shifts Across Europe",
-      "link": "https://www.travelandtourworld.com/news/article/muzmtfiehhc6/",
-      "source": "Travel & Tour World",
-      "age": "39m ago",
-      "dot": "info"
-    },
-    {
-      "title": "United Kingdom Steps Forward With Netherlands And More In Rigidifying Aviation Security Using Stereoscopic CT and Somatometric Portals",
-      "link": "https://www.travelandtourworld.com/news/article/cbkg4hbvtejf/",
-      "source": "Travel & Tour World",
-      "age": "54m ago",
-      "dot": "info"
-    },
-    {
-      "title": "What the Amex Travel-Airbnb Deal Means for Expedia",
-      "link": "https://skift.com/2026/10/23/what-the-amex-travel-airbnb-deal-means-for-expedia/",
-      "source": "Skift",
-      "age": "13h ago",
+      "age": "31m ago",
       "dot": "info"
     }
   ],
   "competitors": [
+    {
+      "title": "Pestana — More special offers to discover",
+      "source": "Pestana",
+      "link": "https://www.pestana.com/en/promotions",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Vila Galé — A Vila Galé não contacta clientes fora dos canais oficiais",
+      "source": "Vila Galé",
+      "link": "https://www.vilagale.com/en/promotions",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "Vila Galé — CLUBE DE FIDELIZAÇÃO",
+      "source": "Vila Galé",
+      "link": "https://www.vilagale.com/en/promotions",
+      "dot": "new",
+      "age": "today"
+    },
     {
       "title": "Iberostar — You can find your IHG One Rewards information here",
       "source": "Iberostar",
@@ -175,42 +209,14 @@
       "link": "https://www.iberostar.com/en/offers/",
       "dot": "info",
       "age": "today"
-    },
-    {
-      "title": "H10 Hotels reopens the Playa Meloneras in southern Gran Canaria after a three-year renovation and elevates it to the luxury brand Horizons Collection - Maspalomas24h",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTNKZ3NjTWVsVW03UktYWS1VQ2hsVmF2V3lGSVFGSFhoTVlzREstaVpUekhSNDYyMlh4QjlCUl9QVFJuaXY0QWgyVkF4UmVIdGJCZ1VOTVRMNVFISXFIWlNMb1ByX1FFZFhPUmJwdVh6TzU0dmhjRXYzaG84cXQ2empBVFA3MWFpSHFaVE5sWXM3dHhEUC1kck5xbWRwTlMtdktCNmt4T0Z5bWE3VkdHRXJTUQ?oc=5",
-      "source": "H10",
-      "age": "18 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "Spectacular Algarve all-inclusive golf resort for 7 nights — for under £750 - The Sun",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTBJUUNpRWJablNkU0hHYUY0MkM5bWRFYkFDbjBjRi0zRmtabThuUkpyQXp3ZG5qS0ZfemtvNnRIR2U3UFBNQjJTMnRhbDlpZ2JKdVlXdDJ2dld3SXJGa1hoRlpPa242SnVkRDdaT1o2TzhleUJSMEdXWk1EQ0VXUlp6anRHblJOU1E?oc=5",
-      "source": "Riu",
-      "age": "18 Oct",
-      "dot": "info"
     }
   ],
   "tourism": [
     {
-      "title": "Canary Islands hotels charge more even as occupancy rates fall - Teneriffa News",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWlJON2F3TUx1bDU4bUU1T3M2LVkyMUFNVXlEay1qb284UVJYbV9uSTRGbkRKcDYyY1FQY3A5Ul8zN1QySXk0Q1NIclJaei1qS19OT3dfOTBtdlhHYmVFbUJ3aEh6VmVBOFRnZ1JWN3E1aFJ5YVBQZmNTNC1pMTBrNDdlQjRkVmdjTlY2V0J6b3BsNHJtdFhNb1o4OGlST1hpLWZDVmUzWGsxTTZGNE11Y3A1Uk1XcWg2ZjVmTzV2OA?oc=5",
-      "source": "ISTAC",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
       "title": "PATA: Asia Pacific Tourism Nears Full Recovery, Growth Moderates - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV25uRTlFZzRlWEN2bjJjeXptQjl1YzZNdzJKY2UyQVVGU2hFakstM21FdlFEWFI4ZWR1SjNWWUptMlJOSFRNOV95YzY3dmk5cDVqLXFGRzlPS1h2X1Q1Z3l2aFdVbjA4czhsbFJSYTZpOEozVTdCbVFHTmU3VTgzVHR5YlpweWhIRFNFak1rWGpQeDdWRWJkR0ZESEhmRi1LLUZLQnln?oc=5",
       "source": "Google News",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "Morocco accelerates hotel investment ahead of 2030 World Cup - Travel Daily News International",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVg1cGlKSzZGaE1fRWh1Q3E4ajhGQXIwVlBUSV95dzRUSFdfN21sZHFTRzZ0TXNFM1c1OWYzbjNxdlB5YnpfWHhydERCaGRUV3RaaHY1X1hQTWRsZFQwaGR2WkFTQkw4VURpdlBqTlRlQ1F1WVpXaElTem5zZ0d4R2dsU2l5d0NnWVd3UnVB?oc=5",
-      "source": "Google News",
-      "age": "20 Oct",
+      "age": "22 Oct",
       "dot": "info"
     },
     {
@@ -219,33 +225,33 @@
       "source": "KTB",
       "age": "19 Oct",
       "dot": "info"
-    },
-    {
-      "title": "Tourism management in Portugal: Destination Marketing and resident participation in Lisbon - Travel Daily News International",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2l2VnREd1ZWTjQ5N3lGZ09hWEFvQVZQWG8xLTNPcm43R1QzQlNkZWxCTlFkVkx6VjdlWmI2YzcxTzZ5cE53cElVdlktNFJBSUNnaEVaOEJOLVh3ajBmTVI5OVVpVzR2Qm0xUzJwLU1qTURRemNKN211V01abWRLdDBYYTliV2VCUTZNNk51eUZBNWZacWdTR0dQLTk0WEJQUVk4Q1NodVp4dVVqaDRKTGREUGY0Z09iS3RURWltcDA3UDZqOS1Ga0tuZ1phYVZM?oc=5",
-      "source": "Google News",
-      "age": "19 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "Palladium Hotel Group reports growth in U.S. traveler demand - Travel Daily News International",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX0tiZG1tSmdPVDlnRmRvaXJlNXAwNWhZclN6dXdQWEhKUFRadnFRUTBkVUZqSFo0RnRYVDNGcVl1aDdjSVZpZi1IWlN5UHhXcHlEazJmWTN1OUpkU2lTdklnRlBWdXhXbEJlN0JtQW1ERWk0NUpIVXdsNmNLaEZmRkZXbk1felhOVVlrb0ZyZS1aSGN1?oc=5",
-      "source": "Google News",
-      "age": "19 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "Coolcation 2026: 5 Cool Destinations in Scotland and Scandinavia to Escape the Heatwave - Pixidia",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByMHZWdTVMQ3p1MTNOWjFsdC1NZ194eU1Uel9oeE1BUHRYMEpXbTY2QlZYYWJ3b2JHcll2YUlaV0k1SWNwMXVKR1JoaTlKQmVvVkFwcWdvRGZ6RmtHdi1YVTJnaXJlamhvcV82dy1USlQ3R09uckdBbG9qRk05dw?oc=5",
-      "source": "VisitScotland",
-      "age": "18 Oct",
-      "dot": "info"
     }
   ],
   "airline": [
     {
+      "title": "Air Canada Launches First-Ever Nonstop Flights Between Canada and Tenerife - Canadian Travel News",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16V2x3TmhzcEtnVHB4RjFVVmM0cHpwWlFwdy1GV2MweTZHV2VVN295MFhPTEhzWTdscEtsWE1LQ3pabUtHY2JSci1BMXY1VGx3UGxmb3ZZTjZiQzVtY0p4YU0xRXBnbFlRbHc?oc=5",
+      "source": "Google News",
+      "age": "2h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Air Canada Launches New 9-Hour Nonstop A321XLR Route Today: See Schedule Now - Simple Flying",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14ZEYtUGt2MG92UFRuRmdRWTlDck1vaWhmNkJpZmJGUTFMSjFVejA5cThnQWFWdEM4WFI1N3pkekhGNmlzM25lcW9NVzdWSWs0QTNlWHRKRWw1T1VsNnZMRVVqODBxNm9yLU5nVUd2OFMzak5YY3AxeE93?oc=5",
+      "source": "Google News",
+      "age": "17h ago",
+      "dot": "info"
+    },
+    {
       "title": "Ryanair and easyJet announce new flight routes for summer 2027 - Wales Online",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUkwN1piTE9tbXlMN1J2YXN3OEhGbG9fMThSbFhkNm9wWTVsQ0VERFViVmJVXzhSV19oOHBWWlRQOTdRenBlQ3gwYkROdnd2R2RXblRlbnhyQ3hiWktMdlJEVHlZNE03TzF6b2hZYm5tTVNKYm4wckxKQ0NITGVaTEx1cjJrWGlwM2N5Zmhva2p2aUtX0gGaAUFVX3lxTFA5RzIwVmpJa2JKdFF5TDVVdG14ckNRdkFWZWltWjROVjJnNklFM0QyWHAwSWRLSUFDR2NZbVhJaDNXdUxPLVRNT2M0b21jYm9YUF9yRHZ5cV9GYWZOd2lhS00xNVFzU1prQ2NicVFjbFhYdlE3V1ExMVJZbTBzUlA0Qk9VZGRTcDdTZlFQWS1mQnpnbXU0Z3lGeVE?oc=5",
+      "source": "Google News",
+      "age": "20 Oct",
+      "dot": "info"
+    },
+    {
+      "title": "Montego Bay Airport Guide: Jamaica’s Tourist Gateway - The Aviation Hub",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45S25zU3RncFpmajhZQzh5WnNadGpHSGg5LUt5cTdIOFRROU81YkVvQmJyS0JRd0tfckpMT2s1WHBjRXFpb0ZRYjBFTmRBTVVISXIzU2pLeGd5T0tmWGdQT3FoQlVhZw?oc=5",
       "source": "Google News",
       "age": "20 Oct",
       "dot": "info"
@@ -258,85 +264,70 @@
       "dot": "info"
     },
     {
-      "title": "Volotea Montpellier: 4 new routes from November 2026 - Pixidia",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hcElwdEkyaW1YeC1KSU1vNlZROV9ObGhsS3pyWDVXbXpXLVN4Q2VoX1J6ZkE3VUF5cVRiVGxONURVVzVWQjdYWmhQSVBHejdlczNHR3BmSWZJN1BGN2Ffd1dKVXltUFk1WGNj?oc=5",
+      "title": "Taking The New easyJet and Ryanair Routes From Liverpool Airport - Click Liverpool",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDV4M09nejFPdDVBS1FNOTVKRXc5OWxqakg0cW1JOW5ZU1dzVDJiR1ZDXzVfSjFZa3VhZE55VndsSnc3RmpPVEQwQTByZ3ZVNnNBOHZTZnU1MHNMZjFJMUIzUlhTMU0tUmJYMGF5SUVPRHdwSGFaNGRWaEZIOUVDT2gxeHgyWmNaVGtnMnhyWEMyTk9SUFJNXzhVQ3R1blJIbWE2b01GV09QdjdIWE5jWg?oc=5",
       "source": "Google News",
-      "age": "17 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "New Flight Routes October 2026: Best Routes to Book - Travel Tourister",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWNWNmZuR2JEUXZ5b3lyeVFaSy16TE1xeVVoM05FRi05UVNrenlWTERjWnoweFVDZVl4X1E0WnljOE91UVFPQTZjQVBqUUMta05hNEVJeElldmxfdzRvQzVTV1Iwa3V5SHo0cEdGYmJlWUZmVjJ3cGhrbU5sc0RQQk94WWNrY1NLNDBCM28yWm8wNnpON3BRZFRQZGNjXzhwUUkyNW9FeXoySjU5ZDEtSA?oc=5",
-      "source": "Google News",
-      "age": "17 Oct",
+      "age": "20 Oct",
       "dot": "info"
     }
   ],
-  "operators": [
-    {
-      "title": "My tasty trip to Tavira — ‘the Algarve for people allergic to the Algarve’ - Irish Independent",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1ZlbkMzcTg3aFpmbDhpRUxDVUVFNm1pWlZWdUxQZnJKY05CR1VPUUN2UHlGVDRjWDVxVjVrNHZnc1BtM2xCNGF1Wk5LMmFLemJSWEkxR2FxUEVnaVgyRDJUT0FFQjRDV2ZKVng1MEhzM3NfSGxSMTFhS2VPeEtCZmdZNEdweXJTTlI0U3JtMEswY2VRUnZMZmhsRjRiaXBXeXFIcV9WOWltZkx2cW9Ga2VyTllvRVA2OEp4d2tYblZ4MGp6dmVTczRXOA?oc=5",
-      "source": "On The Beach",
-      "age": "22 Oct",
-      "dot": "info"
-    }
-  ],
+  "operators": [],
   "macro": [
     {
-      "title": "GfK: Consumer Confidence Drops 11 Points in October - Insight DIY",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWdvUFNTSDNPWFBoOHlhUC1aQXJNNWx4cVFBclhrWWlTX1BndWJGeHVqdlVqOTEzcEJFM2REaWRSWWJ6N0tuSXE0ZW42Y0MwSE9HaC1yYnNPYURYYmxWZ1prSjY2Qjh3cExPb0J1N05YLTdrVjBGekExS1BQT09LTGdDWWJ0aHFZT0FCTTR6aGVnUnpYMldfMkhB?oc=5",
+      "title": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOExkQUhOYS1RN1V6UE5VQlBGOG0zazA5b0pPbXZONFRfVWkyUEdxV3VNcm05NFgzOGhval9iLXhFZ25yWGJvM0o2QW1CQXdBZVF1TVRkWTVzWUpYM3FIWDB0UDdhYVBBRktFeHVoN19NS3VUR2RsdC1seE1VTzZ2ejlVNjY?oc=5",
       "source": "GfK",
-      "age": "18h ago",
+      "age": "23 Oct",
       "dot": "info"
     },
     {
       "title": "UK Consumer Confidence in Slump as Big as Brexit Shock, GfK Says - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWcwY3hkRlJLal9wT3FKTnpxVkdXcG1oanRNYWZDRjB6ZU1aZzJoaHZRZVZsU2RLOWNqU1hFSjJIMXZhejNHWm0xOGdZRUhjMGhRRG1UX2tvLUduMHdjUFpTVzFsNWZnazRqajlFa002MExFS0wtN3p1cFNlaGxpcXN1MjBDYmdnalRSNGxDcThBZ2VIb0NFUU1rbmxHX3o2OGxyRTEzTVBQSXkxSHNyS0M1UF8?oc=5",
       "source": "GfK",
-      "age": "yesterday",
+      "age": "23 Oct",
+      "dot": "info"
+    },
+    {
+      "title": "Consumer Confidence plunges 11 points to -24 in October - NIQ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmRiRkFleFUwU202eG8tUFp5NjdmbnhoWWdNaGpERHh6TGFCRy1xcExubklFZG40OWxYWkhFLWZvSm5IUk5DdlcyMmt1VC1WT2hVRWNLNTAxVlM5NjZJeTNmSy1lcVlyVndmZjZ3Ti1tMWk4cG0yV1kwMkxXWVRoY2lRbjM3R1JWOXlKdWFRdHV0ZXVtZ0ZHZkZBSnl2azZpR3hsTGJRVQ?oc=5",
+      "source": "GfK",
+      "age": "23 Oct",
       "dot": "info"
     },
     {
       "title": "UK consumer confidence plunges in October - GfK - Sharecast.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDlTMVQ0bk9icnZ3cTBlMUN4QnNxUGJHblVVUzd4Y0tSLWpvazNQWjU1a3Exb212bXZjbW1WSjZfSlV5OEFSNEczcUh1TjRuZ3I5bVBOVmM4amxFWE1RMGZBWlF2aVUxbDV1VGt2bHFuMDh5RzdQaE1YRXpCdW53djhVTjh0eU9Oc01kbXlidjhKZkZTSE1teFp2WXR4OG9VTUhPMzlsa3Q2Zl9acDRMeEotbVBRUGVWZl9R?oc=5",
       "source": "GfK",
-      "age": "yesterday",
+      "age": "23 Oct",
       "dot": "info"
     },
     {
       "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWNTTl9BM1lnTmFnTE02N2lpOW16Wkt6UFE5cFRZMUlRZnFKekRWVDJfUExiQ2FNRjlIaERJNC1qTmE0bU11UWFELXBEMTdRWHB1V1g0MVU4bXVmeUY2bEtnSDhDWmE5ZVBBZmJicTQxQm5aZTR1dTFYQzRRNElyaUhUWUlmaWxnc2NZTnhtS0UwWkdRSjFHcEFYd0NFOTZGakhXcVRBZkh0aXZTSHV2Ml9B?oc=5",
       "source": "GfK",
-      "age": "yesterday",
+      "age": "23 Oct",
       "dot": "info"
     },
     {
       "title": "UK Consumer Confidence Sees Biggest Drop Since Pandemic - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNay16ZEs3bzR5TTU2MjNwYWl5RVZIM0hNdEx5MUI2NDBPamlCQTNfdTl2Sno1Y0d3Qmk2VlFScWVJckZFcXZPOWJnUzd3Y0ctcmZpWnVidWtFTEdFN1pxVXZwTDZmbE40M3FtdTQ3R3hNOW5ZVFZpX2J0OXNfdHB2QmpXQlZ4ZERTc1pmdGZfZTNPYndLdHNDXzVVNHdmcm5Pd0hjQlN2bjJlZw?oc=5",
       "source": "GfK",
-      "age": "yesterday",
+      "age": "22 Oct",
       "dot": "info"
     },
     {
-      "title": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOExkQUhOYS1RN1V6UE5VQlBGOG0zazA5b0pPbXZONFRfVWkyUEdxV3VNcm05NFgzOGhval9iLXhFZ25yWGJvM0o2QW1CQXdBZVF1TVRkWTVzWUpYM3FIWDB0UDdhYVBBRktFeHVoN19NS3VUR2RsdC1seE1VTzZ2ejlVNjY?oc=5",
+      "title": "Marketers hit with largest drop in consumer confidence since Covid - Marketing Week",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13UW5ETWtDVFZIYWNmR3d1N1N1czRoOC1FQV9HTWp2bHctRVV1ZkhmLVhBdDRQQm04Qy1YUWZocGVJUmNlaEZJU0ZaN0syek12NEtkVnIwWjJNR0dDSmVJaWVya0VqRU5tQlhSdEZtTW1HX1BTaElPVWhpaw?oc=5",
       "source": "GfK",
-      "age": "yesterday",
-      "dot": "info"
-    },
-    {
-      "title": "easyJet Offers £66.50 Off Family Holidays to Cover Baby Passport Costs - Rus Tourism News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXIwUWU5dDJROUtzTUo0VjA1VklLMllxeTFkeHBYSVBVcUFCbmZhUy1FOG5BTWNEcEZJWUM1RVcxV1dwdFNheWZJbW1TU3dWWVhRVlFqYzAzSnNVdlZkZ01ORjVWd0lzOUFleERUdlduQVdYV1ZIbXlISW96NDRkU0JzQnhxeUVBMDdlOFYydHJtRm9XbzVRNHpBc2xZWTQtLXBJR1NrczdfQWFqSFN2cEp3?oc=5",
-      "source": "ONS",
-      "age": "yesterday",
+      "age": "22 Oct",
       "dot": "info"
     }
   ],
   "events": [
     {
-      "title": "IRONMAN 70.3 in Spain and Portugal: bib numbers sold out for 2027 - Triatlón Noticias",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcm5uTTBXSDdrUTYzUHpyQ21YNDJReTdQR1J5UndYMkhtNkRqNW50b0tZV2lEUUphajhLR1o5NlY0WWo1WWFyaVhEeVVFSXp0dmdMRXhUTXlwUDV0eDBmTmxOTlRvZm81WUx5YXctbXNoN25OZGxIS1BEMVNkVXZhczdvSFYzVWxoLUJhS3NtSFowSU1oUUE?oc=5",
-      "source": "Google News",
+      "title": "Huge Turnout at 2026 Arkansas Scottish Festival in Batesville - Arkansas Radio",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdUJLV3M3aDVXaTBfZElBM2ctYm5IVV9Sdzlkcm9FaThFOEpXNlpTMWhNQlJHOUtkMUxNX21pWnU0cWkwVHlXaHM3TEpsbnpFSl84b212amM5aHQxS0NFcXhwZWJLY3I3S01acndHc2VqcUtEbEVZMDhwdEtQQXhWUVJmcU1SQzcwSkpZelBCWFRDdlpTZnRtS2JEZTQwbEotWmFNeFp2TlBrWEZfZUE?oc=5",
+      "source": "VisitScotland",
       "age": "yesterday",
       "dot": "info"
     },
@@ -346,37 +337,30 @@
       "source": "Google News",
       "age": "21 Oct",
       "dot": "info"
-    },
-    {
-      "title": "Spain Christmas 2026-2027: Dates by Region and Prices - Pixidia",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jd1VaN2tLUHdybV80VENDUnd5V1h2aS1kcGZHX1ZZLVVqQTNoZEdkNFQ1MTJFOThwNFdEek5NaERWRi1QTm0zNGd1ZXFaRVA5TlpSZ1pYWHp5UFktOE5QTDN2Tl9PdFg2bFIyNVFjUzRXWFRkTk91emlTUmg4dw?oc=5",
-      "source": "Google News",
-      "age": "18 Oct",
-      "dot": "info"
     }
   ],
   "weather": [
     {
-      "title": "Wintering In Africa: The Safari, City, And Coast Trio For A Once-in-a-Lifetime Itinerary - Travel Noire",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80OVhBT3V3emQ5R1l3OFJKVmdJUW1pNGxadGhEMXpJZjlwcEp4Z090Y0ZXblpQa1RnaGQzUU1aM2FyZGJKNE5Rdk0wQ0p0MEFSUXhZR2FtdlByYlBwY1UwcnNxd3B6cExWNEhDa3gwb2tYdw?oc=5",
-      "source": "Google News",
-      "age": "yesterday",
+      "title": "Maps: Tracking Post-Tropical Cyclone Josephine - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnRGWlFVRHNjWE9KanphMG5UZk1CRlVKWEZJbnp0QkxPTEIwZ2JWbWxTdTlRamdEQk5MTkxycmlOWDVEcGdIc2IxRnUyWEFBQVBXNUxPaEt6ai1VcWlVdXRTamdQcXNOenUzWjBhTEtWd2VETl9vWXAzeEJEbmNlSGFxSDBvZzhhTEFyTjBEMDBlVlRjNEJ6eGNBcnRIQXFVYTNVaFdOMA?oc=5",
+      "source": "NHC",
+      "age": "23 Oct",
       "dot": "info"
     },
     {
-      "title": "Met: Expect rainfall in most parts of Kenya this week - The Star, Kenya",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnV2aXJWazh3M3JiVkhVZXdjbGlpMkZxZHZrWTBfam9LQllScDhzZXpRS2JqWlNNQ1NISVdGQk5NT0NCWm1HdmZ0a0E1VEk5MHMwYWkxUGZzYW9TeXVZMU5jUjgzanJ1LVlLb3d6UHo4SU92MGJUNDFrVFFJMXhqUzRiM2JFMzdiTHB0MGVYbw?oc=5",
+      "title": "Wintering In Africa: The Safari, City, And Coast Trio For A Once-in-a-Lifetime Itinerary - Travel Noire",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80OVhBT3V3emQ5R1l3OFJKVmdJUW1pNGxadGhEMXpJZjlwcEp4Z090Y0ZXblpQa1RnaGQzUU1aM2FyZGJKNE5Rdk0wQ0p0MEFSUXhZR2FtdlByYlBwY1UwcnNxd3B6cExWNEhDa3gwb2tYdw?oc=5",
       "source": "Google News",
-      "age": "19 Oct",
+      "age": "22 Oct",
       "dot": "info"
     }
   ],
   "reputation": [
     {
-      "title": "The Peninsula Paris hotel named Europe’s best luxury city hotel at the 2026 World Travel Awards - La Revue des Hôtels",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa0xHYXQ2VkwwNUlyVUxWRnBUTzhkUnJ5VmM4TnFURkg4cmhaRmdpOEdScTJla0QxTzhWelk5dld0RGRiYnBhVlozRFJZU0R1QkhJc3IzYzV0Njh3VTI2SFMybTBYMlM0MEpfM3ZJeFNwWXpQS1BNUjZSX2lEN3R6ZDhDcVE?oc=5",
+      "title": "The Puerto Valle hotel, an 1868 estancia on the edge of Argentina's Iberá wetlands - La Revue des Hôtels",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFVVa1Z0U1JpeXRfVURMd0dnN0M3VGxqTzVmQS1MdEw5d1ZPUFlqRW8zeHlpYnRmMFNMeFlydTBpNUpIbGVBV1J2c0FnZWdhclRJMXhUUVI2SVJSOGFGVnUwWGVITkxfRmhCVFpjYnJ5aTNjZGtZblU3WkxWSUlSYQ?oc=5",
       "source": "Google News",
-      "age": "19 Oct",
+      "age": "1h ago",
       "dot": "info"
     }
   ]
