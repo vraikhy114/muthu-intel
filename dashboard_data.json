@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-02T15:08:20.462991",
-  "date_label": "Monday 02 November 2026",
+  "generated": "2026-11-03T13:45:57.672088",
+  "date_label": "Tuesday 03 November 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 49,
+    "total_stories": 48,
     "muthu_mentions": 0,
     "competitor_changes": 0,
     "new_routes": 2,
@@ -14,14 +14,14 @@
     {
       "pair": "GBP / EUR",
       "val": "1.196",
-      "delta": "-0.003",
-      "dir": "down"
+      "delta": "unchanged",
+      "dir": "flat"
     },
     {
       "pair": "GBP / USD",
       "val": "1.342",
-      "delta": "+0.002",
-      "dir": "up"
+      "delta": "unchanged",
+      "dir": "flat"
     },
     {
       "pair": "EUR / KES",
@@ -33,55 +33,53 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 1,
-      "bar": 12,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
+        {
+          "title": "United Kingdom Outbound Travel Market Size, Share, Trends 2036 - Future Market Insights",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXhsTTJTVGFuSTVaREhHWEFLcHVKZlQ4cVpxX3FuUVAwRDktVVR3ZV8zOWNLeGVfUjVQN29Ta0lFTW5JVkJBY1d5UFY2N0lpZXlYS2dZeFBUWV9HV1JrUjE2QlNrcFR3SVZXRUYwVHlNR2ZzREVqVWlFNGxhTGZOR2hvVlNKV2FFa3czNF91Q21oUm1jcTZn?oc=5",
+          "age": "29 Oct",
+          "_ts": 1793257200.0
+        },
         {
           "title": "Greece tops British demand for summer 2027 - Δημοκρατική της Ρόδου",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd1p6WTMxbTZIdHZYUldWT3lWb1VIanBRZ0YtWUNsMGFySkhfeDNNZjh1a3RCdHhTYldIQ1UydS1Od1R2ck5tRFFLcWFaNWQyQlNHaHlMVFZISkVsX2xlMVdvMkExb0N1c3A4RHpkNUE2UUcwcmR4c09kMDJOdkhzX1pBbGVBaVlvaXEyRzM1WDNEVXJET09MSVdyTmdkanhCX0RVS1Q5Y0JhZncxX05Qb09VcFZReHUt?oc=5",
-          "age": "yesterday",
+          "age": "1 Nov",
           "_ts": 1793522076.0
         }
       ]
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 1,
-      "bar": 12,
-      "articles": [
-        {
-          "title": "7 holiday deals to inspire your next escape, from Ireland to Japan - The Irish News",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYzJ0cUtsTWd1d05PSzRJRzl5VTh1Q0w4THFtdTJaaXdGQTJORGloOVVaY0RybXhFeHU4R1pCbUIteFBLVDRqcVpDQUFsbU5pb1ZjUGpiSmFoQTItYWtiWmMzU1BOWThlQWtsZGc1SmRpTXpDV09uNXJpdDZmajZCWTNOZVA4WjRkdnNmSjFxZmtLVFRvUEdWcTVNcTlGSVpOWUotaWE4RzFUY0pNTjliRndaVlQ5QXBvTlpsXy1LYW9LMjdkNVJhLW9Md2E0UQ?oc=5",
-          "age": "31 Oct",
-          "_ts": 1793426400.0
-        }
-      ]
+      "articles_24h": 0,
+      "bar": 0,
+      "articles": []
     },
     {
       "dest": "Kenya safari",
-      "articles_24h": 1,
-      "bar": 12,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
         {
           "title": "Report: Insured Trips Over $30K Jump 27% as Safari Demand Climbs - Travel Agent Central",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWDVWREZrVWMtcS0wa1pDY2RUeDV2MkpOQ0hFMUc3aVg2WVhtRXRGclpFX19wSnU3dkQ4bHZaMUM2RWd4WFdONlVDVWRFVUduMW94SjY3dFhEY0p6Nmg1M01iZUo4R3dfS29FSWFaNGJ2LWpJWEY0ZlVwazJVTnVjM1lxT1dxaXN6ZUpvV2VfVHNVRkFieXJCak1Mb0hmRERieWUtaGZZU2VaYkdVT0Q4?oc=5",
           "age": "30 Oct",
           "_ts": 1793365800.0
+        },
+        {
+          "title": "Luxury Travel Demand Soars Amid Slowdown in Budget Trips - TravelPulse",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORW5YbVF6Xy1WdXctd1RGbDRDQ0lmM1QxVUNVZWFfZlpodFRQU0x3U0czU1IxS0tRYXU1dE83SExIVi1qNjlEU2EyOTJ5WUhJZFRLVjVuUWNJejlGbjdLV0Iyc0pTMmhsNnlienRtNk9mbUQwX3F6TG1NWHRNQXhwZXE1SUkwVWlpMU5qaUJLaExEU214NEhXeV9Lc2o?oc=5",
+          "age": "29 Oct",
+          "_ts": 1793283600.0
         }
       ]
     },
     {
       "dest": "Scotland Highlands hotel",
-      "articles_24h": 1,
-      "bar": 12,
-      "articles": [
-        {
-          "title": "11 cosy cabins in the UK to book this autumn - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4b2k0ZzEwUEotOVNOaWN4aUQ3Mm55SVRrcFROekp2WG1naDBVNldfeWFfZC01c3psRzVkX0dXd2REQ2lMd2owMDhydUhfS1N6Y3VmUl9BRUVEY3FBS2NCbmI4QVF0ZVRMeS1FT0NMMGsyQTZyQmR3?oc=5",
-          "age": "37m ago",
-          "_ts": 1793628780.0
-        }
-      ]
+      "articles_24h": 0,
+      "bar": 0,
+      "articles": []
     },
     {
       "dest": "Cuba holidays",
@@ -91,8 +89,8 @@
     },
     {
       "dest": "Jamaica all-inclusive",
-      "articles_24h": 3,
-      "bar": 36,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
         {
           "title": "Sandals’ Great Jamaica Comeback Sale Is On - TravelPulse",
@@ -112,73 +110,73 @@
   "muthu": [],
   "industry": [
     {
-      "title": "Venezuela and More Countries Prepare to Attend ICCA Congress 2026 in Panama City",
-      "link": "https://www.travelandtourworld.com/news/article/ax5e2oky6c47/",
-      "source": "Travel & Tour World",
-      "age": "21m ago",
+      "title": "Avalora Introduces Cross-Platform Guest Intelligence™",
+      "link": "https://www.hospitalitynet.org/news/4135245/avalora-introduces-cross-platform-guest-intelligence",
+      "source": "HospitalityNet",
+      "age": "5m ago",
       "dot": "info"
     },
     {
-      "title": "Pennsylvania Sparks a New Travel Gold Rush as Michigan and Kentucky Expand Their Visitor Economies",
-      "link": "https://www.travelandtourworld.com/news/article/ecuxgg2rbhx0/",
+      "title": "UK Leads Slovenia’s Tourism Boom with 32.5% Visitor Surge as New Wellness Strategy and Carsus Trail Spark 2027 Travel Growth",
+      "link": "https://www.travelandtourworld.com/news/article/kz0utp6vf3lv/",
       "source": "Travel & Tour World",
-      "age": "23m ago",
+      "age": "18m ago",
       "dot": "info"
     },
     {
-      "title": "United States and Other Nations Connects Global Luxury Travel Companies With Destination Wedding Planners at Amour 2026 in Venice, Italy",
-      "link": "https://www.travelandtourworld.com/news/article/ilhoyfme23fj/",
-      "source": "Travel & Tour World",
-      "age": "28m ago",
+      "title": "Coming 5 November: Tokenomics in Hospitality, a free Pertlink playbook, published in partnership with Hospitality Net",
+      "link": "https://www.hospitalitynet.org/news/4135244/coming-5-november-tokenomics-in-hospitality-a-free-pertlink-playbook-published-in-partnership-with-hospitality-net",
+      "source": "HospitalityNet",
+      "age": "29m ago",
       "dot": "info"
     },
     {
-      "title": "War Insurance Dries Up for Gulf Events as U.S.-Iran Conflict Continues",
-      "link": "https://skift.com/2026/11/02/war-insurance-dries-up-for-gulf-events-as-u-s-iran-conflict-continues/",
+      "title": "Jamaica Strengthens Canada Tourism with 400,000 Winter Airline Seats as Cultural Experiences and Repeat Visitors Drive Growth",
+      "link": "https://www.travelandtourworld.com/news/article/j8ey6np5t3xc/",
+      "source": "Travel & Tour World",
+      "age": "31m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Proof, not promises: Updated guide helps tourism and events industry navigate new EU greenwashing rules",
+      "link": "https://www.hospitalitynet.org/news/4135243/proof-not-promises-updated-guide-helps-tourism-and-events-industry-navigate-new-eu-greenwashing-rules",
+      "source": "HospitalityNet",
+      "age": "37m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Discovery Hotels & Resorts Adds with Artotel and More Hospitality Brands Promoting Indonesian Tourism to European and UK Buyers at WTM London 2026",
+      "link": "https://www.travelandtourworld.com/news/article/4p8hzfdwt6pi/",
+      "source": "Travel & Tour World",
+      "age": "51m ago",
+      "dot": "info"
+    },
+    {
+      "title": "American Hotel & Lodging Association Names 2026 General Managers of the Year at The Hospitality Show",
+      "link": "https://www.hospitalitynet.org/news/4135242/american-hotel-lodging-association-names-2026-general-managers-of-the-year-at-the-hospitality-show",
+      "source": "HospitalityNet",
+      "age": "1h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Mandarin Oriental Introduces Restaurants, Bars & Experiences",
+      "link": "https://www.hospitalitynet.org/news/4135241/mandarin-oriental-introduces-restaurants-bars-experiences",
+      "source": "HospitalityNet",
+      "age": "1h ago",
+      "dot": "info"
+    },
+    {
+      "title": "China Aligns with Other Nations in Major Central Asia Aviation Push as Six Countries Eye New Flights and Tourism Boom",
+      "link": "https://www.travelandtourworld.com/news/article/qo5tzxyk25fx/",
+      "source": "Travel & Tour World",
+      "age": "1h ago",
+      "dot": "info"
+    },
+    {
+      "title": "Delta CEO Ed Bastian Slams ‘Short-Sighted’ Heathrow Shake-Up",
+      "link": "https://skift.com/2026/11/03/delta-ceo-ed-bastian-slams-short-sighted-heathrow-shake-up/",
       "source": "Skift",
-      "age": "36m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Renaissance Luxury Travel Workshop Heads to Chengdu as China Targets Premium Tourism Growth",
-      "link": "https://www.travelandtourworld.com/news/article/g3ejlyomai1r/",
-      "source": "Travel & Tour World",
-      "age": "39m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Raffles launches its first e-commerce platform",
-      "link": "https://www.hospitalitynet.org/news/4135224/raffles-launches-its-first-e-commerce-platform",
-      "source": "HospitalityNet",
-      "age": "40m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Germany and More DACH Countries Join Portugal’s Break The Ice Forum 2026 as Target Markets",
-      "link": "https://www.travelandtourworld.com/news/article/iamrufdh15pr/",
-      "source": "Travel & Tour World",
-      "age": "44m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Colorado and Other US States Brace for Powerful Winter Storm as Up to 24 Inches of Snow and Fierce Winds Threaten Mountain Tourism and Road Travel",
-      "link": "https://www.travelandtourworld.com/news/article/b20ezl5i6tec/",
-      "source": "Travel & Tour World",
-      "age": "47m ago",
-      "dot": "info"
-    },
-    {
-      "title": "France and More Countries from Europe to Participate in Renaissance Luxury Travel & Lifestyle Workshop China 2026",
-      "link": "https://www.travelandtourworld.com/news/article/vnahkyb8ni31/",
-      "source": "Travel & Tour World",
-      "age": "50m ago",
-      "dot": "info"
-    },
-    {
-      "title": "IDS Next Launches Pomolabs, New AI-Native Intelligence Platform for Hospitality Operations",
-      "link": "https://www.hospitalitynet.org/news/4135132/ids-next-launches-pomolabs-new-ai-native-intelligence-platform-for-hospitality-operations",
-      "source": "HospitalityNet",
-      "age": "50m ago",
+      "age": "1h ago",
       "dot": "info"
     }
   ],
@@ -238,21 +236,14 @@
       "title": "CUBA LOSES VISITORS FROM TRADITIONAL SOURCE MARKETS - Tourism Review Media",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU1ZEMjh4LWJhYm1aNVliZnZTNkdlTnFxeEF0YURqSEx1QjkzeFIzRktFUmhMVmt6eWFfckY3SVFPeFZwSFdVdEdOYTcxbTgtcHY3UWFzYmhITXh1WVloMEdvYzVLVWNDTUFaaUlPYmp6NXBFaFN4aTcwU1NTRzd2YUVfM09MWGpYYjZiQ3FKY1LSAZABQVVfeXFMT1NWRDI4eC1iYWJtWjVZYmZ2UzZHZU5xcXhBdGFEakhMdUI5M3hSM0ZLRVJoTFZrenlhX3JGN0lRT3hWcEhXVXRHTmE3MW04LXB2N1Fhc2JoSE14dVlZaDBHb2M1S1VjQ01BWmlJT2JqejVwRWhTeGk3MFNTU0c3dmFFXzNPTFhqWGI2YkNxSmNS?oc=5",
       "source": "Google News",
-      "age": "10h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Kenya calls out Saudi Arabia over ‘punitive’ Ebola travel restrictions - The Star, Kenya",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFBuVE1ac1VjMGxEc1MxWE10RjhvaHdYSUZGemNxT2RacGxlamoxcUd4VHlwLVRPa3VGQy03TXI1dW9RVFY5UjJ2WVpUVmM3VEthN2pwSjEwdTFBOGFZbGt6WVNXQW0wM1U1eVNkak4yYlZ6dWJjSXluYmhvSUZTaGVHZHB2ZVFhMWZONEtwVkJ1aC05MGFBbkRpbmk1dw?oc=5",
-      "source": "KTB",
       "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "Most Visited Countries in Europe: Tourism Statistics & Trends (2015–2025) - SchengenVisaInfo",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15ekJUTDBiU0xwRFZlQjl0NEhEelBiZnBrbVlDdDAwY0Zrbl9lVVZQVGdOMDltSUY5VWtSNk5nYllka201eF9QUENqbzQyamJ2LTROMnFTOFpsaXNNaG1hTnBmZnFtUm9pa3Q0?oc=5",
-      "source": "Google News",
-      "age": "27 Oct",
+      "title": "Abdulswamad Nassir says open-skies policy could boost Mombasa tourism - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEg5Wm5sanNjOHdfOFRKdDNBWGw5MnBKLVZSQ2RjNFZtXzZjMmpzZ3k4MnFSbENnamdvajNkaVNaU3NkTWVDeFItb3UzY0FSbXVSTDZpczB0T2NTOFg0UVNCdGYwU2N5WE1oQW9aVkpWUFlreEc3Qy1mRWxJSEdEOHctZTd2d1g3T2FsVlVtRjhDaTVJc2hnSE1naGlrcGJTVUs2MU5kR1BtM2xlVnB6aHVjOA?oc=5",
+      "source": "KTB",
+      "age": "29 Oct",
       "dot": "info"
     }
   ],
@@ -286,47 +277,19 @@
       "source": "OTA",
       "age": "27 Oct",
       "dot": "info"
-    },
-    {
-      "title": "EasyJet holidays puts summer 2028 programme on sale - Travel Weekly - Home",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0l3QVQ3LXlVaGRIUklCNGJ3T3hweDNGN0FVQnJUY2RBcEg1TUV0eGRQclJBcDZ0eDd6YlhBVUJGejhINHdjTDE0aEgxVkEwbEkwbUZWaXF6NVZVZDJWSmxkcmpNb3d2cExod05IWDNTUXY4M2NhbS1TalZwSXRsOENGSlpSUjFVWm5z?oc=5",
-      "source": "easyJet Holidays",
-      "age": "27 Oct",
-      "dot": "info"
     }
   ],
   "macro": [
     {
-      "title": "67% of UK Households Dip Into Savings for Everyday Costs as Festive Spending Looms - FF News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM19QZ09zRlhnUnBhRkhXQ1ByeGRsRm9Fei1mcGU0a0RaWmN3NTZZRU9yMFZ3SjBlLTVYQ1pBUGxFa3hKTTVabDNPQ2NBa21Pby1GSVZKRmI0UjdXTXJOTVF2eWw5VFNOQm9RSDhUUE85TDN3SGtmcUxpQmNyTmV5Ti1uVndUVktUanZkcUI2QlRtbUp6MWFWbw?oc=5",
+      "title": "Policy and tax changes continue to influence holiday let owners’ decisions, Cumberland BS finds - The Intermediary",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV3dXbVFfNmUtdWZKUHNnRW9EWGt1Ukp2UFhFaXFVSGF1czFDWVJPOGFyMUVUaTJFZGkzNWQ1bXNYNGpLQnZLaGVPWDZqLUl2M0dXOFFqYXhtME9DWU1ZYjRrSXlmYUgzWGVXemQ4a253U2FpVl84TXhiSVBqUTRHbkhUZXhqcHpubFNxVUFyVVFHeFFldV84N0dtU2pqUmIyLVFVX01tYkZobU5ISkgzbnNPZmJSZ25uNGZtRTc2RWNVN3FBMDZZaUJITl8?oc=5",
       "source": "Google News",
-      "age": "30 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "TUI discount codes for November 2026 – tested daily - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9zZlZMZlZRUjZGbnlaek02M0Z5VW9zNm5YNXFrbnAzc0d3NUlIcXNETDd0b3BWb1JpaEVydUhFcURBeVV5cFNob2U5T0ZLRWk0Wlh6bV9TWGxSV01aQ2R1V3lPWFpyLTc1WTMzaW5yN291MkE?oc=5",
-      "source": "ONS",
-      "age": "30 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "Tourism Ireland comments on overseas tourism for January-September and the rest of 2026 - Welcome to Tourism Ireland - Tourism Ireland",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRGNvUk9FZW1fc0IxUTQxSFNLQVdVcnNLdTBuUTNrQnY1OXVTNTI1ODNDZkVFd0FweHVSVE5zcWJUSURVd1NIWkwwb2dfWU8xVlFXV0JIMEJraUdCY3o1MVlNcWxKZjNrUUswVEVKck5OclVXRTd6Q1NzdTdtZHBxZ2xJN09BelVsRzV1aUtpWmx3ZTRnZUpBNVE3SmktUFJOZGtLYmF3YWNRWjhLUHBQUEhTUXdJRDBtRFp1LUtCcEZIdHlFUFJvWDlQQXpSUkNrdUpIenJDVWZpanhpempLbHlYMjYycHZEODRtb3VJSk5HbUVHYmNkYg?oc=5",
-      "source": "Google News",
-      "age": "29 Oct",
+      "age": "2h ago",
       "dot": "info"
     },
     {
       "title": "Safest Countries in the World 2027: Ranking the Safest Place to Travel - Berkshire Hathaway Travel Protection",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QN2YteVRXcVFHbTYweTJFa21vSW1VdmJBTFBtcnhBU2xpMklueG1JeVQ3WGhxNVdRNHJPREhWanhzTWszQTdhQ1lYWk4tcFpBZnZpTi1OaldGRWs0NGo4?oc=5",
-      "source": "Google News",
-      "age": "28 Oct",
-      "dot": "info"
-    },
-    {
-      "title": "UK Industry Fast Facts - IBISWorld",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMzd1Rm1YNFRvbVdfTThDeDBPREx4QzdDT0NHdkJFOXJxcnZTb2hRWGNqRm5BTEtpbFUyYUNZZ1Q3ak1velVUNmNkOS1FQUxQRkpHaWROUkgtUDlsSmRkbHduOW1VN1BZSnVpMkRTQQ?oc=5",
       "source": "Google News",
       "age": "28 Oct",
       "dot": "info"
@@ -341,7 +304,29 @@
       "dot": "info"
     }
   ],
-  "weather": [],
+  "weather": [
+    {
+      "title": "Jesús de Miguel Alameda cause of death: What happened in the CD Tenerife vs Andorra clash, and could Andor - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNQlYxOFVsOGJUN3o0NU1kYVcwZzJ3cTNtNVdvaFhQUmgxMzZKcWE0S3lkNnhCTzN6eXAxaE9KRGhXbEhKZGtLdFdPS0h4U1UzYlhOMTNuR0FDTUlEZFgzTW5aS1Q0UXNGYVVOYUtzcWthSC1xNUpLTExCU2hkTWx2SWlXYjItd0xJbEJPSXhPZjBpaW9qVXJHd3hwb0FMdXZxa2dYNmFRYTRnN0JkRWFxT05SNnMzdlp2UmpKZjRTb2JfaUVkZ2dtTFRfaXJlYUhFSmEwYTJHcVAzbUhGVTJyVU9XVnVXcDNUVEUtbk55OG9LZnRwa2ZjdGZGUkpBVUxfYUNIRHBwa1poYTgyb2RyUU1lZmV6S0JENzVuS1VndV9FaHhuUlFJLUNoX0lFVDBTTm5yc19CU1p2aUw5TmlxQVlZZ3dMT01JSUxza1V0MmtMRDJXR1VYdnJkd0NGSEJKR1dsMExFbk9pREFfX2Z5Mmh1TmR2VVpGaEM5OVBUcGFrbXNmbHdhLdIBjgNBVV95cUxOV2dnTTRxOTQxUVFnZDl3bzNhZjZBc1ZTZ2JFb0ZFV0Mya3ExZFpIblAwU2J3UUIwMWdHeGp0ZGxHb2xVV21TckZsNVFuUF8wZGlJTlZfM3paNGpQMi1TalRXTHZnT1dVV0t6MUxqdjRDT3VTNUtNYl96ZDN5WTFUQm5sbFBGaEx6WC1nQVlveGZ5UzVMUEg1QWhHaXhRLVVoUGFfdEFTX3I0M1Y1anMzV3FWVm5NaENzbzN2MWJWMDhWOTVYdDR6b3ZnWFUtQnRFaW43eGMxZUpKOEdzYWxyUmpQbTJ4Q1pMUzNPc3lNRnM5R1oyUV9XOFZ2T0JKa3d1T0xERnREd1pFRHpGRGNXQ1VLa2tOeVdqYks0NEF3S242eTFDUW9UMEMxMlNNZnNoWklvSHlLdjdpcFFpa1JrNnZYLWtxeVZjdl93aVNzQTc2WVJYaV9DSEFhNXNZMnpnQWxVc05WUkJvYWhlVE8yUUZvdHF2by0yblZJYVJhZWgxVzVmbE45WGxoSFFDUQ?oc=5",
+      "source": "Google News",
+      "age": "3m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Dua Lipa Explains the “Deeply Personal” Way Her Chanel Wedding Gown Honors the Dog She Shares With Husband Callum Turner - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsWHdzQ2NrYWZVcTdSS0lvbGVoSlo1elI1YzhwTGFwOVFmc0szdnJ0SERRWC1HUkJNWDZjZDRnTkt6RkpINWxlZjdxWnBVcnQ2MkNmR0kzQ3M1ZlVWY09FLU9hck12Z1FNcl93aFpfM3cyQ090N3ItUTNqd01hUnc?oc=5",
+      "source": "Google News",
+      "age": "yesterday",
+      "dot": "info"
+    },
+    {
+      "title": "This week’s weather on Lanzarote - Gazette Life",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TcjJxZERMRFhoa2VKRDFmblhOZ3dCYnF3eGxaZlhNX1ZwWmozYVREaElrUFVyaG05YVJkU0VVbnFneUNrTEh1d0ZIamJaZklpdm1TMllKVGJaRjdhaHh6bU1RVFQta0tDZW5UNldn?oc=5",
+      "source": "Google News",
+      "age": "1 Nov",
+      "dot": "info"
+    }
+  ],
   "reputation": [
     {
       "title": "Agoda Brings Its AI Assistant to India, Turning Trip Planning and Booking Into One Conversation - Elets CIO",
