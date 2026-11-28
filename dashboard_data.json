@@ -1,27 +1,27 @@
 {
-  "generated": "2026-11-27T16:29:42.586879",
-  "date_label": "Friday 27 November 2026",
+  "generated": "2026-11-28T15:21:34.320314",
+  "date_label": "Saturday 28 November 2026",
   "filter_days": 7,
   "summary": {
-    "total_stories": 62,
+    "total_stories": 66,
     "muthu_mentions": 1,
-    "competitor_changes": 1,
+    "competitor_changes": 2,
     "new_routes": 1,
-    "events": 2,
+    "events": 1,
     "weather_alerts": 1
   },
   "currency": [
     {
       "pair": "GBP / EUR",
       "val": "1.198",
-      "delta": "+0.004",
-      "dir": "up"
+      "delta": "unchanged",
+      "dir": "flat"
     },
     {
       "pair": "GBP / USD",
       "val": "1.312",
-      "delta": "+0.002",
-      "dir": "up"
+      "delta": "unchanged",
+      "dir": "flat"
     },
     {
       "pair": "EUR / KES",
@@ -33,35 +33,28 @@
   "trends": [
     {
       "dest": "Algarve holidays",
-      "articles_24h": 1,
-      "bar": 12,
+      "articles_24h": 4,
+      "bar": 48,
       "articles": [
         {
-          "title": "Holiday Travel Demand Diverges as Hotel Searches Rise and Flight Bookings Lag - Hospitality Net",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRU9uelp3VFZ6VVFwM002eHFNT0xfaVdqcDhERjQ0d2QxQ05vSlgzb1V5TUZURGE2TjF4UzJhYXk3LTB1b1BGWXN2VzNhNGNKTzJhTmpZdWVqX1RtUnQxYXczTnNvUm54cG5ObE1YQ2RGVFlWQklCc2dmazgyQlV6Z0VzTUIyWFNjMDNDR3NxbDNsYnRyUjgxOW9lUFZEdkZqZjFQMmZxRnpiUTFJM2RfSTdCMFE3aHVRcVhEQ053?oc=5",
-          "age": "yesterday",
-          "_ts": 1795695229.0
+          "title": "Golf contributes €4.4 billion to Portugal's economy and supports 94,000 jobs - Idealista",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ1oySGxtd2x4S0dpZ2M2djhmcXVXa1hzZG40c21uWW5BQTEwbVpVREFvRDNwS1hiM0FiSjZkTWZwZW9pcHF1eW1CN0JET1JGNV83UzdOTGZHVHJaT2EtRGQ3dnRMZFU1bkZxaVRSd1lhcjJoQlZtSjBsU0EtTmwyNUJyaXR1QVA0Sk90LXdkVlltWlFwQVAzNzVDenExWGgxZVgtVUlyUXlpWkZZc3JUSXI0UTBRODl0bHIyMXNMd1FlS2hjaFFJY0dWdGlOSmFBZGQxa0pKUmRaU0NQbWVhRHdxRQ?oc=5",
+          "age": "26 Nov",
+          "_ts": 1795680001.0
+        },
+        {
+          "title": "Lego to invest around €1 billion in new Portugal factory to meet growing demand - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3pXV3ZRUFpGREJVNXVFZkR4RVM3WVZOMGppZWFUQ1M0ZWJLU2gzM1llT2RaU1B3eHotZnRkQlZLdXJSeThtNmlxVWZzaGRvU3ZackkxRVUwTnRYY19Jb1F0TEFoTnZqdExuMnh3eE5zc1F3a1djRnBYQTlOQ2VzSE5id2lrMzMyMEF2aUJQU1BicE1CMXBJSm1ERlJFbTNrWFNzdzBlN2ZEWkMtdS03SkVnRUZWcDRzZERscnVQSUJTV1MzWXU0?oc=5",
+          "age": "23 Nov",
+          "_ts": 1795437751.0
         }
       ]
     },
     {
       "dest": "Tenerife all-inclusive",
-      "articles_24h": 9,
-      "bar": 100,
-      "articles": [
-        {
-          "title": "TUI discount codes for November – £350 off holiday bookings for Black Friday 2026 - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSU9zZlZMZlZRUjZGbnlaek02M0Z5VW9zNm5YNXFrbnAzc0d3NUlIcXNETDd0b3BWb1JpaEVydUhFcURBeVV5cFNob2U5T0ZLRWk0Wlh6bV9TWGxSV01aQ2R1V3lPWFpyLTc1WTMzaW5yN291MkE?oc=5",
-          "age": "25 Nov",
-          "_ts": 1795605797.0
-        },
-        {
-          "title": "Jet2holidays discount codes for November – £100 off all holidays this Black Friday - The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3k0aXFOQ002WVh3SWZiTF9tZmVuUURUNmFBNEh3eUlCMFY5QTZmMVp5V3pnWlhhUENwbWlxUkN1cklsaE8yLXM3UF9nX1R6MmZIYXJNb0lpaUozMmc5RllZMm9hQkFYeWJJNHBxZzZHdDlCLTM3aHAyQWhLUGUwZWlLaGtacDZLQ0E?oc=5",
-          "age": "25 Nov",
-          "_ts": 1795601326.0
-        }
-      ]
+      "articles_24h": 0,
+      "bar": 0,
+      "articles": []
     },
     {
       "dest": "Kenya safari",
@@ -77,13 +70,13 @@
         {
           "title": "The Black Friday travel deals actually worth your money - The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0tUemlhNW1IcG16MHBMWkEzbUhDaTBBX3ByT1lQdGYyVF8xRDVOdDFHLTZZaTRpNG02cGNEX2F3RGpiSGJKeEZHVXpWU3h3WGhpUmFyNnZfQ2o5dUNWc3hBYUZyNUx5X1oxM2NZQ1BWSEtzUERYWTllV3RER3ctSF9Uajd2bHJmalMtckRJTU45bDhQYkg2RUl5R2dzclFhNmN5YUhn?oc=5",
-          "age": "yesterday",
+          "age": "25 Nov",
           "_ts": 1795629600.0
         },
         {
           "title": "Black Friday travel deals are here: Save up to 65% on hotels, cruises, and more - USA TODAY 10BEST",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0QlJ1MW9ncFU1djFCbFgzWlRPaWM5b2hDSjZESzdMNTFwRE1OTGdCMmNjSXdIYV9wd296djRDNlM2WHNxb2V2Nm1TcEhrX1ZkOFc5ZHlqMVlrUllRVWhUNFZsQ0lGYUVpMGVEcUh3?oc=5",
-          "age": "8h ago",
+          "age": "yesterday",
           "_ts": 1795766400.0
         }
       ]
@@ -96,14 +89,20 @@
     },
     {
       "dest": "Jamaica all-inclusive",
-      "articles_24h": 1,
-      "bar": 12,
+      "articles_24h": 2,
+      "bar": 24,
       "articles": [
         {
-          "title": "Jamaica Is Making a Push for Cycling Vacations, With North Coast Rides and an Ocho Rios All-Inclusive - Caribbean Journal",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52QjdHYzZuY0JCUkcwNFpJR2V1eHBJU3BhZEN3NmFoeTd4SmUxVWR6N3VRNGgzZ210SU5BMTFZdF9rdmtSNk05bEtOdV9iMEM0Umg1b1pWaTBDOUNPaW1sRHpzZzlKNlltQ1pwMlQzMHBEYlAt?oc=5",
-          "age": "20 Nov",
-          "_ts": 1795200236.0
+          "title": "The 40 Best Resorts in the Caribbean: 2026 Readers’ Choice Awards - Condé Nast Traveler",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CLWJlbHBPd2lfNXIxWUc5WFk4akpPUmt4TUlrMGJOUXpIX2l5YnB1WG1kbTc5YjNocldXdlpycUJIZzJtM3FBcWV4cGF3TVNWbWNkU0wybGhyYnNEQ2Q5MWF0RW1IeUJRME9NVHpJdlphMU5tVTc1VTVBTUFjemM?oc=5",
+          "age": "25 Nov",
+          "_ts": 1795616929.0
+        },
+        {
+          "title": "Black Friday travel deals are here: Save up to 65% on hotels, cruises, and more - USA TODAY 10BEST",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0QlJ1MW9ncFU1djFCbFgzWlRPaWM5b2hDSjZESzdMNTFwRE1OTGdCMmNjSXdIYV9wd296djRDNlM2WHNxb2V2Nm1TcEhrX1ZkOFc5ZHlqMVlrUllRVWhUNFZsQ0lGYUVpMGVEcUh3?oc=5",
+          "age": "yesterday",
+          "_ts": 1795766400.0
         }
       ]
     }
@@ -119,73 +118,73 @@
   ],
   "industry": [
     {
+      "title": "Ras Al Khaimah Strengthens Green Investment Strategy at RAK Energy Summit 2026",
+      "link": "https://www.travelandtourworld.com/news/article/ras-al-khaimah-strengthens-green-investment-strategy-at-rak-energy-summit-2026/",
+      "source": "Travel & Tour World",
+      "age": "5m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Washington DC Begins Countdown to 2027 NFL Draft as Tourism Preparations Gather Pace",
+      "link": "https://www.travelandtourworld.com/news/article/washington-dc-begins-countdown-to-2027-nfl-draft-as-tourism-preparations-gather-pace/",
+      "source": "Travel & Tour World",
+      "age": "11m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Spain Advances Tourism Transformation Through Strategic Development and Stronger Aviation Connectivity Through Key Destinations",
+      "link": "https://www.travelandtourworld.com/news/article/spain-advances-tourism-transformation-through-strategic-development-and-stronger-aviation-connectivity-through-key-destinations/",
+      "source": "Travel & Tour World",
+      "age": "12m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Idaho Ranks Fifth Among US States With the Highest Concentration of Gold Sites",
+      "link": "https://www.travelandtourworld.com/news/article/idaho-ranks-fifth-among-us-states-with-the-highest-concentration-of-gold-sites/",
+      "source": "Travel & Tour World",
+      "age": "16m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Alberta Steals Spotlight As Rising Canada Visitor Spending Fuels Tourism Job Gains",
+      "link": "https://www.travelandtourworld.com/news/article/alberta-steals-spotlight-as-rising-canada-visitor-spending-fuels-tourism-job-gains/",
+      "source": "Travel & Tour World",
+      "age": "16m ago",
+      "dot": "info"
+    },
+    {
+      "title": "US Listeria Outbreak Linked to Frozen Shakes Kills 14 Across 21 States: New Alert",
+      "link": "https://www.travelandtourworld.com/news/article/us-listeria-outbreak-linked-to-frozen-shakes-kills-14-across-21-states-new-alert/",
+      "source": "Travel & Tour World",
+      "age": "23m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Poland Shocks European Tourism Market With a Powerful 2026 Travel Boom",
+      "link": "https://www.travelandtourworld.com/news/article/poland-shocks-european-tourism-market-with-a-powerful-2026-travel-boom/",
+      "source": "Travel & Tour World",
+      "age": "24m ago",
+      "dot": "info"
+    },
+    {
+      "title": "Uganda And Guinea-Bissau Eye Tourism And Investment Boom In Kampala Talks",
+      "link": "https://www.travelandtourworld.com/news/article/uganda-and-guinea-bissau-eye-tourism-and-investment-boom-in-kampala-talks/",
+      "source": "Travel & Tour World",
+      "age": "29m ago",
+      "dot": "info"
+    },
+    {
       "title": "Leonardo’s UK Loss Shows the Cost of Renting Hotels",
       "link": "https://skift.com/2026/11/27/leonardos-uk-loss-shows-the-cost-of-renting-hotels/",
       "source": "Skift",
-      "age": "22m ago",
+      "age": "23h ago",
       "dot": "info"
     },
     {
       "title": "Hotel Tech’s Shelf Reaches 1,900 Products, Everyone Courts the Small-Company Traveler, and Promises Go Missing Between Sales and Operations",
       "link": "https://www.hospitalitynet.org/editorial/4135730/hotel-techs-shelf-reaches-1900-products-everyone-courts-the-small-company-traveler-and-promises-go-missing-between-sales-and-operations",
       "source": "HospitalityNet",
-      "age": "27m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Norse Atlantic Collapses as Norwegian Arm Files for Bankruptcy",
-      "link": "https://skift.com/2026/11/27/norse-atlantic-collapses-as-norwegian-arm-files-for-bankruptcy/",
-      "source": "Skift",
-      "age": "27m ago",
-      "dot": "info"
-    },
-    {
-      "title": "The technology of independent luxury: why Small Luxury Hotels of the World likes to keep things simple",
-      "link": "https://www.hospitalitynet.org/opinion/4135729/the-technology-of-independent-luxury-why-small-luxury-hotels-of-the-world-likes-to-keep-things-simple",
-      "source": "HospitalityNet",
-      "age": "35m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Hotelbeds’ $112 Million Bet as Its Core Business Comes Under Pressure",
-      "link": "https://skift.com/2026/11/27/hotelbeds-112-million-bet-as-its-core-business-comes-under-pressure/",
-      "source": "Skift",
-      "age": "47m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Greece Welcomes a New Wave of Luxury Island Holidays as Simpson Travel Expands Its Reach",
-      "link": "https://www.travelandtourworld.com/news/article/greece-welcomes-a-new-wave-of-luxury-island-holidays-as-simpson-travel-expands-its-reach/",
-      "source": "Travel & Tour World",
-      "age": "49m ago",
-      "dot": "info"
-    },
-    {
-      "title": "Munich Airport Deploys 540 Workers and 175 Vehicles for Winter Flight Safety",
-      "link": "https://www.travelandtourworld.com/news/article/munich-airport-deploys-540-workers-and-175-vehicles-for-winter-flight-safety/",
-      "source": "Travel & Tour World",
-      "age": "1h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Switzerland, US and 115 Other Nations Enjoy Visa Free Travel Boosting Egypt Tourism",
-      "link": "https://www.travelandtourworld.com/news/article/switzerland-us-and-115-other-nations-enjoy-visa-free-travel-boosting-egypt-tourism/",
-      "source": "Travel & Tour World",
-      "age": "1h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Your Best Client Didn’t Leave Because of Rate",
-      "link": "https://www.hospitalitynet.org/opinion/4134967/your-best-client-didnt-leave-because-of-rate",
-      "source": "HospitalityNet",
-      "age": "2h ago",
-      "dot": "info"
-    },
-    {
-      "title": "South Africa Enriches Luxury Holiday Travel with Four Seasons Johannesburg Celebrations",
-      "link": "https://www.travelandtourworld.com/news/article/south-africa-enriches-luxury-holiday-travel-with-four-seasons-johannesburg-celebrations/",
-      "source": "Travel & Tour World",
-      "age": "2h ago",
+      "age": "23h ago",
       "dot": "info"
     }
   ],
@@ -201,7 +200,7 @@
       "title": "Vila Galé — Black Friday at Portugal and Spain",
       "source": "Vila Galé",
       "link": "https://www.vilagale.com/en/promotions",
-      "dot": "new",
+      "dot": "info",
       "age": "today"
     },
     {
@@ -226,17 +225,31 @@
       "age": "today"
     },
     {
+      "title": "H10 — General offers",
+      "source": "H10",
+      "link": "https://www.h10hotels.com/en/offers",
+      "dot": "new",
+      "age": "today"
+    },
+    {
+      "title": "H10 — Explore our hotels",
+      "source": "H10",
+      "link": "https://www.h10hotels.com/en/offers",
+      "dot": "new",
+      "age": "today"
+    },
+    {
       "title": "Black Friday hotel offers bring up to 55% off Barceló stays, so next year’s business diary can leave room for winter sun - London Business News",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWkppX0lDa253YW5LUFJmeHB3bGlzRHdwN2hYald3TFlCME9BRVl5dWlhMkhzT01MbEdqZU5oaWY0NFlQcTc4eGFBcEpsVXZ2cTNEUnlCdXltbFlnWFBiZGV3YUFUYXZFQ3hQZklSM2tMVGExZld6RkY1N3BSTlVER25ta1pycFA3U1JWRVkyM19VNmRhNXdOa1BISDU0emVXNGJIdEIwbUVKOWpFYzIwZFNwYVhBa0wwdDZvblJjYTZ3eGJOUVlVaUt1WTI0OU16RUdNMDRpTlpUZzlRSkxCTjdBUXc?oc=5",
       "source": "Barceló",
-      "age": "yesterday",
+      "age": "26 Nov",
       "dot": "info"
     },
     {
       "title": "Top Black Friday Travel Deals for 2026 - TravelAge West",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMF9lTnh3RHhkVWN5eWxyQjY3MjZFb3lRTWZ6X3Jza3F0V3VqNURTdy1ReWZwVTJzLTgtNGVyaWhzOUx2Q3pYazFMRi1RbmdYYzJIXzh6TlV6UlZHMlBlbmpVWmcwR2k1NjNQeW5NZjRsYTJpTVpKeXZDcFVoMmVnQWdvZFQxUUFmdkdsZ1NsNVZIc3RJUnpuTnF4OA?oc=5",
       "source": "Lopesan",
-      "age": "yesterday",
+      "age": "25 Nov",
       "dot": "info"
     },
     {
@@ -245,56 +258,35 @@
       "source": "Barceló",
       "age": "23 Nov",
       "dot": "info"
-    },
-    {
-      "title": "Where to Find the Best Black Friday Resort Deals in Mexico in 2026 - TravelPulse Canada",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVm16bnBuSHlaR0VIQzNndlAtREEyZHFGOHdBNk1scGJ0RkY0cFFITEFCaHBGQjBzd3FnVzJaa2ZYeDloZHM5VThWOUlBcEFKY2k1NXJvSHlZbkx6OU5mU0E1dlNiVkJBT2s0RVRscEhCQ21FWlhxVmRtN0o5UVZwWWxOTURCcHlLNXNFcW13bDRoM1RRYzVDVldvSFhhbEJVc3VoT2dvamhHZDVlbnBlanB6N2lyeVgw?oc=5",
-      "source": "Lopesan",
-      "age": "23 Nov",
-      "dot": "info"
     }
   ],
   "tourism": [
     {
-      "title": "October 2026 Tourism: Arrivals Down 2.7%, Nights Steady - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzdlb0t4cGYwbm9NcEhsMUNGbzRMQ1J2Nlh5ZHpGaV9WZDVsUTdVQi1wUWVKcnhEMlphY0lfU2E1WlpLVGdwYlktUWRRTzJ2S2hWbnNWQXdwTlc0SkJ5bHl6WVAwLWV2SEw3NVJ3WlFaWUU0WVNDWDVWX3VhTnpRZ1Y3Yk9LRGdDVXNPRm14eWNPNWc?oc=5",
+      "title": "France ski resorts 2026/27: prices and booking trends - KarloBag.eu",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeG14M0FYekpmU0xKU0J0dXNZZjRYbENwdzVWcUNqdlhwOHMxRU1CUDlUMHItakNaaDFyb3BGUzYyajFkeWlvQjBqUUEyLUFOd1E3TmlCOXc5allvMmNNWUdUTC1WOW1EVmlVR3ZTai1uLVpoWHpGTGtDOEZPblg2c3FjZWxLbFV4U1Y0eWZxYy1Uamt0bEcxbzQ4dFZvWi1JV09DV2tpMTZLeU5GRzllMFFEVEhyWlVQ?oc=5",
       "source": "Google News",
-      "age": "5h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Summer 2027: UK trends in early holiday booking patterns - KarloBag.eu",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUM3WERGc0tmTjlEaEgwTGgxam5RdzVyVElzSTd6eFhwMzcwUS1TNEo2cHZ3UUhMekZKSHZsOW9RUVFpdzJjektTbThaejhWWnlJQWFSTFkyNndFd3N5cE00VEhmaWFQaGZOaHdDVW1iel9LT3NZLTZMVFBSZnl6WG1ZNXhqZGx0UGJiRTd4bzktMGNmZkFCQnFFdXhzdGpWSDhXZ2kyNWF3SVN0RmRCMlVSeExjNWR2?oc=5",
-      "source": "Google News",
-      "age": "6h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Ella Resorts: €1.15 Billion Investment Plan | Expansion into Italy and Spain | Concerns Over 2027 Bookings - money-tourism.gr",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOamp6OWt1eDdLSThhTHFCYmZpMm9ub0tUdnhXcnlEaWx3dV8tOFdsOHBiN1lXRUJVaHB4dzgxOWhkQmpkbng3VGRfMDZUMFY2cU1kRnd2V1o2WVlzUC02M1RMZmRYRkJ3WExvNVY3M3MzRFVGT2hESXpBQVM0czdyNlVOLWFuOVh5c2VSbG9qOTlFYWN1TzFJcGRQQ1A0RjRsUFpDS203bW1idzRUZk4xMll4cW1sMjBiVENuRmhGSFlEMnFwWjRSWnZR?oc=5",
-      "source": "Google News",
-      "age": "22h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "Holiday Travel Demand Diverges As Hotel Searches Rise and Flight Bookings Lag - Hotel News Resource",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iWktSZ1NDdVBwQVZ5aGxWRk1oMHJJSlJOS0NwazNiaFZUVWd3N29OY204aWxNamlhcjZvS2FyNTNETkRTSEZadG1fZ2tUNGZ5RXNWWnlaUWtpQ19IeE5FMVp3?oc=5",
       "source": "Google News",
-      "age": "23h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
       "title": "Thomas Cook India launches Europe Summer 2027 holidays with early-bird offers - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREhscjA2aFVLOUI3Q3JjOEs4U1gwZHo4U0pMSFlrREtXM0VtWkhvM2sxRFNkVW5YUHJvNWVuYzJjM18wOGU4Y0ptenNYYTRfMlZkUkY0T0NSUUdqcWxNTWhGRG4tR0lvRWEyaXlpcDdXMXIyWXVYYjdoZWlxUzZkbVM2SUJyNGI2Rl9vT0VaYWQyZDRfaUd6MWM4ZGJFbHFIRGpXV0lNM1lqN3NXTXBzcHVGbHloOWg4U0pERGxNZw?oc=5",
       "source": "Google News",
-      "age": "yesterday",
+      "age": "26 Nov",
       "dot": "info"
     },
     {
       "title": "‘Axe this tax!’ – Highland Council visitor levy branded ‘economic vandalism’ risking a £70 million hit for tourist industry - Strathspey Herald",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1d6cmdMWU5uMUw0dDBPM1dXZzcyRHVJbjFnWU9YYjJNZWN0VUc2dmZ0VTVMRXFCcEJ3TFdrd0lkeUN0Z1ZBLVdrUUJUczFaYjIzUFRsN29SVzUwX3BrYmM0bFVLQWszZmdkY0ZIUHlFR3d0VjB6MVhGWkphSW5jYk9KM1NqNElreVpQeFg4ZC1JUk9qMU5sUXl5RktTRUdKakFJbFh3?oc=5",
       "source": "VisitScotland",
-      "age": "yesterday",
+      "age": "26 Nov",
       "dot": "info"
     },
     {
@@ -305,9 +297,9 @@
       "dot": "info"
     },
     {
-      "title": "LOCKERS VS CHANCERS: EARLY HOLIDAY BOOKERS OUTNUMBER LATE-DEAL HUNTERS FOUR TO ONE FOR SUMMER 2027 - TUI Group",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeXRGZjFHTGFTSm9JWTgxY0hhN19PSVI1M1RRXzFvZDNIVE9Yd2loSVhkdFpoeXV2aE5YaGNBR25ZMzBseE1jWVJ5MEZjY3NCRU1oOFI4YjRxY3l5UW9UTnpfTzVPUVVXUTgwWmhTaDdVR1JiMlhYUDZ6NW5OYmJzNjdxUktWR3hKbVI3S1QyVS1qYnRDT2x6Ny1CWFp2SzJTZUt2MmE4OXFEUnNUTEdRdVNMNEQ4Uy16SkRSVFh4a2htSW54VUp4dURURlFDU1htelNYWEN3?oc=5",
-      "source": "Google News",
+      "title": "Scottish Tourism Alliance sets six priorities for Scottish Budget - Larder Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3JyeGJOLVB2TTRzU1FwLWowT0JTb2kzaVZmcko0cjN6R3UyTFdQWHRtMTRvR3NxUFl2WE9xTFN0UEpPYTdTTlZXTXZyT3hJWEFzUXZ0UzRZczV1OFNOY3c2czdRT2NjVjZVdlNMdjhNN08yWWJycVhkeWt4UVotekdNdmFDNXhQdm5oZzdSSmJrUmlv?oc=5",
+      "source": "VisitScotland",
       "age": "24 Nov",
       "dot": "info"
     }
@@ -326,51 +318,37 @@
       "title": "These Black Friday Hotel Deals Will Help You Save Hundreds on Your Next Getaway - Condé Nast Traveler",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41UjktREpvY25CMkZuZzVURFNseWZLRXZnR2ZROEJNdzMzblYtTkdnZWN0VGFHMS1DTzZZQ0dIZHY1bjhWUXZJU0lsZ296UGVOblJnanJva2FHWmI3VjFiWXN2WFVtSjVSYXNXQ29FM0dwaTJCaVJ3?oc=5",
       "source": "OTA",
-      "age": "6h ago",
+      "age": "16h ago",
       "dot": "info"
     },
     {
-      "title": "Everyone Talks About Retiring to Portugal. Fewer Talk About the Tax Break That Ended or What Returning Costs - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV0tJcWk3em05ZU5LRWVyckM1NWhOY3J5NmN2SFR3MFBKaGVTU3Fqck9JRlZ0cEM2cVYxNlB3OHh1U1JmLU9Sb0NIS2FyMXAyZUFfZlZFLVRSWUhtWVhvRnpXUEM3V3FwNDlYaHI5TFgzLUJzUkpGRDQ1MjVwNG9YRm5mUVVrTmJXaHpMQUZoYkNhd1RVSDdMT2lDNWRJV2EtTDdWdmdKdk9XOVRPOFgweWpWQzlZWTVpSWdvUllxcTZENUtyTGZvWG5HZVB5c3pLUkhGQUNIc0x3VjduQkYxUU1HbXR1UVhGVFFVTjktZw?oc=5",
-      "source": "On The Beach",
-      "age": "24 Nov",
-      "dot": "info"
-    },
-    {
-      "title": "Early Travel Tuesday Deals Are in Motion—Save on Bookings With Expedia, Hyatt, and Celebrity Today - Condé Nast Traveler",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmlydWFtLUdkWDZMN2NTVGcyOWVJZ3U1UGJsQWZKUVRfVXNsdmZDMzF4SFA3MG5janJmblFzRkFUUXVJc1JoTS1qTTVSalJ0RXhWa3JMeHVkUFhVMFY1Mm1ubUhxRTRmLWlkUEpEX0dHMk03cjRneE1sajZGME1pNQ?oc=5",
-      "source": "OTA",
-      "age": "20 Nov",
+      "title": "Brits ditch the winter chill for Tenerife as cruise bookings rise 42% this winter - TUI Group",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ3Fndk92OVQ1Q1hoUGJWVG9lUjd5Q04yQnJlQ2VmYXpNR1dGREx1dDh2RjFEMzI1amMyNlI3WEtFTkVEQmlZaUx5MVdFS0RnTG1LWC1qY1JZejhNcmFCekk3ZFZoVG9tRzRFV0NiOGR0RWRoNkJXb1pZalM0czg3dGhwdWxqU1RUTEtTUVhHcmJwZUtockdtcDBzY0g0Y3lGM3hNbEZFWkp5Q0U0OExLZC1sNzBIS0NiUjRDN0ZMZw?oc=5",
+      "source": "TUI",
+      "age": "yesterday",
       "dot": "info"
     }
   ],
   "macro": [
     {
-      "title": "Bank of England Forecasts £100 Monthly Mortgage Increase - cwibc.co.id",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSEtvaHhuZ1ZscUphS2RaOWc2NGxDNmtSUGRqUWN4MXpNdl9QcnZ6bWZEamE2dUZ0ZWRDSkZSMnpLNDdJdWdDekJGc0hOd2Y2dUNrTTJIQVgzeFcxeUhPeQ?oc=5",
+      "title": "UK retailers face solid Christmas but higher interest rates threaten spending in 2027, says Shore Capital - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2EyYV9IbExWWjN5WGhWTDdZZjNNT2VVMGlXN21lb1N0WnE2Q3hYc25jb1FIMnAyeGlCNk9jbGZUc1BaMHltSUVnSjBMWXJmdkVyYWRMSnNjUjgxVEtYX3RzazRMeGRUQjR2Z1J0SkFGWHBoM2xFZVVFbVhublBnNXVtZE5VT2FaN2c?oc=5",
       "source": "Google News",
-      "age": "9h ago",
+      "age": "yesterday",
       "dot": "info"
     },
     {
-      "title": "UK travellers protect holiday spending despite pressure - KarloBag.eu",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2t2NVQySGNSU2Njc01ORGZYWWhaT0tUSk1pV1I1NFpJU2xtd09FQ2xXUmJwdndkOFBiUllVM25lTkR4YlNlVW5qbEFobkIwd0hfNm5tVHlaSk9MM1ZENGppcjFaRm1MSThHUmt5dElNVXkzX0VWckNwX19TN002elRtejBfWVlIQ0ZRTHZIV3AzOGRpYnZydm03NWFuc1UxalRucWJYaDNrYXpIeDdBT3dxVVIwQ3pn?oc=5",
-      "source": "ONS",
+      "title": "Bank of England Forecasts £100 Monthly Mortgage Increase - cwibc.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSEtvaHhuZ1ZscUphS2RaOWc2NGxDNmtSUGRqUWN4MXpNdl9QcnZ6bWZEamE2dUZ0ZWRDSkZSMnpLNDdJdWdDekJGc0hOd2Y2dUNrTTJIQVgzeFcxeUhPeQ?oc=5",
+      "source": "Google News",
       "age": "yesterday",
       "dot": "info"
     }
   ],
   "events": [
     {
-      "title": "7 Luxury Winter Sun Destinations & Getaways for 2026/27 - The Arts Shelf",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qdEV1NHZXaHdQSDBvREFucjlOeVYtNFotLUthb1BqR0llV05kY1NHYlhEQzJjU0g5M3ZVcGU3NmE1ZGxzSnMtbUNGVEtfRk1pVHJYNHhabGpMTnRTc1hEeFJDVmFfSWRzTXA1RXoyWGFYMnpaNVE?oc=5",
-      "source": "Google News",
-      "age": "19h ago",
-      "dot": "info"
-    },
-    {
-      "title": "Silent film «The General» with live music in La Laguna - Teneriffa News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzJVS0xGN3AwTXpMZHdiSUpUX0J0Z0ptU2xZSGZLMFZIQ2NPdFk1V1c2MnhZNG9rM0tKSTc5dWJVemVfdk5xYWxZbTJ0QWwtSTJhc1JfaHQxcnhTNklNdDYzWFh1RVhtem9EeXI2Z0pEdVZpcWUwdE9vVmRJcWZpa3dIQzF2Ql90RExNLXFLeWk?oc=5",
+      "title": "The Innocents: Stories for adults with Quico Cadaval - Teneriffa News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcFJ2QjNBTXZkUno0b0xkU185Z2sta0VDMFlyU0JXb2U3X1d5SFpYN2ZSZjlmbE5hTGxTQWR5djdYVDBNYjVWc05ZMlhBMmN0RTlJQ28yRFRmRDFFbkdqY01oVzk2dDc1V3NhamU2OWJzZ3ZhcFJ2RkQxN0lZbFRqeVVBeTFHUnhsSlJSUzhMenl0d2lDY2lBRUNaMA?oc=5",
       "source": "Google News",
       "age": "24 Nov",
       "dot": "info"
@@ -378,12 +356,34 @@
   ],
   "weather": [
     {
-      "title": "Portugal storm changes course as Algarve remains under red alert - The Portugal News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzNrVC1DcFBVOUd5dTRHeUtpNHc5UklxcVJlZEtRQ0RRaVBMSHZhc1RyNC10eXJqaHdnbjdPalBqWjg5R1hKLVJfQVRpUFhxVHpLVWJqZXNHOWZOQWVpM0YySXhsUXgyNDhFbm9mb3dDUEhla1N2bWx5MV9IMHJaLTVVeVJSYnpjZXJ1NjhSZFFFUTRIWTBaRHF2d01McDBKVlB3ZmtTYU9hRUNYS2NESUJlUlJwenRwel9CXw?oc=5",
+      "title": "The six warmest holiday destinations in Spain for winter sun - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHA1N3JKMUZXS1lHUERpMk01WHpyZXBDcmNTMHFMekR0SThEV0pIMnZfRlFYa0pFblpJYktDUmNRU0I1RUJScjVjME5JbWkzWkpGaUcwSGlwWlp5ZlZjUUNNc2hQaklmQUVHeDBUVzFvX29tbmFyS0JYd3Q1Mi1ySW9oekpmWEpORGtVbERrWjRrQ09wWDk0QjJjMzY4ZU4ydmNRQXhrRTVuQQ?oc=5",
+      "source": "Google News",
+      "age": "25 Nov",
+      "dot": "info"
+    },
+    {
+      "title": "Where is hot in December? The best holiday destinations for winter sun in 2026 - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlgzQXV6V3Q2RVNXQ2pMN2l2Z0htcGlQTTYwTVF6OHFnT1VGU2N2QUdtNVNLT1k4WDJMSXRZWUJ0a3FYVWprRE1xbzlxWTNkekpLVV9VMnJuTlNiN0UweHhWZnhsNk4zZFRzNndQWmtpSlM1bzhhdlNQcWlweEZid0YtVklNbHJPY0dVbHR0c0RRT002SXNJRUJRZzJfcXlCMnhBMXJaeDNQZGFMMTVlWG1rUzY?oc=5",
+      "source": "Google News",
+      "age": "24 Nov",
+      "dot": "info"
+    },
+    {
+      "title": "Storms, heavy rain and hail forecast as weather warnings issued - The Portugal News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkU5VmhMc3g4MmNTMHFiZmh2ZzNfYThaYUJZck9SalJyLWtwSFYweFRkSGtOeU1lbnNfVnduVUk3OGktdV9zVUNwT3VBMmJSTzhVRzRmU19lU0p6S0ZfR2hjRWZ2ZURhSmpLM1c1U0dRdVQyQ3BzWDJJenN2MGFTVnVsNmVXUWRnU3A2TmY4c0RLcFl1SVNFV0JkNk5mRVJzUzVxOHJ2M1NvX293MlBseXdOamhReXowdEE?oc=5",
       "source": "Google News",
       "age": "22 Nov",
       "dot": "info"
     }
   ],
-  "reputation": []
+  "reputation": [
+    {
+      "title": "Algarve crime figures fall as minister reviews regional security - Portugal Resident",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRk5LZl9kaGRyWHJoN242LVBmajl6OWpHR3kwbnh3LTlMaHZEamp6WENzZGVETFBBNkdldloyVm9ZMFEtSEgtZkd3bFE2YS1wRnJ3UUVldnJ4ZUVJc1hEbDE5am1IUGRjZ3lDUWlkb25Ra3hWbGtld0l5ZGx1WFVqd2p3WmRZUFNmWTJhQ1FRUQ?oc=5",
+      "source": "Google News",
+      "age": "24 Nov",
+      "dot": "info"
+    }
+  ]
 }
